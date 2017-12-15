@@ -68,8 +68,8 @@
 
 * once you make sure it is running, properly, you will see cgminer running.
 * Now, let's make it automated in two different ways.
-  1. by creating a start script
-  2. by creating a config file
+  - by creating a start script
+  - by creating a config file
 
 * auto-start the cgminer when raspberry pi reboots
   - many many MANNNNYYYY times, the raspberry pi or the mining hardware will fail, or suddenly stops working.  Or power goes off or whatever the reason is, you need to restart the raspberry pi.  You don't want to do the bootup and start the cgminer every single time.  You do want it to auto start.  And here is what you need to do.
