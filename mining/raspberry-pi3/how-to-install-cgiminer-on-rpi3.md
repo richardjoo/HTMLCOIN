@@ -11,16 +11,16 @@
   - use etcher for MAC
 
 * setup the raspberry pi
-  1. start the rapsberry pi and make sure you see the raspbian desktop loads up properly
-  2. make sure to setup your network either via ethernet or wifi
-  3. now, go to raspberry pi config software from the raspbian desktop
+  - start the rapsberry pi and make sure you see the raspbian desktop loads up properly
+  - make sure to setup your network either via ethernet or wifi
+  - now, go to raspberry pi config software from the raspbian desktop
     - set up hostname
     - update the user `pi` password
     - change timezone
     - change keyboard and language
     - enable ssh
     - enable vnc
-  4. open up the terminal and do the following
+  - open up the terminal and do the following
     - `sudo apt-get update && sudo apt-get upgrade`
     - install screen
       - `sudo apt-get install screen`
@@ -29,13 +29,13 @@
     - install ssh
       - ssh is something you need to have so you can access your raspberry pi from other machines.
         - `sudo apt-get install ssh`
-  5. now, it is time to create a screen.
+  - now, it is time to create a screen.
     - screen is good old day's remote desktop access.  We as a developers still use screen command a lot for many reasons, but here we go.  I will explain more later.
     - let's start the screen
       - `screen -S cgminer`
     - when you do that, you may not notice anything, but you created a something called "screen" and logged onto the screen session.  Why you need this?  This way, you can safely close your terminal and yet your cgminer will still run.  Without this, when you close your terminal, the cgminer will not work.
     - secondly, once you establish this, you will be able to access cgminer and raspberry pi from your another computer remotely.
-  6. now, it is time to install cgminer! :D
+  - now, it is time to install cgminer! :D
     - `sudo apt-get update`
     - `sudo apt-get upgrade -y`
     - `sudo apt-get install -y build-essential git libusb-1.0-0-dev libusb-1.0-0 libcurl4-openssl-dev libncurses5-dev libudev-dev screen libtool automake pkg-config libjansson-dev`
@@ -65,7 +65,6 @@
           - `./cgminer -o stratum+tcp://thecoin.pw:3800 -u workername -p password`
         - PPC
           - `./cgminer -o stratum+tcp://us.multipool.us:3335 -u workername -p passwrod`
-
 
 * once you make sure it is running, properly, you will see cgminer running.
 * Now, let's make it automated in two different ways.
