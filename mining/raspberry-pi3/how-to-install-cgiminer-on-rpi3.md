@@ -66,10 +66,10 @@
     - `./cgminer -o stratum+tcp://us.multipool.us:3360 -u your-worker-name -p random-password`
       - so, the reasl example would be like this:
         - DGB
-          - `./cgminer -o stratum+tcp://us.multipool.us:3360 -u richardjoo.1 -p 1945`
-          - `./cgminer -o stratum+tcp://thecoin.pw:3800 -u richardjoo.rpi3 -p 777`
+          - `./cgminer -o stratum+tcp://us.multipool.us:3360 -u workername -p password`
+          - `./cgminer -o stratum+tcp://thecoin.pw:3800 -u workername -p password`
         - PPC
-          - `./cgminer -o stratum+tcp://us.multipool.us:3335 -u richardjoo.1 -p 1945`
+          - `./cgminer -o stratum+tcp://us.multipool.us:3335 -u workername -p passwrod`
 
 
 * once you make sure it is running, properly, you will see cgminer running.
@@ -79,7 +79,3 @@
 
 * auto-start the cgminer when raspberry pi reboots
   - many many MANNNNYYYY times, the raspberry pi or the mining hardware will fail, or suddenly stops working.  Or power goes off or whatever the reason is, you need to restart the raspberry pi.  You don't want to do the bootup and start the cgminer every single time.  You do want it to auto start.  And here is what you need to do.
-
-
-* when I am done, share it with
-  - Bilal Zahid Rana
