@@ -17,8 +17,9 @@ cd HTMLCOIN
 
 while true; do
   echo "$count: $(date)"
+  echo "$count: $(date)" >> wallet-mining.log
 
   # change the address to your address
-  src/htmlcoin-cli generatetoaddress 100 YOUR-RECEIVE-ADDRESS 7777777
+  src/htmlcoin-cli generatetoaddress 100 YOUR-RECEIVE-ADDRESS 7777777 >> wallet-mining.log
   (( count++ ))
 done

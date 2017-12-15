@@ -1,11 +1,13 @@
 ## How to run generatetoaddress from command line infinitely
+* Current Version: 1.1
+
 I assume your wallet has been successfully installed and running.
 This script works with linux and ubuntu mate on raspberry pi3.
 
 * download `htmlcoin-cli-mining.sh` file.
 * if this file is not executable, run this
   - `chmod +x htmlcoin-cli-mining.sh`
-* open the file with your favirite editor
+* open the file with your favorite editor
 * on line 16 `cd HTMLCOIN`
   - if you want to run this script from the root, then find the path to your htmlcoin wallet folder and change to the correct path
     - for example:
@@ -72,6 +74,37 @@ This script works with linux and ubuntu mate on raspberry pi3.
       7: Thu Dec 14 23:05:25 PST 2017
 
     ````
+  - when you run this code, the code will create a new log file, `wallet-mining.log` under the wallet folder.
+    - you can monitor the mining status by running the code like this
+      - `tail -f wallet-mining.log`
+      - hit enter.
+      - and you will be able to see like this:
+
+      ```
+        root@rpi3-ubuntu:/home/rjoo/HTMLCOIN# tail -f wallet-mining.log
+        838: Fri Dec 15 14:33:51 PST 2017
+        [
+        ]
+        839: Fri Dec 15 14:33:59 PST 2017
+        [
+        ]
+        840: Fri Dec 15 14:34:07 PST 2017
+        [
+        ]
+        841: Fri Dec 15 14:34:14 PST 2017
+        [
+        ]
+        842: Fri Dec 15 14:34:22 PST 2017
+        [
+        ]
+        843: Fri Dec 15 14:34:30 PST 2017
+        [
+        ]
+        844: Fri Dec 15 14:34:38 PST 2017
+        [
+        ]
+        845: Fri Dec 15 14:34:45 PST 2017
+      ```
 
   - when you see nothing between the brackets, that means you did not mine anything.  If you see seomthing inside like example below, then you have successfully mined the coins!
 
@@ -81,8 +114,13 @@ This script works with linux and ubuntu mate on raspberry pi3.
       ]
     ````
 
+
 * WARNING
   - this was confirmed bug from Peter that if you put `999999999` for the loop, then you will get an error and it is confirmed bug and Peter will fix this issue.
     - for example:
       - `src/htmlcoin-cli generatetoaddress 100 YOUR-RECEIVE-ADDRESS 999999999`
         - this will throw an error
+
+* History
+  - 2017-12-15 `wallet-mining.log` is used to keep the history of mining.
+  - 2017-12-14 file created
