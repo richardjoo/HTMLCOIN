@@ -19,6 +19,6 @@ while true; do
   echo "$count: $(date)"
 
   # change the address to your address
-  src/htmlcoin-cli generatetoaddress 100 HmrmxFYRoirbGHpQwMj1hWyMixFVbbSTdy 7777777
+  src/htmlcoin-cli generatetoaddress 100 YOUR-RECEIVE-ADDRESS 7777777
   (( count++ ))
 done
