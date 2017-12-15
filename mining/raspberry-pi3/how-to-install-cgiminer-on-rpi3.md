@@ -6,7 +6,7 @@
   - needs some minor adjustments on desktop and OS initial setup
 
 * setting up the raspberry pi
-  - download the raspian
+  - download the raspbian
   - put it into the USB
   - use etcher for MAC
 
