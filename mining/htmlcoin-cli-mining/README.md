@@ -51,27 +51,35 @@ This script works with linux and ubuntu mate on raspberry pi3.
       ````
   - if you start, you will see the message like this:
     ````
+      root@rpi3-ubuntu:/home/rjoo# ./wallet-mining.sh
       HTMLCoin wallet mining started...
 
-      1: Thu Dec 14 22:05:45 PST 2017
-      [
-      ]
-      2: Thu Dec 14 22:15:41 PST 2017
-      [
-      ]
-      3: Thu Dec 14 22:25:38 PST 2017
-      [
-      ]
-      4: Thu Dec 14 22:35:33 PST 2017
-      [
-      ]
-      5: Thu Dec 14 22:45:30 PST 2017
-      [
-      ]
-      6: Thu Dec 14 22:55:29 PST 2017
-      [
-      ]
-      7: Thu Dec 14 23:05:25 PST 2017
+      1: Fri Dec 15 12:46:41 PST 2017
+      2: Fri Dec 15 12:46:48 PST 2017
+      3: Fri Dec 15 12:46:56 PST 2017
+      4: Fri Dec 15 12:47:04 PST 2017
+      5: Fri Dec 15 12:47:11 PST 2017
+      6: Fri Dec 15 12:47:19 PST 2017
+      7: Fri Dec 15 12:47:27 PST 2017
+      8: Fri Dec 15 12:47:34 PST 2017
+      9: Fri Dec 15 12:47:42 PST 2017
+      10: Fri Dec 15 12:47:50 PST 2017
+      11: Fri Dec 15 12:47:58 PST 2017
+      12: Fri Dec 15 12:48:05 PST 2017
+      13: Fri Dec 15 12:48:13 PST 2017
+      14: Fri Dec 15 12:48:21 PST 2017
+      15: Fri Dec 15 12:48:28 PST 2017
+      16: Fri Dec 15 12:48:36 PST 2017
+      17: Fri Dec 15 12:48:44 PST 2017
+      18: Fri Dec 15 12:48:51 PST 2017
+      19: Fri Dec 15 12:48:59 PST 2017
+      20: Fri Dec 15 12:49:07 PST 2017
+      21: Fri Dec 15 12:49:15 PST 2017
+      22: Fri Dec 15 12:49:22 PST 2017
+      23: Fri Dec 15 12:49:30 PST 2017
+      24: Fri Dec 15 12:49:38 PST 2017
+      25: Fri Dec 15 12:49:45 PST 2017
+      26: Fri Dec 15 12:49:53 PST 2017
 
     ````
   - when you run this code, the code will create a new log file, `wallet-mining.log` under the wallet folder.
