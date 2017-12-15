@@ -6,24 +6,20 @@
   - needs some minor adjustments on desktop and OS initial setup
 
 * setting up the raspberry pi
-  - download the raspbian
+  - download the raspbian or ubuntu mate and make a bootable USB card.
   - put it into the USB
   - use etcher for MAC
 
 * setup the raspberry pi
   1. start the rapsberry pi and make sure you see the raspbian desktop loads up properly
-
   2. make sure to setup your network either via ethernet or wifi
-
   3. now, go to raspberry pi config software from the raspbian desktop
-    - picture here.
     - set up hostname
     - update the user `pi` password
     - change timezone
     - change keyboard and language
     - enable ssh
     - enable vnc
-
   4. open up the terminal and do the following
     - `sudo apt-get update && sudo apt-get upgrade`
     - install screen
@@ -39,7 +35,6 @@
       - `screen -S cgminer`
     - when you do that, you may not notice anything, but you created a something called "screen" and logged onto the screen session.  Why you need this?  This way, you can safely close your terminal and yet your cgminer will still run.  Without this, when you close your terminal, the cgminer will not work.
     - secondly, once you establish this, you will be able to access cgminer and raspberry pi from your another computer remotely.
-
   6. now, it is time to install cgminer! :D
     - `sudo apt-get update`
     - `sudo apt-get upgrade -y`
