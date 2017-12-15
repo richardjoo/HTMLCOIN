@@ -80,3 +80,9 @@ This script works with linux and ubuntu mate on raspberry pi3.
         "0000000010f12807cc46394bade7498a7b0598b24b08577008a343bfc99e1489"
       ]
     ````
+
+* WARNING
+  - this was confirmed bug from Peter that if you put `999999999` for the loop, then you will get an error and it is confirmed bug and Peter will fix this issue.
+    - for example:
+      - `src/htmlcoin-cli generatetoaddress 100 YOUR-RECEIVE-ADDRESS 999999999`
+        - this will throw an error
