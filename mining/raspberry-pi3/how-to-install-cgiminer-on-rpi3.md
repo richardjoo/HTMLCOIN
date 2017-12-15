@@ -1,8 +1,11 @@
 #### With gekko miner
+* URL:
   - https://github.com/vthoang/cgminer
   - https://github.com/obsidianproject/Obsidian-Qt/issues/27
+
 * This instruction works for both raspbian and ubuntu mate Xenial
   - needs some minor adjustments on desktop and OS initial setup
+
 * setting up the raspberry pi
   - download the raspian
   - put it into the USB
