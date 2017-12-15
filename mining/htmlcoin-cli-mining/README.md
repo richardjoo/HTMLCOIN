@@ -23,7 +23,7 @@ This script works with linux and ubuntu mate on raspberry pi3.
     - you will see something like this
 
       ````.JSON
-        root@rpi3-ubuntu:/home/rjoo/HTMLCOIN# src/htmlcoin-cli getinfo
+        username@rpi3-ubuntu:/home/username/HTMLCOIN# src/htmlcoin-cli getinfo
         {
           "version": 2000002,
           "protocolversion": 70001,
@@ -47,3 +47,36 @@ This script works with linux and ubuntu mate on raspberry pi3.
           "errors": ""
         }
       ````
+  - if you start, you will see the message like this:
+    ````
+      HTMLCoin wallet mining started...
+
+      1: Thu Dec 14 22:05:45 PST 2017
+      [
+      ]
+      2: Thu Dec 14 22:15:41 PST 2017
+      [
+      ]
+      3: Thu Dec 14 22:25:38 PST 2017
+      [
+      ]
+      4: Thu Dec 14 22:35:33 PST 2017
+      [
+      ]
+      5: Thu Dec 14 22:45:30 PST 2017
+      [
+      ]
+      6: Thu Dec 14 22:55:29 PST 2017
+      [
+      ]
+      7: Thu Dec 14 23:05:25 PST 2017
+
+    ````
+
+  - when you see nothing between the brackets, that means you did not mine anything.  If you see seomthing inside like example below, then you have successfully mined the coins!
+
+    ````
+      [
+        "0000000010f12807cc46394bade7498a7b0598b24b08577008a343bfc99e1489"
+      ]
+    ````
