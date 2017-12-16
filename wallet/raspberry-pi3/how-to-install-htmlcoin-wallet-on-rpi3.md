@@ -3,6 +3,20 @@
   - open up the terminal
   - let's update your rpi to make sure everything is updated
     - `sudo apt-get update && sudo apt-get upgrade`
+  - You may need to add swap to get it to compile on the Pi if the RAM is too low, the following adds a 1GB swap file to a Ubuntu system, presuming you are running Ubuntu on Pi.
+
+    ```
+      fallocate -l 1G /swapfile
+      chmod 600 /swapfile
+      mkswap /swapfile
+      swapon /swapfile
+      echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+      sysctl vm.swappiness=10
+      sysctl vm.vfs_cache_pressure=50
+      echo 'vm.swappiness = 10' | tee -a /etc/sysctl.conf
+      echo 'vm.vfs_cache_pressure=50' | tee -a /etc/sysctl.conf
+    ```
+
   - download the wallet
     - you can download the wallet by going to the website or download directly from the terminal.  I am going to use the terminal download.
       - this is for the wallet v.2.0.0.2 tar.gz file
@@ -29,56 +43,24 @@
         - `cd HTMLCOIN`
 
       * Note autogen will prompt to install some more dependencies if needed
+        - `sudo add-apt-repository ppa:bitcoin/bitcoin`
+        - `sudo apt update`
+        - `sudo apt upgrade`
+        - `sudo apt install pkg-config build-essential libtool autotools-dev autoconf libssl-dev libboost-all-dev libdb4.8-dev libdb4.8++-dev libminiupnpc-dev git bsdmainutils python3 libevent-dev libzmq3-dev`
+        - `git clone https://github.com/HTMLCOIN/HTMLCOIN.git`
+        - `cd HTMLCOIN/`
+        - `rm -Rf src/cpp-ethereum/`
+        - `git submodule update --init --recursive`
         - `./autogen.sh`
-        - `./configure`
-        - `make -j2`
-
-        - I am getting an error on `make -j2`
-          - so, I am trying to install clang
-            - `sudo apt-get install clang`
-        - this is the help I got from @bushstar
-          - and this did not work.
-          - `make clean`
-          - `cd depends`
-          - `make`
-          - `cd ..`
-          - `./autogen.sh`
-          - `./configure --prefix=`pwd`/depends/ARCHITECTURE --disable-shared --enable-static`
-          - `make`
-        - this is another help I got.  Other user got a direct message from the @bushstar
-          - this freezes at `make`
-          - `sudo add-apt-repository ppa:bitcoin/bitcoin`
-          - `sudo apt update`
-          - `sudo apt upgrade`
-          - `sudo apt install pkg-config build-essential libtool autotools-dev autoconf libssl-dev libboost-all-dev libdb4.8-dev libdb4.8++-dev libminiupnpc-dev git bsdmainutils python3 libevent-dev libzmq3-dev`
-          - `git clone https://github.com/HTMLCOIN/HTMLCOIN.git`
-          - `cd HTMLCOIN/`
-          - `rm -Rf src/cpp-ethereum/`
-          - `git submodule update --init --recursive`
-          - `./autogen.sh`
-          - `./configure --without-miniupnpc`
-          - `make`
-        - this one was working for Martin.  So, I am going to try this
-          - You may need to add swap to get it to compile on the Pi if the RAM is too low, the following adds a 1GB swap file to a Ubuntu system, presuming you are running Ubuntu on Pi.
-
-          ```
-            fallocate -l 1G /swapfile
-            chmod 600 /swapfile
-            mkswap /swapfile
-            swapon /swapfile
-            echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
-            sysctl vm.swappiness=10
-            sysctl vm.vfs_cache_pressure=50
-            echo 'vm.swappiness = 10' | tee -a /etc/sysctl.conf
-            echo 'vm.vfs_cache_pressure=50' | tee -a /etc/sysctl.conf
-          ```
+        - `./configure --without-miniupnpc`
+        - `make`
 
       * Run
-        - Then you can either run the command-line daemon using
-          - `src/htmlcoind`
-          - `src/htmlcoin-cli`
-
-          - seems like `src/htmlcoind` is stuck and not running as a daemon.
-            - try `src/htmlcoind --daemon`
-          - or you can run the Qt GUI using `src/qt/htmlcoin-qt`
-          - For in-depth description of Sparknet and how to use HTMLCOIN for interacting with contracts, please see [sparknet-guide](doc/sparknet-guide.md).
+        - `src/htmlcoind --daemon`
+        - after the daemon is running, the wallet will try to synchronize.  Make sure the wallet is fully synchornized.
+        - to check the current status
+          - `src/htmlcoin-cli getinfo`
+        - when the wallet is fully synchronized, you can start mining by running
+          - `src/htmlcoin-cli generatetoaddress 100 YOUR-RECEIVE-ADDRESS 99999999`
+        - if you want to run this command infinitely, please follow the intruction "htmlcoin-cli-mining"
+        - For in-depth description of Sparknet and how to use HTMLCOIN for interacting with contracts, please see [sparknet-guide](doc/sparknet-guide.md).
