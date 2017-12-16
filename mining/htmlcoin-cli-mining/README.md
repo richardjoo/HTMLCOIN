@@ -148,6 +148,15 @@
       - if you don't want to count?  :D then do this.  This will simply return the total findings.
         - `grep -c '"' wallet-mining.log`
       - if you want to remove and do the fresh start, simply delete your `wallet-mining.log` and run the `./htmlcoin-cli-mining.sh` again.
+      - if you want to archive the log file instead of deleting it, then do something like this with timestamp at the end.  That way you can archive correctly with timestamp on it.
+        - make sure your cli script is not running.
+        - `mv wallet-mining.log wallet-mining-archive-2017-12-16-1153am.log`
+          - this will rename your `wallet-mining.log` to `wallet-mining-archive-2017-12-16-1153am.log`
+          - if you don't want to renam, but simply copy the file, then do this
+            - `cp wallet-mining.log wallet-mining-archive-2017-12-16-1153am.log`
+            - if you start the cli script again at this point, you will be appending to the existing file.
+            - if you want to delete the log file, then do this
+              - `rm wallet-mining.log`
 
 * WARNING
   - this was confirmed bug from Peter that if you put `999999999` for the loop, then you will get an error and it is confirmed bug and Peter will fix this issue.
