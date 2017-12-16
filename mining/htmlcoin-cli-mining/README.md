@@ -18,7 +18,8 @@ This script works with linux and ubuntu mate on raspberry pi3.
 * on line 22 `src/htmlcoin-cli generatetoaddress 100 YOUR-RECEIVE-ADDRESS 7777777`
   - change `YOUR-RECEIVE-ADDRESS` to your wallet `RECEIVE` address you have created.
 * save the file and try to run
-  - `./htmlcoin-cli-mining.sh`
+  - `sudo ./htmlcoin-cli-mining.sh`
+    - because of the log file I am creating, you have to run this with `sudo`.  I am going to make non-log file version soon.
   - if you are getting any error, there is a chance that your wallet is not synchronized yet. wait little while until your wallet is fully synchronized.
   - if you are curious about the current wallet status, then run this inside of the wallet folder.
     - `src/htmlcoin-cli getinfo`
@@ -113,7 +114,6 @@ This script works with linux and ubuntu mate on raspberry pi3.
         ]
         845: Fri Dec 15 14:34:45 PST 2017
       ```
-
   - when you see nothing between the brackets, that means you did not mine anything.  If you see seomthing inside like example below, then you have successfully mined the coins!
 
     ````
@@ -121,8 +121,23 @@ This script works with linux and ubuntu mate on raspberry pi3.
         "0000000010f12807cc46394bade7498a7b0598b24b08577008a343bfc99e1489"
       ]
     ````
+* Curious on why I use the log file? Because it is now much easier to count.
+  - Inside of your HTMLCOIN wallet folder where the `wallet-mining.log` file is, run this command:
+    - `grep -R '"0' wallet-mining.log`
+      - this command will give you result like this:
 
+        ```
+          root@rpi3-ubuntu:/home/rjoo/HTMLCOIN# grep -R '"' wallet-mining.log
+            "000000000d0ef812d9045dc679d99c226198ddb498a0f3b6030a23d843e83d93"
+            "000000000084885b75f94f51a0b537f41f7ce3e8f8407fa4a1a0d0e878b95e24"
+            "0000000025f4dd9846b79faa45582b6ebfb888bb6cd5527ea450147808597231"
+            "000000007d2f37d35e3a641fe04e8428a89e4a1c3006e9622031c902d1473ea7"
+        ```
 
+      - now, simply count them.  That is how many times your wallet has mined the coins since the beginning of the wallet-mining.log was created.
+      - if you don't want to count?  :D then do this.  This will simply return the total findings.
+        - `grep -c '"' wallet-mining.log`
+      - if you want to remove and do the fresh start, simply delete your `wallet-mining.log` and run the `./htmlcoin-cli-mining.sh` again.
 * WARNING
   - this was confirmed bug from Peter that if you put `999999999` for the loop, then you will get an error and it is confirmed bug and Peter will fix this issue.
     - for example:
