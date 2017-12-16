@@ -1,5 +1,8 @@
 ## How to run generatetoaddress from command line infinitely
 * Current Version: 1.1
+* Supported platform:
+  - Linux
+  - Ubuntu Mate for Raspberry Pi3
 
 I assume your wallet has been successfully installed and running.
 This script works with linux and ubuntu mate on raspberry pi3.
