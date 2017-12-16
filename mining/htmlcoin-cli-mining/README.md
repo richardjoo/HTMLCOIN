@@ -1,16 +1,20 @@
 ## How to run generatetoaddress from command line infinitely
 * Current Version: 1.1
+
 * Supported platform:
   - Linux
   - Ubuntu Mate for Raspberry Pi3
 
-I assume your wallet has been successfully installed and running.
-This script works with linux and ubuntu mate on raspberry pi3.
+* Prerequisite:
+  - HTMLCoin CLI version is built/installed properly and tested.
 
 * download `htmlcoin-cli-mining.sh` file.
-* if this file is not executable, run this
+
+* If this file is not executable, run this
   - `chmod +x htmlcoin-cli-mining.sh`
+
 * open the file with your favorite editor
+
 * on line 16 `cd HTMLCOIN`
   - if you want to run this script from the root, then find the path to your htmlcoin wallet folder and change to the correct path
     - for example:
@@ -18,8 +22,10 @@ This script works with linux and ubuntu mate on raspberry pi3.
         - `cd HTMLCOIN-2.0.0.2`
   - if you want to run this script inside of the wallet folder, then comment it out like this
     - `# cd HTMLCOIN`
+
 * on line 22 `src/htmlcoin-cli generatetoaddress 100 YOUR-RECEIVE-ADDRESS 7777777`
   - change `YOUR-RECEIVE-ADDRESS` to your wallet `RECEIVE` address you have created.
+
 * save the file and try to run
   - `sudo ./htmlcoin-cli-mining.sh`
     - because of the log file I am creating, you have to run this with `sudo`.  I am going to make non-log file version soon.
@@ -124,6 +130,7 @@ This script works with linux and ubuntu mate on raspberry pi3.
         "0000000010f12807cc46394bade7498a7b0598b24b08577008a343bfc99e1489"
       ]
     ````
+
 * Curious on why I use the log file? Because it is now much easier to count.
   - Inside of your HTMLCOIN wallet folder where the `wallet-mining.log` file is, run this command:
     - `grep -R '"0' wallet-mining.log`
@@ -141,6 +148,7 @@ This script works with linux and ubuntu mate on raspberry pi3.
       - if you don't want to count?  :D then do this.  This will simply return the total findings.
         - `grep -c '"' wallet-mining.log`
       - if you want to remove and do the fresh start, simply delete your `wallet-mining.log` and run the `./htmlcoin-cli-mining.sh` again.
+
 * WARNING
   - this was confirmed bug from Peter that if you put `999999999` for the loop, then you will get an error and it is confirmed bug and Peter will fix this issue.
     - for example:
