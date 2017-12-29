@@ -44,6 +44,8 @@
       - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
 
   * Can you guess how much this coin will be?
+    > by SimonT
+    >
     > No one in the HTML team can guess.  The same goes for all coin teams.
     >
     > This is because we do not sell the coin.  We only support the network s/w it uses.  You guys buy the coins from each other on the exchanges and it may surprise you to know the foundation and dev team doesn't benefit from your transactions with each other.
