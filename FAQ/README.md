@@ -228,7 +228,7 @@
 
 ## TOTAL SUPPLY
   * what is the max supply?
-    - Circulating Supply: 79,883,796,250 as of 2017-12-28
+    - Circulating Supply: 79,870,652,500 as of 2017-12-29 (confirmed by SimonT)
     - Total Supply: 90,000,000,000
     - Max Supply: 90,000,000,000
 
@@ -286,6 +286,9 @@
 
     Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
 
+  * Where can I buy HTML coins?
+    - https://bleutrade.com
+    - https://tradesatoshi.com/
 
 ## Html.business
 ### PHASE I
