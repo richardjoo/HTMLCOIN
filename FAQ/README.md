@@ -297,6 +297,13 @@
     - bitscreener
       - https://bitscreener.com/coins/html-coin
 
+  * HTML Reddit
+    - https://www.reddit.com/r/htmlcoin_community/
+
+  * Bitcointalk
+    - The "HTMLCOIN Swap Delay At Yobit Exchange" topic
+      - https://bitcointalk.org/index.php?topic=2610554o
+
 ## COIN BURN
   * Coinburn planned at anytime?
     - Please feel free to burn yours ;)
