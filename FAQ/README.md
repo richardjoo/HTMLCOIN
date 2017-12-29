@@ -39,8 +39,9 @@
       - Account Abstraction Layer:  extension to Bitcoins ‘Script’ language, sits between the blockchain and EVM and allows decentralised applications and smart contracts to run in environments that were not possible before.
 
   * why is this coin unique guys/ The supply is huge
-    - supply is irrelevent, but based on the old coin we have swapped from.
-    - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
+    - Answered by SimonT
+      - supply is irrelevent, but based on the old coin we have swapped from.
+      - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
 
 ## SWAP
   * swap dates
