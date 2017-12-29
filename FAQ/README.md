@@ -177,6 +177,10 @@
     - you can download `htmlcoin-cli-mining.sh` file by right button on that file link and save as.
     - You can save the file to the wallet folder or one above.
 
+  * HTML coin mining with raspberry pi3
+    - This is not completed, but you can follow this link below:
+      - https://github.com/richardjoo/HTMLCOIN/blob/master/wallet/raspberry-pi3/how-to-install-htmlcoin-wallet-on-rpi3.md
+
   * Where is the mining pool?
     - No mining pool is available at the moment.
     - Currently wallet CPU solo mining only.
@@ -280,7 +284,8 @@
 
 ## LINKS
   * HTMLCoin releases
-    - https://github.com/HTMLCOIN/HTMLCOIN/releases
+    - Wallet downloads
+      - https://github.com/HTMLCOIN/HTMLCOIN/releases
 
   * cmmandline example:
     - https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line/blob/master/bitcoin-cli-commands-help.md
