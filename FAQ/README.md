@@ -82,6 +82,7 @@
 
   * Says 0 active connections to HTML coin network.
     - you will need to wait a bit and see you get more connections.  the worst case, restart the computer and before starting anything else, start the wallet and see if it works or not.  One of my newly downloaded OTHER coin is doing the same thing
+    - I find if I kill banlist.dat and peers.dat and restart I get connections immediately
 
 ## POS
   * What is PoS and How does it work?
