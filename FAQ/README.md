@@ -19,6 +19,29 @@
 
     - Open source bitcoin and ether : sharing much of bitcoincore with many other projects we get to leverage all the bitcoin improvements (BIP) which give us these great wallets and roadmap for lightning and other cool stuff. We also don't hide the fact we track qtum for a lot of our features and although there's still a lot of work to adapt things for us, the challenges are quantifiable and mean we get to share all the latest and greatest bitcoin core open source features. From an ether client perspective we can run all the open source projects in the state of the daps libraries.
 
+  * Answered by Arturo
+    - The new HTMLcoin is not just a cryptocurrency but a new secure sha256d blockchain based on a fully integrated Bitcoin Core and  Ethereum cpp client codebase, to deliver Smart Contracts and Distributed Applications (DAPPS). It implements an extendable design which is capable of adding more virtual machines (VM), enabled through an Account Abstraction Layer, which allows an account based VM to function on a Bitcoin UTXO based Blockchain.  We have the strength of Bitcoin and features of Ethereum on one platform.
+
+    - Another way of describing it is that we are moving from an older Blockchain to a new one which is based on  bitcoin core 0.14 (csv/segwit) with the ethereum client c++ codebase integrated on top.  We have the best of both worlds on one blockchain.
+
+    - As well as being a coin, HTMLCOIN will be the gateway to buying tokens from dapps and smart contracts on the HTMLCOIN blockchain where it will can also be exchanged for the gas required to drive smart contracts.
+
+    - The HTMLcoin Foundation is developing key use cases to show the capabilities of the platform where decentralized technologies using cryptocurrencies and distributed applications can bring innovation to large economic groups and communities across the globe.  We are working with a number of partners and startups across the globe to join our Blockchain, for their crowdfunding and final deployed services.
+
+    - The features of HTMLCoin include:
+      - Double SHA256: is used by Bitcoin and other established blockchains to provide a secure and provens cryptographic wrap for HTMLCOIN.
+      - Real Time Checkpointing: Protects the history of the chain from being changed by 51% attacks, and broadcasts block height and hash of the main chain that cannot be overwritten.
+      - Enhanced Hash Rate Compensation: Adjusts every 120 blocks but with short, medium and long block time samples to average out the adjust and apply 25% damping to the result.
+      - Hybrid Bitcoin / Ethereum: Uses both the Bitcoin and Ethereum codebase combining Bitcoin with EVM (Ethereum Virtual Machines).
+      - Smart Contracts: Protocol to facilitate, verify or enforce negotiation or performance of a contract.
+      - Simple Payment Verification: Execute smart contracts from lite wallets.
+      - Decentralized Applications and distributed computing platform:  The new HTMLCoin network will to be able to create smart contracts and other more fully fledged complex EVM apps.
+      - Account Abstraction Layer:  extension to Bitcoins ‘Script’ language, sits between the blockchain and EVM and allows decentralised applications and smart contracts to run in environments that were not possible before.
+
+  * why is this coin unique guys/ The supply is huge
+    - supply is irrelevent, but based on the old coin we have swapped from.
+    - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
+
 ## SWAP
   * swap dates
     - 1-60 1:1 => 17.02.2018
