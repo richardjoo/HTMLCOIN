@@ -53,9 +53,9 @@
     * there is a pdf file
     * also this
       - 6 Step easy to swap
-        1. Download desktop wallet new HTML v2.0.02 https://github.com/HTMLCOIN/HTMLCOIN/releases
+        1. [Download desktop wallet new HTML v2.0.02](https://github.com/HTMLCOIN/HTMLCOIN/releases)
         2. Make a new HTMLcoin v2.0.0.2 address on menu request payment
-        3. Fill the form  https://htmlcoin.com/swap-form/
+        3. [Fill the form](https://htmlcoin.com/swap-form/)
         Copy and paste the new wallet address,email and submit
         4. After submit you will get old html5 address
         5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
@@ -67,7 +67,7 @@
 
 ## WALLET
   * do you have a video on how to backup and restore?
-    - https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s
+    - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
       - this is for DOGE but since it is QT wallet, they work the same.
 
   * How to import / export private keys?
@@ -293,8 +293,8 @@
     Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
 
   * Where can I buy HTML coins?
-    - https://bleutrade.com
-    - https://tradesatoshi.com/
+    - [Bleutrade](https://bleutrade.com)
+    - [Trade Satoshi](https://tradesatoshi.com/)
 
 ## Html.business
 ### PHASE I
