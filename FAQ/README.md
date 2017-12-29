@@ -44,23 +44,23 @@
       - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
 
   * Can you guess how much this coin will be?
-    No one in the HTML team can guess.  The same goes for all coin teams.
-
-    This is because we do not sell the coin.  We only support the network s/w it uses.  You guys buy the coins from each other on the exchanges and it may surprise you to know the foundation and dev team doesn't benefit from your transactions with each other.
-
-    I do say this with some irony, but many people still don't understand this simple  fact and expect a coin dev team to have a level of control over price.  It simply isn't true.
-
-    If it is true, then you aren't buying something that is a decentralised technology and should walk away :-)
-
-    Also, if we did recommend you buy from each other or participate in selling then:
-
-    1) that makes us financial advisers.  Something we are not qualified for and we aren't going to jail
-    2) that makes HTML a security. Something we are not licensed for.  Again, that puts us in jail.
-
-    But, we aren't going to jail.  We are just going to build
+    > No one in the HTML team can guess.  The same goes for all coin teams.
+    >
+    > This is because we do not sell the coin.  We only support the network s/w it uses.  You guys buy the coins from each other on the exchanges and it may surprise you to know the foundation and dev team doesn't benefit from your transactions with each other.
+    >
+    > I do say this with some irony, but many people still don't understand this simple  fact and expect a coin dev team to have a level of control over price.  It simply isn't true.
+    >
+    > If it is true, then you aren't buying something that is a decentralised technology and should walk away :-)
+    >
+    > Also, if we did recommend you buy from each other or participate in selling then:
+    >
+    > 1) that makes us financial advisers.  Something we are not qualified for and we aren't going to jail
+    > 2) that makes HTML a security. Something we are not licensed for.  Again, that puts us in jail.
+    >
+    > But, we aren't going to jail.  We are just going to build
     superlative Blockchain network software for GitHub which you happy people will use for whatever purpose you deem it suitable :-)
-
-    I hope this helps clarify why we skip around any questions of price or value.
+    >
+    > I hope this helps clarify why we skip around any questions of price or value.
 
 ## SWAP
   * swap dates
