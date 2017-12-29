@@ -392,6 +392,8 @@
     - https://t.me/htmlcoinnews
   * Brazil
     - https://t.me/htmlcoinbrasil
+  * China
+    - https://t.me/HTMLcoin_China
   * Japan
     - https://t.me/HTMLcoin_Japan
   * Korea
