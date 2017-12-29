@@ -163,12 +163,28 @@
         "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_3
       ```
 
-  * HTMLCoin mining with CLI for windows
-    * I will update my github, but there is a CLI infinite loop mining available for Windows already.  and looks like super easy to do.  You just download the zip file and uncompress, and close your windows QT wallet fully, and click start_mining.cmd
+  * HTML coin mining with CLI for windows
+    - You just download the zip file and uncompress, and close your windows QT wallet fully, and click start_mining.cmd
       - go to the site
         - https://github.com/HTMLCOIN/HTMLCOIN/releases
       - and download the 4th one htmlcoind-2.0.0.2-win32.zip
       - uncompress and make sure to read  the README file before you start.
+
+  * HTML coin mining with CLI for linux
+    - go to this site
+      - https://github.com/richardjoo/HTMLCOIN/tree/master/mining/htmlcoin-cli-mining
+    - follow the README instruction
+    - you can download `htmlcoin-cli-mining.sh` file by right button on that file link and save as.
+    - You can save the file to the wallet folder or one above.
+
+  * Where is the mining pool?
+    - No mining pool is available at the moment.
+    - Currently wallet CPU solo mining only.
+
+  * Can I mine with my graphics card?
+    - No, you can't.
+    - It is ASIC sha-256 only.
+    - and mining pool is not available yet. Dev is actively working on it.
 
 ## TOTAL SUPPLY
   * what is the max supply?
