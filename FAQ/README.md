@@ -72,6 +72,17 @@
   * Guys how long does it take for coin to show up on core wallet?
     - 8 hours staking or after 501 confirmations
 
+  * whats the immature in the HTML desktop wallet mean ?
+    - means your coin needs to be matured and will take about 501 confirmations (8+ hours)
+
+  * Is there a way for us to see number of confirmation?
+    - go to Transactions
+    - bring your mouse cursor over the circle left to the date from the list.  you will see how many confirmations from received/mined coins.
+    - You can also enable coin control in settings, then go to send, select inputs.  Then you can see the age of every block.
+
+  * Says 0 active connections to HTML coin network.
+    - you will need to wait a bit and see you get more connections.  the worst case, restart the computer and before starting anything else, start the wallet and see if it works or not.  One of my newly downloaded OTHER coin is doing the same thing
+
 ## POS
   * What is PoS and How does it work?
     - HTMLCOIN uses PoS3.0
@@ -192,7 +203,7 @@
 
 ## TOTAL SUPPLY
   * what is the max supply?
-    - Circulating Supply: 79,8683,796,250 as of 2017-12-28
+    - Circulating Supply: 79,883,796,250 as of 2017-12-28
     - Total Supply: 90,000,000,000
     - Max Supply: 90,000,000,000
 
