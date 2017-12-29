@@ -61,6 +61,9 @@
         5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
         6. Just wait swap process
 
+## ROADMAP
+  * Do you have an updated roadmap?
+    - not yet, but we've been discussing internally and think we now know what is in/out of the foundation budget now.  Expect an update to be isssued in the new year...... that said, we are working on the solo miner, explorer and API, android and ios wallets.... and going through the research/planning for lightning. (SimonT)
 
 ## WALLET
   * do you have a video on how to backup and restore?
@@ -233,6 +236,7 @@
         - Check out the white paper.  This explains the premine and 5 year funding model, there was also some contingency included which will be discussed when we understand the final numbers as mining two blockchains does cost extra.
     - Total Supply: 90,000,000,000
     - Max Supply: 90,000,000,000
+  * In the spirit of transparency, this number will be fully auditted against the swap number after the 106 day window and decisions taken on what we do. (SimonT)
 
 ## LIGHTNING
   * what does the lightning do?
