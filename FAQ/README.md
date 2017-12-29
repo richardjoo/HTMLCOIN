@@ -7,8 +7,73 @@
     - Yobit = SUCKS and has an old coin
     - Tradesatoshi = has both new and old coin, the old coin will close around January 10th, 2018
 
-## WALLET
+## WHAT IS HTMLCOIN?
+  * Answered by SimonT
+    - Portability through using the ether client: most developers have learnt on the biggest platform, ethereum, and the tools have been developed for ether.  Whereas neo and many other dap/token platforms have their own comparability requirements, anything written for ether can be quickly ported to HTML very simply.  Html uses the ether client, simple.
 
+    - Stability. Html replaces the ether-go network/Blockchain layer with a current, proven and robust bitcoin core one.  Bitcoin core include the unspent transaction output model (UTXO) which is a whole lot more flexible than the legacy ether account approach.
+
+    - Security. No 51% attacks here !!! We use realtime checkpointing which locks our Blockchain and protects it from replay attacks.  I don't think any of the smart contract/dap platform coins have this at the moment although we haven't had a spate of consensus attacks for 18 months now, with values the way they are we can't be too safe.
+
+    - Speed.  We run both pow and pos to secure the network and make it faster.  They both run a 2 minute blocktime, but 1 minute out of sync giving a net 60 second blocktime. This gives us the 3-20 second transaction times we currently enjoy as well as 60 second confirmations.
+
+    - Open source bitcoin and ether : sharing much of bitcoincore with many other projects we get to leverage all the bitcoin improvements (BIP) which give us these great wallets and roadmap for lightning and other cool stuff. We also don't hide the fact we track qtum for a lot of our features and although there's still a lot of work to adapt things for us, the challenges are quantifiable and mean we get to share all the latest and greatest bitcoin core open source features. From an ether client perspective we can run all the open source projects in the state of the daps libraries.
+
+## SWAP
+  * swap dates
+    - 1-60 1:1 => 17.02.2018
+    - 61-90 1:2 => 19.03.2018
+    - 91-105 1:3 => 02.04.2018
+
+  * Yobit swap process
+    * there is a pdf file
+    * also this
+      - 6 Step easy to swap
+        1. Download desktop wallet new HTML v2.0.02 https://github.com/HTMLCOIN/HTMLCOIN/releases
+        2. Make a new HTMLcoin v2.0.0.2 address on menu request payment
+        3. Fill the form  https://htmlcoin.com/swap-form/
+        Copy and paste the new wallet address,email and submit
+        4. After submit you will get old html5 address
+        5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
+        6. Just wait swap process
+
+
+## WALLET
+  * do you have a video on how to backup and restore?
+    - https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s
+      - this is for DOGE but since it is QT wallet, they work the same.
+
+  * How to import / export private keys?
+    - To export a private key from your qt client:
+      - launch your htmlcoin client as usual and wait for it to load the blockchain and start up
+      - click on 'help' in the menu bar (top right)
+      - click on 'debug window'
+      - select the 'console' tab
+      - type: walletpassphrase "your walletpassphrase here" 600
+      - type: dumpprivkey [your address here]
+      - this will return the private key, you can copy it now; ensure you clear your clipboard/history afterwards
+      - type: walletlock
+      - when dumpprivkey fails for no reason, restart your wallet and try again.  this was tested :D
+
+    - To import a private key
+      - launch your htmlcoin client as usual and wait for it to load the blockchain and start up
+      - click on 'help' in the menu bar (top right)
+      - click on 'debug window'
+      - select the 'console' tab
+      - type: walletpassphrase "your walletpassphrase here" 600
+      - type: importprivkey (privatekey)
+      - type: walletlock
+      - when importprivkey fails for no reason, restart your wallet and try again.
+        - also check to see if you mistakenly used the address instead of private key :D
+
+  * Why peers get banned?
+    - Sharing what your wallet interprets as old or incorrect data or a prefork source. Happens often, especially when syncing.
+
+## POS
+  * What is PoS and How does it work?
+    - HTMLCOIN uses PoS3.0
+    - POS generates 1 block every 120 seconds, whilst POW generates 1 block every 120 seconds.  The two processes run 60 seconds out of sequence so we effectively have a 60 second block time witheach process throttled back to 1% pa each.
+    - The block reward is currently 1250 coins, and growth in supply is managed at the network level which is why there appears to be a lumpy/luck based element to rewards.  This is a feature of the more modern POS3.0 coins and I am trying to explain is simply and mathemetically in a document for everyone to understand at the moment.
 
 ## MINING
   * How to do wallet mining
@@ -37,8 +102,28 @@
         hit Enter
       - repeat these two lines above like 100 times.
 
-## TOTAL SUPPLY
+  * how to run multiple wallets in a single pc
+    * For Windows example: Three shortcuts
+      ```
+        "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_1
 
+        "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_2
+
+        "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_3
+      ```
+
+  * HTMLCoin mining with CLI for windows
+    * I will update my github, but there is a CLI infinite loop mining available for Windows already.  and looks like super easy to do.  You just download the zip file and uncompress, and close your windows QT wallet fully, and click start_mining.cmd
+      - go to the site
+        - https://github.com/HTMLCOIN/HTMLCOIN/releases
+      - and download the 4th one htmlcoind-2.0.0.2-win32.zip
+      - uncompress and make sure to read  the README file before you start.
+
+## TOTAL SUPPLY
+  * what is the max supply?
+    - Circulating Supply: 79,8683,796,250 as of 2017-12-28
+    - Total Supply: 90,000,000,000
+    - Max Supply: 90,000,000,000
 
 ## LIGHTNING
   * what does the lightning do?
@@ -93,3 +178,50 @@
     To date we have 26 applications in flight.  I don't expect many responses until early Jan and even then we will probably have to reapply multiple times.
 
     Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
+
+
+## Html.business
+### PHASE I
+  1. Medical data processing: We are creating a Private Healthcare Data Blockchain Solutions to support logdata.
+    - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
+    - https://htmlcoin.business/dapp-playground/medical-data-processing/
+  2. The Brasil Token: The Brasil Token (BRSIL) is created to build a bridge between startups, creatives and corporates in Brasil
+    - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
+    - https://htmlcoin.business/dapp-playground/brasil-token/
+
+  3. Merchants: Proof-of-Delivery
+    - Simplifying the transport industry with blockchain technology!
+    - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
+    - https://htmlcoin.business/dapp-playground/merchants-proof-of-delivery/
+
+  4. New Token Creation Platform.
+    - On our platform any creative idea for services or products will have a chance to become a reality!
+    - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
+    - https://htmlcoin.business/dapp-playground/token-creation-platform/
+  5. Create your own Gaming website.
+    - At the request of many among you! As promised:  Gaming websites!
+    - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
+    - https://htmlcoin.business/dapp-playground/create-your-own-gaming-website-htmlcoin-payments/
+  6. Smart Contracts
+    - There is no need for physical meetings and signatures anymore. Legal agreements for your clients can be made quickly and efficiently with a few clicks!
+    - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
+    - https://htmlcoin.business/dapp-playground/smart-contracts/
+  7. THE HTMCOIN.BUSINESS REWARD PROGRAM
+    - You can earn money, tokens and coins by simply telling the world about the services and ICO’s conducted by our Token Creation platform!
+    - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
+    - https://htmlcoin.business/dapp-playground/business-reward-program/
+
+## LINKS
+  * HTMLCoin releases
+    - https://github.com/HTMLCOIN/HTMLCOIN/releases
+
+  * cmmandline example:
+    - https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line/blob/master/bitcoin-cli-commands-help.md
+
+  * Cointracking
+    - https://cointracking.info/?ref=A190981
+
+  * export private key
+    - https://bitcoin.stackexchange.com/questions/4203/how-can-i-export-the-private-key-for-an-address-from-the-satoshi-client
+
+
