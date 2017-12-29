@@ -359,3 +359,21 @@
     - Please feel free to burn yours ;)
     - Dont burn it, sell to me for 1 sat
 
+## TELEGRAM GROUPS
+  * Main
+    - https://t.me/htmlcoinofficial
+  * Non-official news
+    - https://t.me/htmlcoinnews
+  * Brazil
+    - https://t.me/htmlcoinbrasil
+  * Japan
+    - https://t.me/HTMLcoin_Japan
+  * Korea
+    - https://t.me/HTMLcoin_Korea
+  * if anything missing, please report to the main group.
+
+## TELEGRAM ADMIN MEMBERS
+  * scammers are out there and trying to steal your coins. When anyone contacts you with admin name and photo, check their user names. ask other admins and verify the user before giving out any sensitive information.
+  * Admins will NEVER EVER ask anyone for donation or ask private keys. That is the red alert right there!
+
+
