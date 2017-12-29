@@ -18,17 +18,17 @@
           `generate 100`
         for a quick test
      - you will see
-      ```
-       [
-       ]
-      ```
+        ```
+         [
+         ]
+        ```
       - when you see this, it means you found nothing
     - when you see this￼
-      ```
-       [
-         "0000000006b9b5aec68faf150e6cbc9ce71653a622f25b977a4835a57498a8e1"
-       ]
-      ```
+        ```
+         [
+           "0000000006b9b5aec68faf150e6cbc9ce71653a622f25b977a4835a57498a8e1"
+         ]
+        ```
       - then you just found a block and earned 1250 HTML coins!
     - now you want to type something like
       - `generate 100 999999999`
@@ -82,16 +82,14 @@
 
 ## EXCHANGE
   * How the exchange works by SimonT
-    > This is not how large exchnages work.
+    We apply to them, some of them charge money for the application.  Then they asses the coin and we do not hear back unless we are accepted.
 
-      We apply to them, some of them charge money for the application.  Then they asses the coin and we do not hear back unless we are accepted.
+    Large exchanges are generally free, but often insist on a promotion programme of anything between 3-6btc
 
-      Large exchanges are generally free, but often insist on a promotion programme of anything between 3-6btc
+    Medium exchanges generally charge a lot of money, between 5 and 45btc. With these we pay upfront and they then consider our application before returning our money o we don't succeed
 
-      Medium exchanges generally charge a lot of money, between 5 and 45btc. With these we pay upfront and they then consider our application before returning our money o we don't succeed
+    Smaller exchanges are generally quite different and are responsive and helpful.
 
-      Smaller exchanges are generally quite different and are responsive and helpful.
+    To date we have 26 applications in flight.  I don't expect many responses until early Jan and even then we will probably have to reapply multiple times.
 
-      To date we have 26 applications in flight.  I don't expect many responses until early Jan and even then we will probably have to reapply multiple times.
-
-      Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
+    Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
