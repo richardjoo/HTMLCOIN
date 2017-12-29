@@ -76,10 +76,10 @@
       - click on 'help' in the menu bar (top right)
       - click on 'debug window'
       - select the 'console' tab
-      - type: walletpassphrase "your walletpassphrase here" 600
-      - type: dumpprivkey [your address here]
+      - type: `walletpassphrase your-walletpassphrase-here 600`
+      - type: `dumpprivkey your-address-here`
       - this will return the private key, you can copy it now; ensure you clear your clipboard/history afterwards
-      - type: walletlock
+      - type: `walletlock`
       - when dumpprivkey fails for no reason, restart your wallet and try again.  this was tested :D
 
     - To import a private key
@@ -87,9 +87,9 @@
       - click on 'help' in the menu bar (top right)
       - click on 'debug window'
       - select the 'console' tab
-      - type: walletpassphrase "your walletpassphrase here" 600
-      - type: importprivkey (privatekey)
-      - type: walletlock
+      - type: `walletpassphrase your-walletpassphrase-here 600`
+      - type: `importprivkey privatekey`
+      - type: `walletlock`
       - when importprivkey fails for no reason, restart your wallet and try again.
         - also check to see if you mistakenly used the address instead of private key :D
 
