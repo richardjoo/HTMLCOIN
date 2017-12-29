@@ -69,6 +69,9 @@
   * Why peers get banned?
     - Sharing what your wallet interprets as old or incorrect data or a prefork source. Happens often, especially when syncing.
 
+  * Guys how long does it take for coin to show up on core wallet?
+    - 8 hours staking or after 501 confirmations
+
 ## POS
   * What is PoS and How does it work?
     - HTMLCOIN uses PoS3.0
@@ -224,4 +227,9 @@
   * export private key
     - https://bitcoin.stackexchange.com/questions/4203/how-can-i-export-the-private-key-for-an-address-from-the-satoshi-client
 
+
+## COIN BURN
+  * Coinburn planned at anytime?
+    - Please feel free to burn yours ;)
+    - Dont burn it, sell to me for 1 sat
 
