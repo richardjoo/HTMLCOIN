@@ -1,2 +1,3 @@
 # HTMLCOIN
-Instructions and code for HTMLCoin wallet and mining
+* FAQ on HTMLCOIN
+* Instructions and code for HTMLCoin wallet and mining
