@@ -222,7 +222,7 @@
 
   * how to run multiple wallets in a single pc
     * For Windows example: Three shortcuts
-      ```
+      ```bash
         "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_1
 
         "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_2
