@@ -20,9 +20,6 @@
 * [Telegram groups](#telegram-groups)
 * [Telegram admin members](#Telegram-admin-members)
 
-
-
-
 ## WHICH IS THE NEW COIN?
 * HTMLCOIN LESSON 101
 - Old Coin = HTML5
