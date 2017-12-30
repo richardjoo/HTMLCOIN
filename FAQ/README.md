@@ -3,7 +3,6 @@
 ## Table of contents
 
 * [Which is the new coin?](#which-is-the-new-coin?)
-* [Table of contents](#table-of-contents)
 * [What is htmlcoin?](#what-is-htmlcoin?)
 * [Swap](#swap)
 * [Roadmap](#roadmap)
