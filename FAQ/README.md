@@ -144,52 +144,54 @@
     - POS generates 1 block every 120 seconds, whilst POW generates 1 block every 120 seconds.  The two processes run 60 seconds out of sequence so we effectively have a 60 second block time witheach process throttled back to 1% pa each.
     - The block reward is currently 1250 coins, and growth in supply is managed at the network level which is why there appears to be a lumpy/luck based element to rewards.  This is a feature of the more modern POS3.0 coins and I am trying to explain is simply and mathemetically in a document for everyone to understand at the moment.
 
-  * What is Staking by SimonT
-    - What is staking?
-      There are two major methods of securing a network which incentivize participation by generating new funds. The first method is "Proof of Work" and the second is "Proof of Stake".
+## What is Staking? by SimonT
+### What is staking?
+  - There are two major methods of securing a network which incentivize participation by generating new funds. The first method is "Proof of Work" and the second is "Proof of Stake".
 
-      The theory behind Proof of Work is to hold a mathematical competition. The first computer to solve the puzzle receives the coins. This makes distribution of coins a completely fair process. However, this also creates a problem of wasted energy.
+  - The theory behind Proof of Work is to hold a mathematical competition. The first computer to solve the puzzle receives the coins. This makes distribution of coins a completely fair process. However, this also creates a problem of wasted energy.
 
-      Proof of Stake is a competition between shareholders, where based on connectivity to the network and random/lottery chance, you can receive new coins.
+  - Proof of Stake is a competition between shareholders, where based on connectivity to the network and random/lottery chance, you can receive new coins.
 
-      In Proof of Stake, you first prove you have access to coins and from that point compete to win blocks randomly. The more people competing, the more secure the block. Its original intention was to incentivise a wallet (node) to stay connected to the network and reduce the risk of a 51% (replay) attack.
+  - In Proof of Stake, you first prove you have access to coins and from that point compete to win blocks randomly. The more people competing, the more secure the block. Its original intention was to incentivise a wallet (node) to stay connected to the network and reduce the risk of a 51% (replay) attack.
 
-      How do I start staking?
-      Once the coins are in your HTMLCOIN 2.0 wallet, it is always best to encrypt it, and create a secure backup somewhere safe. To start staking, unlock your wallet and check the "for staking" tick box.
+### How do I start staking?
+  - Once the coins are in your HTMLCOIN 2.0 wallet, it is always best to encrypt it, and create a secure backup somewhere safe. To start staking, unlock your wallet and check the "for staking" tick box.
 
-      How long before my coins start to stake?
-      If you hover over (for a second or two) the lightning bolt icon (next to the HD icon) at the bottom-right of the wallet you'll notice the staking message.  The message "Not staking because you don't have mature coins" may appear. This is because you must wait 500 blocks for your coins to mature.  At the current block time of 60 seconds this means your coins will take approximately 8hr 20min to mature.
+### How long before my coins start to stake?
+  - If you hover over (for a second or two) the lightning bolt icon (next to the HD icon) at the bottom-right of the wallet you'll notice the staking message.  The message "Not staking because you don't have mature coins" may appear. This is because you must wait 500 blocks for your coins to mature.  At the current block time of 60 seconds this means your coins will take approximately 8hr 20min to mature.
 
-      How do I know when I am staking?
-      Once you are eligible to stake, the lightning bolt icon will turn solid and the following message will be displayed when you hover over the solid lightning bolt:
-      Staking:
-      Your weight is <your staked coin amount>
-      Network weight is <total network weight>
-      Expected time to earn reward is <time>
-      Once you've received a staking reward (currently 1250 coins), you must wait 500 blocks for the reward to mature to be usable.
+### How do I know when I am staking?
+  - Once you are eligible to stake, the lightning bolt icon will turn solid and the following message will be displayed when you hover over the solid lightning bolt:
+  - Staking:
+    Your weight is <your staked coin amount>
+    Network weight is <total network weight>
+    Expected time to earn reward is <time>
+    Once you've received a staking reward (currently 1250 coins), you must wait 500 blocks for the reward to mature to be usable.
 
-      What is the expected time to reward, and why is it always wrong?
-      The Expected time to earn reward is a rough calculation based on:
-      (network_weight / your_weight) * block_time_in_minutes / 60 minutes / 24 hours.
-      This is a statistical expected time and you could get a stake reward much sooner, or much later than the expected time.  In general, it is best to ignore it as it doesn’t include the time for the stake reward to mature.
+### What is the expected time to reward, and why is it always wrong?
+  - The Expected time to earn reward is a rough calculation based on:
+      - `(network_weight / your_weight) * block_time_in_minutes / 60 minutes / 24 hours`.
+  - This is a statistical expected time and you could get a stake reward much sooner, or much later than the expected time.  In general, it is best to ignore it as it doesn’t include the time for the stake reward to mature.
 
-      How many coins can I expect to get?
-      The network is set up to generate approximately 1% of POW and 1% of POS coins.  We chose POS as is provides a true decentralized system in which the more nodes that connect, the better the security as it shifts trust from a limited number of miners to the whole network itself.
-      For HTML, the block reward is a constant 1250 coins per block (1% pa. approx.).   Only one person generates a block, the person that does gets the block reward, there's only one PoS block per two-minute interval. This does leave quite a level of ‘lottery luck’ in receiving a reward but over an extended period the random nature of staking does flatten things out, particularly when not all coins are being staked and a higher proportion is available to stakers.
+### How many coins can I expect to get?
+  - The network is set up to generate approximately 1% of POW and 1% of POS coins.  We chose POS as is provides a true decentralized system in which the more nodes that connect, the better the security as it shifts trust from a limited number of miners to the whole network itself.
 
-      Why don’t I get a reward?
-      Reward is generated at the network level, there is a lot of luck involved.
+  - For HTML, the block reward is a constant 1250 coins per block (1% pa. approx.).   Only one person generates a block, the person that does gets the block reward, there's only one PoS block per two-minute interval. This does leave quite a level of ‘lottery luck’ in receiving a reward but over an extended period the random nature of staking does flatten things out, particularly when not all coins are being staked and a higher proportion is available to stakers.
 
-      How long do I need to wait for my coins to mature?
-      The little tick mark at the very bottom right of the wallet will tell you how many blocks have been created.  As mentioned, you will need to wait for another 500 blocks (8hr 20min +) for the new coins to mature and be available to your wallet.
+### Why don’t I get a reward?
+  - Reward is generated at the network level, there is a lot of luck involved.
 
-      What happens if I switch off or disconnect my computer?
-      If you shut down (put your PC/laptop to sleep, or get disconnected from the network), you will no longer be staking your coins and will have start the whole process again.
+### How long do I need to wait for my coins to mature?
+  - The little tick mark at the very bottom right of the wallet will tell you how many blocks have been created.  As mentioned, you will need to wait for another 500 blocks (8hr 20min +) for the new coins to mature and be available to your wallet.
 
-      Where can I find out more?
-      HTML uses an implementation of POS3.0 originally used by Black Coin: https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf
-      QTUM uses the same staking method:
-      https://medium.com/@jb395official/an-introduction-to-qtum-proof-of-stake-mining-a-racing-story-f11a3f48009f
+### What happens if I switch off or disconnect my computer?
+  - If you shut down (put your PC/laptop to sleep, or get disconnected from the network), you will no longer be staking your coins and will have start the whole process again.
+
+### Where can I find out more?
+  - HTML uses an implementation of POS3.0 originally used by Black Coin:
+    - https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf
+  - QTUM uses the same staking method:
+    - https://medium.com/@jb395official/an-introduction-to-qtum-proof-of-stake-mining-a-racing-story-f11a3f48009f
 
 ## MINING
   * How to do wallet mining
