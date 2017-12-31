@@ -140,6 +140,13 @@
 
   * I am mining 1 million coins or mining a lot a lot, is this normal?
     - Not a fake wallet, it can certainly be a genuine copy, but if the program can’t find a copy of the blockchain from another node, it starts it’s own. Hence the 100M+ coin blocks. Those are the swap premine.
+    - Peter Bushnell:
+      - The wallet should not allow solo mining without connections, however it does, which causes people to mine coins that are not part of the main blockchain. Next update will make sure that at least one other connection is required as set by the `fMiningRequiresPeers` in chainparams.
+      - Q: So if it errors like this it’ll just die off once it reconnects? We won’t get fake blocks on the network..?
+        - Peter Bushnell:
+          - When the client connects to the mainnet it will switch chains to the longer chain which is also checkpointed. Next update will stop this situation from occuring to anyone except RegTest users but then you'd expect them to know what they are doing anyway.
+        - QuidProCrypto:
+          - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
 
 ## POS
   * What is PoS and How does it work?
