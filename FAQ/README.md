@@ -138,6 +138,9 @@
     - you will need to wait a bit and see you get more connections.  the worst case, restart the computer and before starting anything else, start the wallet and see if it works or not.  One of my newly downloaded OTHER coin is doing the same thing
     - I find if I kill banlist.dat and peers.dat and restart I get connections immediately
 
+  * I am mining 1 million coins or mining a lot a lot, is this normal?
+    - Not a fake wallet, it can certainly be a genuine copy, but if the program can’t find a copy of the blockchain from another node, it starts it’s own. Hence the 100M+ coin blocks. Those are the swap premine.
+
 ## POS
   * What is PoS and How does it work?
     - HTMLCOIN uses PoS3.0
