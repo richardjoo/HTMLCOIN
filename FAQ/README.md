@@ -15,7 +15,7 @@
   * [Links](#links)
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
-  * [Telegram admin members](#Telegram-admin)
+  * [Telegram admin members](#telegram-admin)
 
 ## WHICH IS THE NEW COIN?
   * HTMLCOIN LESSON 101
