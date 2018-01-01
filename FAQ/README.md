@@ -1,4 +1,22 @@
 # HTMLCOIN Frequently Asked Questions
+## Table of contents
+  * [Which is the new coin?](#which-is-the-new-coin)
+  * [What is htmlcoin?](#what-is-htmlcoin)
+  * [Swap](#swap)
+  * [Roadmap](#roadmap)
+  * [Wallet](#wallet)
+  * [Pos](#pos)
+  * [Mining](#mining)
+  * [Total supply](#total-supply)
+  * [Lightning](#lightning)
+  * [Mobile wallet](#mobile-wallet)
+  * [Exchange](#exchange)
+  * [HtmlBusiness](#html.business)
+  * [Links](#links)
+  * [Coin burn](#coin-burn)
+  * [Telegram groups](#telegram-groups)
+  * [Telegram admin members](#Telegram-admin-members)
+
 ## WHICH IS THE NEW COIN?
   * HTMLCOIN LESSON 101
     - Old Coin = HTML5
