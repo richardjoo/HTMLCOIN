@@ -5,17 +5,17 @@
   * [Swap](#swap)
   * [Roadmap](#roadmap)
   * [Wallet](#wallet)
-  * [Pos](#pos)
+  * [PoS](#pos)
   * [Mining](#mining)
   * [Total supply](#total-supply)
   * [Lightning](#lightning)
   * [Mobile wallet](#mobile-wallet)
   * [Exchange](#exchange)
-  * [HtmlBusiness](#html.business)
+  * [HtmlBusiness](#Phase-I)
   * [Links](#links)
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
-  * [Telegram admin members](#Telegram-admin-members)
+  * [Telegram admin members](#Telegram-admin)
 
 ## WHICH IS THE NEW COIN?
   * HTMLCOIN LESSON 101
@@ -430,7 +430,7 @@
     - https://t.me/HTMLcoin_Korea
   * if anything missing, please report to the main group.
 
-## TELEGRAM ADMIN MEMBERS
+## TELEGRAM ADMIN
   * scammers are out there and trying to steal your coins. When anyone contacts you with admin name and photo, check their user names. ask other admins and verify the user before giving out any sensitive information.
   * Admins will NEVER EVER ask anyone for donation or ask private keys. That is the red alert right there!
 
