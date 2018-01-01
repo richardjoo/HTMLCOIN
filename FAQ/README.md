@@ -428,6 +428,8 @@
     - https://t.me/HTMLcoin_Japan
   * Korea
     - https://t.me/HTMLcoin_Korea
+  * Russia
+    - https://t.me/htmlofficialrussia
   * if anything missing, please report to the main group.
 
 ## TELEGRAM ADMIN
