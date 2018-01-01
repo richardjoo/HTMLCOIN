@@ -11,7 +11,7 @@
   * [Lightning](#lightning)
   * [Mobile wallet](#mobile-wallet)
   * [Exchange](#exchange)
-  * [HtmlBusiness](#Phase-I)
+  * [HtmlBusiness](#htmlbusiness)
   * [Links](#links)
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
