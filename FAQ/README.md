@@ -114,7 +114,7 @@
   * How do I update to 2.0.0.3?
     - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
     - **Make sure to backup your wallet to the multiple locations first!**
-    - download correct file from the [site](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+    - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
     - Windows:
       - install on top of existing software.
     - Mac:
