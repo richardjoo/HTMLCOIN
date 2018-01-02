@@ -111,6 +111,17 @@
     - not yet, but we've been discussing internally and think we now know what is in/out of the foundation budget now.  Expect an update to be isssued in the new year...... that said, we are working on the solo miner, explorer and API, android and ios wallets.... and going through the research/planning for lightning. (SimonT)
 
 ## WALLET
+  * How do I update to 2.0.0.3?
+    - **Make sure to backup your wallet to the multiple locations first!**
+    - download correct file from the [site](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+    - Windows:
+      - install on top of existing software.
+    - Mac:
+      - double click the .dmg file and drag new wallet to Application folder
+    - Linux: (untested and confirmed from other members)
+      - git pull
+      - follow instruction again to make file.
+
   * Do you have a video on how to backup and restore?
     - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
       - this is for DOGE but since it is QT wallet, they work the same.
