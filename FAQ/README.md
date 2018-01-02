@@ -161,6 +161,19 @@
       - type: `walletlock`
       - when importprivkey fails for no reason, restart your wallet and try again.
         - also check to see if you mistakenly used the address instead of private key :D
+
+  * How to restore wallet.dat?
+    - Close your wallet software
+    - You must find where your wallet.dat is located.
+      - For windows: it is usually under `%APPDATA%\Roaming\HTMLCOIN\`
+      - For Mac: it is usually under `Library/Application Support/HTMLCOIN/`
+      - For Lunux: wherever you installed.
+    - Rename your current `wallet.dat` to something like `wallet-original.dat`
+    - Copy your backup wallet data file to where the `wallet-original.dat` is at.
+      - DO NOT MOVE your backed up file.  make sure to copy and paste.
+    - Rename your backup wallet data file to `wallet.dat`
+    - Start your wallet software.
+
   * Can I recover my coins if my wallet.dat is corrupted?
     - only way you can restore is either you have working backup wallet.dat or by importing your private keys to your newly installed wallet.
 
