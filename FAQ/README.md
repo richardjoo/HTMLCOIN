@@ -112,15 +112,21 @@
 
 ## WALLET
   * How do I update to 2.0.0.3?
+    - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
     - **Make sure to backup your wallet to the multiple locations first!**
     - download correct file from the [site](https://github.com/HTMLCOIN/HTMLCOIN/releases)
     - Windows:
       - install on top of existing software.
     - Mac:
       - double click the .dmg file and drag new wallet to Application folder
+      - when prompted to replace, click `replace`
     - Linux: (untested and confirmed from other members)
+      - cd to HTMLCOIN folder
       - git pull
-      - follow instruction again to make file.
+      - follow the README instruction again to make file.
+        - `./autogen.sh`
+        - `./configure`
+        - `make -j2`
 
   * Do you have a video on how to backup and restore?
     - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
