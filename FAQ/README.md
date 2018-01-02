@@ -111,9 +111,33 @@
     - not yet, but we've been discussing internally and think we now know what is in/out of the foundation budget now.  Expect an update to be isssued in the new year...... that said, we are working on the solo miner, explorer and API, android and ios wallets.... and going through the research/planning for lightning. (SimonT)
 
 ## WALLET
-  * do you have a video on how to backup and restore?
+  * Do you have a video on how to backup and restore?
     - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
       - this is for DOGE but since it is QT wallet, they work the same.
+
+  * Do I have to encrypt my wallet?
+    - No you do not have to, but it is strongly recommended to encrypt your wallet.
+    - If anyone can access your unecrypted wallet.dat file, they can steal your coin.
+
+  * Do I need to backup the wallet?
+    - yes, it is very important to backup your wallet frequently and save backup files to multiple locations. And also it is important to make multiple backup files.
+    - for example:
+      - name your backup wallet file to something like
+        - html-wallet-backup-2017-12-30-0430pm.dat
+        - html-wallet-backup-2017-12-31-0500pm.dat
+        - html-wallet-backup-2018-01-01-0100am.dat
+    - Your wallet.dat can get corrupted due to multiple reasons and same to your backup files.  That is why you want to make multiple backups like this and save them to multiple locations like this:
+      - backup to your usb stick - at least two of them
+      - backup to your hdd disk
+      - backup to your external hdd disk
+      - backup to cloud storage (not recommended unless you have encrypted your wallet.)
+
+  * Why do I need to backup my wallet?
+    - It contains all of your private keys
+    - It is easy to restore your wallet to other computer or to your existing wallet when your wallet is corrupted or reinstalled and accidentally wiped your wallet.dat.
+
+  * Can I open my same wallet.dat to multiple locations?
+    - yes you can, but it is not recommended because it can cause some unknown issues. You can open one for pure minotring purposes, but do this at your own risk.
 
   * How to import / export private keys?
     - To export a private key from your qt client:
@@ -137,6 +161,21 @@
       - type: `walletlock`
       - when importprivkey fails for no reason, restart your wallet and try again.
         - also check to see if you mistakenly used the address instead of private key :D
+
+  * How to restore wallet.dat?
+    - Close your wallet software
+    - You must find where your wallet.dat is located.
+      - For windows: it is usually under `%APPDATA%\Roaming\HTMLCOIN\`
+      - For Mac: it is usually under `Library/Application Support/HTMLCOIN/`
+      - For Lunux: wherever you installed.
+    - Rename your current `wallet.dat` to something like `wallet-original.dat`
+    - Copy your backup wallet data file to where the `wallet-original.dat` is at.
+      - DO NOT MOVE your backed up file.  make sure to copy and paste.
+    - Rename your backup wallet data file to `wallet.dat`
+    - Start your wallet software.
+
+  * Can I recover my coins if my wallet.dat is corrupted?
+    - only way you can restore is either you have working backup wallet.dat or by importing your private keys to your newly installed wallet.
 
   * Why peers get banned?
     - Sharing what your wallet interprets as old or incorrect data or a prefork source. Happens often, especially when syncing.
