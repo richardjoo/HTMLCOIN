@@ -1,3 +1,9 @@
+# This code was done by nono Otiston
+# Big thanks to nono Otision!  and sorry I forgot to give him full credit!
+# His HTML coin donation address is
+#   HWi7v79pQ8sZZZERJwjMe2MTeV11eDfZb3
+# if you find this code useful, please consider donate some HTML coin!
+
 clear
 echo "la bete se reveille"
 
