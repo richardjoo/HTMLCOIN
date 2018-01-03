@@ -499,3 +499,6 @@
   * Admins will NEVER EVER ask anyone for donation or ask private keys. That is the red alert right there!
 
 
+## CONTRIBUTORS
+  * Miwand Najafe (miwand)
+    - https://github.com/miwand
