@@ -90,9 +90,10 @@
 
      PERIOD   | RATIO | DATE
     ----------|-------|------------
-     1 - 60   | 1:1   | 2018-02-17
-     61 - 90  | 1:2   | 2018-03-19
-     91 - 105 | 1:3   | 2018-04-02
+     1 - 60   | 1:1   | 2018-02-12
+     61 - 90  | 1:2   | 2018-03-12
+     91 - 105 | 1:3   | 2018-03-27
+     106      |       | End of Swap
 
   * Yobit swap process
     * there is a pdf file
@@ -474,24 +475,25 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
-    - 4179 members as of 2018-01-01
+    - 4496 members as of 2018-01-03
   * Non-official news
     - https://t.me/htmlcoinnews
+    - 330 members as of 2018-01-03
   * Brazil
     - https://t.me/htmlcoinbrasil
-    - 365 members as of 2018-01-01
+    - 400 members as of 2018-01-03
   * China
     - https://t.me/HTMLcoin_China
-    - 9 members as of 2018-01-01
+    - 16 members as of 2018-01-03
   * Japan
     - https://t.me/HTMLcoin_Japan
-    - 30 members as of 2018-01-01
+    - 34 members as of 2018-01-03
   * Korea
     - https://t.me/HTMLcoin_Korea
-    - 401 members as of 2018-01-01
+    - 510 members as of 2018-01-03
   * Russia
     - https://t.me/htmlofficialrussia
-    - 16 members as of 2018-01-01
+    - 39 members as of 2018-01-03
   * if anything missing, please report to the main group.
 
 ## TELEGRAM ADMIN
