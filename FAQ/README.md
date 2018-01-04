@@ -246,7 +246,7 @@
 
 
 ## PAPER WALLET
-### Does HTML coin has a paper wallet?
+### Does HTML coin have a paper wallet?
   - paper wallets
     - https://walletgenerator.net/?currency=HTMLCoin
 
