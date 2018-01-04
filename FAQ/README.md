@@ -575,7 +575,7 @@
     - https://t.me/htmlofficialrussia
     - 50 members as of 2018-01-04
   * Turkey
-    - https://t.me/joinchat/HGuDgxISnw54vhFBbAYJ_g
+    - https://t.me/HTMLcoin_Turkey
     - 11 members as of 2018-01-04
 
   * if anything missing, please report to the main group.
