@@ -91,6 +91,13 @@
 
 
 
+## Whitepaper
+### HTMLCoin Official Whitepaper
+  - https://htmlcoin.com/whitepaper/
+
+
+
+
 ## SWAP
   * swap dates
 
@@ -232,6 +239,14 @@
           - When the client connects to the mainnet it will switch chains to the longer chain which is also checkpointed. Next update will stop this situation from occuring to anyone except RegTest users but then you'd expect them to know what they are doing anyway.
         - QuidProCrypto:
           - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
+
+
+
+## PAPER WALLET
+### Does HTML coin has a paper wallet?
+  - paper wallets
+    - https://walletgenerator.net/?currency=HTMLCoin
+
 
 
 
