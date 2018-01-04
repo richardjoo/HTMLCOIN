@@ -2,9 +2,11 @@
 ## Table of contents
   * [Which is the new coin?](#which-is-the-new-coin)
   * [What is htmlcoin?](#what-is-htmlcoin)
+  * [Whitepaper](#whitepaper)
   * [Swap](#swap)
   * [Roadmap](#roadmap)
   * [Wallet](#wallet)
+  * [Paper Wallet](#paper-wallet)
   * [PoS](#pos)
   * [Mining](#mining)
   * [Total supply](#total-supply)
@@ -16,6 +18,7 @@
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
   * [Telegram admin members](#telegram-admin)
+  * [Contributors](#contributors)
 
 
 
