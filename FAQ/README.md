@@ -17,6 +17,8 @@
   * [Telegram groups](#telegram-groups)
   * [Telegram admin members](#telegram-admin)
 
+
+
 ## WHICH IS THE NEW COIN?
   * HTMLCOIN LESSON 101
     - Old Coin = HTML5
@@ -24,6 +26,8 @@
     - Bleutrade = new coin
     - Yobit = SUCKS and has an old coin
     - Tradesatoshi = has both new and old coin, the old coin will close around January 10th, 2018
+
+
 
 ## WHAT IS HTMLCOIN?
   * Answered by SimonT
@@ -85,6 +89,8 @@
   * Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
     - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
 
+
+
 ## SWAP
   * swap dates
 
@@ -107,9 +113,13 @@
         5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
         6. Just wait swap process
 
+
+
 ## ROADMAP
   * Do you have an updated roadmap?
     - not yet, but we've been discussing internally and think we now know what is in/out of the foundation budget now.  Expect an update to be isssued in the new year...... that said, we are working on the solo miner, explorer and API, android and ios wallets.... and going through the research/planning for lightning. (SimonT)
+
+
 
 ## WALLET
   * How do I update to 2.0.0.3?
@@ -223,11 +233,15 @@
         - QuidProCrypto:
           - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
 
+
+
 ## POS
   * What is PoS and How does it work?
     - HTMLCOIN uses PoS3.0
     - POS generates 1 block every 120 seconds, whilst POW generates 1 block every 120 seconds.  The two processes run 60 seconds out of sequence so we effectively have a 60 second block time witheach process throttled back to 1% pa each.
     - The block reward is currently 1250 coins, and growth in supply is managed at the network level which is why there appears to be a lumpy/luck based element to rewards.  This is a feature of the more modern POS3.0 coins and I am trying to explain is simply and mathemetically in a document for everyone to understand at the moment.
+
+
 
 ## What is Staking? by SimonT
 ### What is staking?
@@ -278,136 +292,164 @@
   - QTUM uses the same staking method:
     - https://medium.com/@jb395official/an-introduction-to-qtum-proof-of-stake-mining-a-racing-story-f11a3f48009f
 
+
+
 ## MINING
-  * How to do wallet mining
-    - from your wallet, go to `HELP` --> `DEBUG WINDOW`
-      - click `CONSOLE`
-      - type
-          `generate 100`
-        for a quick test
-     - you will see
-        ```
-         [
-         ]
-        ```
-      - when you see this, it means you found nothing
-    - when you see this￼
-        ```
-         [
-           "0000000006b9b5aec68faf150e6cbc9ce71653a622f25b977a4835a57498a8e1"
-         ]
-        ```
-      - then you just found a block and earned 1250 HTML coins!
-    - now you want to type something like
-      - `generate 100 999999999`
-        - this will create 100 blocks and repeat 999999999 times.  It takes about one hour to complete.
-      - press UP arrow.  you will see your previous comment shows up again.
-        hit Enter
-      - repeat these two lines above like 100 times.
+### HTML Foundation Official youtube video
+  * 02 : Getting Started HTMLCOIN v2 : Generating Blocks
+    - https://www.youtube.com/watch?v=xCcNfFRkDEA
 
-  * how to run multiple wallets in a single pc
-    * For Windows example: Three shortcuts
-      ```bash
-        "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_1
-
-        "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_2
-
-        "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_3
+### How to do wallet mining
+  - from your wallet, go to `HELP` --> `DEBUG WINDOW`
+    - click `CONSOLE`
+    - type
+        `generate 100`
+      for a quick test
+   - you will see
       ```
+       [
+       ]
+      ```
+    - when you see this, it means you found nothing
+  - when you see this￼
+      ```
+       [
+         "0000000006b9b5aec68faf150e6cbc9ce71653a622f25b977a4835a57498a8e1"
+       ]
+      ```
+    - then you just found a block and earned 1250 HTML coins!
+  - now you want to type something like
+    - `generate 100 999999999`
+      - this will create 100 blocks and repeat 999999999 times.  It takes about one hour to complete.
+    - press UP arrow.  you will see your previous comment shows up again.
+      hit Enter
+    - repeat these two lines above like 100 times.
 
-  * HTML coin mining with CLI for windows
-    - You just download the zip file and uncompress, and close your windows QT wallet fully, and click start_mining.cmd
-      - go to the site
-        - https://github.com/HTMLCOIN/HTMLCOIN/releases
-      - and download the 4th one htmlcoind-2.0.0.2-win32.zip
-      - uncompress and make sure to read  the README file before you start.
+### how to run multiple wallets in a single pc
+  * Youtube video:
+    - https://www.youtube.com/watch?v=oinNy5iMfC0&list=PLMBhLSjNGMAi0FrYwlYUS01JtOzlgadnw&index=3&t=13s
 
-  * HTML coin mining with CLI for linux
-    - go to this site
-      - https://github.com/richardjoo/HTMLCOIN/tree/master/mining/htmlcoin-cli-mining
-    - follow the README instruction
-    - you can download `htmlcoin-cli-mining.sh` file by right button on that file link and save as.
-    - You can save the file to the wallet folder or one above.
+  * For Windows example: Three shortcuts
+    ```bash
+      "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_1
 
-  * HTML coin mining with raspberry pi3
-    - This is not completed, but you can follow this link below:
-      - https://github.com/richardjoo/HTMLCOIN/blob/master/wallet/raspberry-pi3/how-to-install-htmlcoin-wallet-on-rpi3.md
+      "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_2
 
-  * Where is the mining pool?
-    - No mining pool is available at the moment.
-    - Currently wallet CPU solo mining only.
+      "D:\Program Files (x86)\HTMLCOIN2\htmlcoin-qt.exe" --datadir=D:\Users\MyName\AppData\Roaming\HTMLCOIN_3
+    ```
 
-  * Can I mine with my graphics card?
-    - No, you can't.
-    - It is ASIC sha-256 only.
-    - and mining pool is not available yet. Dev is actively working on it.
+### HTML coin mining with CLI for windows
+  - You just download the zip file and uncompress, and close your windows QT wallet fully, and click start_mining.cmd
+    - go to the site
+      - https://github.com/HTMLCOIN/HTMLCOIN/releases
+    - and download the 4th one `htmlcoind-2.0.0.3-win32.zip`
+      - or click this link below to download the file
+        - https://github.com/HTMLCOIN/HTMLCOIN/releases/download/v2.0.0.3/htmlcoind-2.0.0.3-win32.zip
+    - uncompress
+    - Read the README file and follow the instruction.
+
+### HTML coin mining with CLI for linux
+  - go to this site
+    - https://github.com/richardjoo/HTMLCOIN/tree/master/mining/htmlcoin-cli-mining
+  - follow the README instruction
+  - you can download `htmlcoin-cli-mining.sh` file by right button on that file link and save as.
+  - You can save the file to the wallet folder or one above.
+
+### HTML coin mining with raspberry pi3
+  - This is not completed, but you can follow this link below:
+    - https://github.com/richardjoo/HTMLCOIN/blob/master/wallet/raspberry-pi3/how-to-install-htmlcoin-wallet-on-rpi3.md
+
+### Where is the mining pool?
+  - No mining pool is available at the moment.
+  - Currently wallet CPU solo mining only.
+
+### Can I mine with my graphics card?
+  - No, you can't.
+  - It is ASIC sha-256 only.
+  - and mining pool is not available yet. Dev is actively working on it.
+
+
+
 
 ## TOTAL SUPPLY
-  * what is the max supply?
-    - Circulating Supply: 79,870,652,500 as of 2017-12-29 (confirmed by SimonT)
-      - How can it be higher than circulating supplu of h5?
-        - Check out the white paper.  This explains the premine and 5 year funding model, there was also some contingency included which will be discussed when we understand the final numbers as mining two blockchains does cost extra.
-    - Total Supply: 90,000,000,000
-    - Max Supply: 90,000,000,000
+### what is the max supply?
+  - Circulating Supply: 79,870,652,500 as of 2017-12-29 (confirmed by SimonT)
+    - How can it be higher than circulating supplu of h5?
+      - Check out the white paper.  This explains the premine and 5 year funding model, there was also some contingency included which will be discussed when we understand the final numbers as mining two blockchains does cost extra.
+  - Total Supply: 90,000,000,000
+  - Max Supply: 90,000,000,000
+
   * In the spirit of transparency, this number will be fully auditted against the swap number after the 106 day window and decisions taken on what we do. (SimonT)
 
+
+
 ## LIGHTNING
-  * what does the lightning do?
-    - https://lightning.network/
-      - Scalable, Instant Bitcoin/Blockchain Transactions
-      - Transactions for the Future
-        - Instant Payments.
-          - Lightning-fast blockchain payments without worrying about block confirmation times. Security is enforced by blockchain smart-contracts without creating a on-blockchain transaction for individual payments. Payment speed measured in milliseconds to seconds.
+### what does the lightning do?
+  - https://lightning.network/
+    - Scalable, Instant Bitcoin/Blockchain Transactions
+    - Transactions for the Future
+      - Instant Payments.
+        - Lightning-fast blockchain payments without worrying about block confirmation times. Security is enforced by blockchain smart-contracts without creating a on-blockchain transaction for individual payments. Payment speed measured in milliseconds to seconds.
 
-        - Scalability.
-          - Capable of millions to billions of transactions per second across the network. Capacity blows away legacy payment rails by many orders of magnitude. Attaching payment per action/click is now possible without custodians.
+      - Scalability.
+        - Capable of millions to billions of transactions per second across the network. Capacity blows away legacy payment rails by many orders of magnitude. Attaching payment per action/click is now possible without custodians.
 
-        - Low Cost.
-          - By transacting and settling off-blockchain, the Lightning Network allows for exceptionally low fees, which allows for emerging use cases such as instant micropayments.
+      - Low Cost.
+        - By transacting and settling off-blockchain, the Lightning Network allows for exceptionally low fees, which allows for emerging use cases such as instant micropayments.
 
-        - Cross Blockchains.
-          - Cross-chain atomic swaps can occur off-chain instantly with heterogeneous blockchain consensus rules. So long as the chains can support the same cryptographic hash function, it is possible to make transactions across blockchains without trust in 3rd party custodians.
+      - Cross Blockchains.
+        - Cross-chain atomic swaps can occur off-chain instantly with heterogeneous blockchain consensus rules. So long as the chains can support the same cryptographic hash function, it is possible to make transactions across blockchains without trust in 3rd party custodians.
 
-      - Powered by Blockchain Smart Contracts
-        - Lightning is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants.
+    - Powered by Blockchain Smart Contracts
+      - Lightning is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants.
 
-        - How it Works
-          - The Lightning Network is dependent upon the underlying technology of the blockchain.
-            - By using real Bitcoin/blockchain transactions and using its native smart-contract scripting language, it is possible to create a secure network of participants which are able to transact at high volume and high speed.
+      - How it Works
+        - The Lightning Network is dependent upon the underlying technology of the blockchain.
+          - By using real Bitcoin/blockchain transactions and using its native smart-contract scripting language, it is possible to create a secure network of participants which are able to transact at high volume and high speed.
 
-          - Bidirectional Payment Channels.
-            - Two participants create a ledger entry on the blockchain which requires both participants to sign off on any spending of funds. Both parties create transactions which refund the ledger entry to their individual allocation, but do not broadcast them to the blockchain. They can update their individual allocations for the ledger entry by creating many transactions spending from the current ledger entry output. Only the most recent version is valid, which is enforced by blockchain-parsable smart-contract scripting. This entry can be closed out at any time by either party without any trust or custodianship by broadcasting the most recent version to the blockchain.
+        - Bidirectional Payment Channels.
+          - Two participants create a ledger entry on the blockchain which requires both participants to sign off on any spending of funds. Both parties create transactions which refund the ledger entry to their individual allocation, but do not broadcast them to the blockchain. They can update their individual allocations for the ledger entry by creating many transactions spending from the current ledger entry output. Only the most recent version is valid, which is enforced by blockchain-parsable smart-contract scripting. This entry can be closed out at any time by either party without any trust or custodianship by broadcasting the most recent version to the blockchain.
 
-          - Lightning Network.
-            - By creating a network of these two-party ledger entries, it is possible to find a path across the network similar to routing packets on the internet. The nodes along the path are not trusted, as the payment is enforced using a script which enforces the atomicity (either the entire payment succeeds or fails) via decrementing time-locks.
+        - Lightning Network.
+          - By creating a network of these two-party ledger entries, it is possible to find a path across the network similar to routing packets on the internet. The nodes along the path are not trusted, as the payment is enforced using a script which enforces the atomicity (either the entire payment succeeds or fails) via decrementing time-locks.
 
-          - Blockchain as Arbiter.
-            - As a result, it is possible to conduct transactions off-blockchain without limitations. Transactions can be made off-chain with confidence of on-blockchain enforceability. This is similar to how one makes many legal contracts with others, but one does not go to court every time a contract is made. By making the transactions and scripts parsable, the smart-contract can be enforced on-blockchain. Only in the event of non-cooperation is the court involved – but with the blockchain, the result is deterministic.
+        - Blockchain as Arbiter.
+          - As a result, it is possible to conduct transactions off-blockchain without limitations. Transactions can be made off-chain with confidence of on-blockchain enforceability. This is similar to how one makes many legal contracts with others, but one does not go to court every time a contract is made. By making the transactions and scripts parsable, the smart-contract can be enforced on-blockchain. Only in the event of non-cooperation is the court involved – but with the blockchain, the result is deterministic.
 
-  * why not Masternode?
-    - MN is on the list of things to investigate, and we have discussed it before, but there needs to be an economic business case other than making free coins.  There is a room to discuss in our ryver/slack site, and i see us kicking things off again in Jan.  The problem we have is that we are very fast, very secure and with lightning we can do TOR style micropayments.  If you do research MN coins they are generally all pre-segwit bitcoin based, whereas we are 0.14 and don't need to make any compromises.
+### why not Masternode?
+  - MN is on the list of things to investigate, and we have discussed it before, but there needs to be an economic business case other than making free coins.  There is a room to discuss in our ryver/slack site, and i see us kicking things off again in Jan.  The problem we have is that we are very fast, very secure and with lightning we can do TOR style micropayments.  If you do research MN coins they are generally all pre-segwit bitcoin based, whereas we are 0.14 and don't need to make any compromises.
+
+
+
 
 ## MOBILE WALLET
   * SimonT answered on 2017-12-28
     - IOS is in progress whilst Android is in alpha at the moment.  Teams are working on this (we were discussing on xmas day) and it will be one of the most important things we deliver in Jan/Feb, although IOS will be all very hard work as soon as we submit to apple and their listing processes.
 
+
+
+
 ## EXCHANGE
-  * How the exchange works by SimonT
-    We apply to them, some of them charge money for the application.  Then they asses the coin and we do not hear back unless we are accepted.
+### How the exchange works.
+  - by SimonT
+    > We apply to them, some of them charge money for the application.  Then they asses the coin and we do not hear back unless we are accepted.
+    >
+    > Large exchanges are generally free, but often insist on a promotion programme of anything between 3-6btc
+    >
+    > Medium exchanges generally charge a lot of money, between 5 and 45btc. With these we pay upfront and they then consider our application before returning our money o we don't succeed
+    >
+    > Smaller exchanges are generally quite different and are responsive and helpful.
+    >
+    > To date we have 26 applications in flight.  I don't expect many responses until early Jan and even then we will probably have to reapply multiple times.
+    >
+    > Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
 
-    Large exchanges are generally free, but often insist on a promotion programme of anything between 3-6btc
+### Where can I buy HTML coins?
+  - [Bleutrade](https://bleutrade.com)
+  - [Trade Satoshi](https://tradesatoshi.com/)
 
-    Medium exchanges generally charge a lot of money, between 5 and 45btc. With these we pay upfront and they then consider our application before returning our money o we don't succeed
 
-    Smaller exchanges are generally quite different and are responsive and helpful.
 
-    To date we have 26 applications in flight.  I don't expect many responses until early Jan and even then we will probably have to reapply multiple times.
-
-    Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
-
-  * Where can I buy HTML coins?
-    - [Bleutrade](https://bleutrade.com)
-    - [Trade Satoshi](https://tradesatoshi.com/)
 
 ## Html.business
 ### PHASE I
@@ -440,6 +482,9 @@
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/business-reward-program/
 
+
+
+
 ## LINKS
   * HTMLCoin releases
     - Wallet downloads
@@ -467,10 +512,16 @@
     - The "HTMLCOIN Swap Delay At Yobit Exchange" topic
       - https://bitcointalk.org/index.php?topic=2610554o
 
+
+
+
 ## COIN BURN
   * Coinburn planned at anytime?
     - Please feel free to burn yours ;)
     - Dont burn it, sell to me for 1 sat
+
+
+
 
 ## TELEGRAM GROUPS
   * Main
@@ -496,9 +547,13 @@
     - 39 members as of 2018-01-03
   * if anything missing, please report to the main group.
 
+
+
+
 ## TELEGRAM ADMIN
   * scammers are out there and trying to steal your coins. When anyone contacts you with admin name and photo, check their user names. ask other admins and verify the user before giving out any sensitive information.
   * Admins will NEVER EVER ask anyone for donation or ask private keys. That is the red alert right there!
+
 
 
 ## CONTRIBUTORS
