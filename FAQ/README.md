@@ -2,9 +2,11 @@
 ## Table of contents
   * [Which is the new coin?](#which-is-the-new-coin)
   * [What is htmlcoin?](#what-is-htmlcoin)
+  * [Whitepaper](#whitepaper)
   * [Swap](#swap)
   * [Roadmap](#roadmap)
   * [Wallet](#wallet)
+  * [Paper Wallet](#paper-wallet)
   * [PoS](#pos)
   * [Mining](#mining)
   * [Total supply](#total-supply)
@@ -16,6 +18,7 @@
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
   * [Telegram admin members](#telegram-admin)
+  * [Contributors](#contributors)
 
 
 
@@ -88,6 +91,13 @@
 
   * Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
     - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
+
+
+
+## Whitepaper
+### HTMLCoin Official Whitepaper
+  - https://htmlcoin.com/whitepaper/
+
 
 
 
@@ -232,6 +242,14 @@
           - When the client connects to the mainnet it will switch chains to the longer chain which is also checkpointed. Next update will stop this situation from occuring to anyone except RegTest users but then you'd expect them to know what they are doing anyway.
         - QuidProCrypto:
           - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
+
+
+
+## PAPER WALLET
+### Does HTML coin have a paper wallet?
+  - paper wallets
+    - https://walletgenerator.net/?currency=HTMLCoin
+
 
 
 
