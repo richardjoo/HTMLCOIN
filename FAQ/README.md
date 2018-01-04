@@ -559,6 +559,9 @@
   * China
     - https://t.me/HTMLcoin_China
     - 19 members as of 2018-01-04
+  * France
+    - https://t.me/htmlcoinfr
+    - 10 members as of 2018-01-04
   * Japan
     - https://t.me/HTMLcoin_Japan
     - 36 members as of 2018-01-04
