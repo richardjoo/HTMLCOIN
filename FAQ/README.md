@@ -569,7 +569,7 @@
     - https://t.me/HTMLcoin_Korea
     - 598 members as of 2018-01-04
   * NL/BE
-    - https://t.me/joinchat/HTI6c0-NMjGSZSv17anWrA
+    - https://t.me/HTMLCOINDUTCH
     - 39 members as of 2018-01-04
   * Russia
     - https://t.me/htmlofficialrussia
