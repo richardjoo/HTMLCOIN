@@ -132,116 +132,129 @@
 
 
 ## WALLET
-  * How do I update to 2.0.0.3?
-    - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
-    - **Make sure to backup your wallet.dat to the multiple locations first!**
-    - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-    - Windows:
-      - install on top of existing software.
-    - Mac:
-      - double click the .dmg file and drag new wallet to Application folder
-      - when prompted to replace, click `replace`
-    - Linux: (untested and confirmed from other members)
-      - cd to HTMLCOIN folder
-      - git pull
-      - follow the README instruction again to make file.
-        - `./autogen.sh`
-        - `./configure`
-        - `make -j2`
+### How do I update to 2.0.0.3?
+  - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
+  - **Make sure to backup your wallet.dat to the multiple locations first!**
+  - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+  - Windows:
+    - install on top of existing software.
+  - Mac:
+    - double click the .dmg file and drag new wallet to Application folder
+    - when prompted to replace, click `replace`
+  - Linux: (untested and confirmed from other members)
+    - cd to HTMLCOIN folder
+    - git pull
+    - follow the README instruction again to make file.
+      - `./autogen.sh`
+      - `./configure`
+      - `make -j2`
 
-  * Do you have a video on how to backup and restore?
-    - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
-      - this is for DOGE but since it is QT wallet, they work the same.
+### My wallet is not synchronizing! Stuck with 0 connections and nothing works. What should I do?
+  - John R (bonchien), [Jan 5, 2018 at 10:04:15 AM]:
+    - I have found that people get stuck on headers sometimes
+    - when this happens, they repeatedly try to reinstall or clear the folder and start over but it doesn't work, sticks at the same spot
+    - I have found that if they had an initial problem they may end up with a background process that keeps being reconnected to even after uninstall reinstall and they continue to fail at the same spot
+    - to solve the problem (since I don't have a linux box atm) I am doing the following, 100% success rate
+      - Backup wallet.dat
+      - Clear user folders for HTMLCOIN and uninstall app
+      - REBOOT.  (This gets rid of the background process)
+      - Reinstall
+      - Run wallet.  I have seen it have to be started stoped and started again or wait a few minutes to get stable peers.
+      - Restore the wallet after sync.
 
-  * Do I have to encrypt my wallet?
-    - No you do not have to, but it is strongly recommended to encrypt your wallet.
-    - If anyone can access your unecrypted wallet.dat file, they can steal your coin.
+### Do you have a video on how to backup and restore?
+  - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
+    - this is for DOGE but since it is QT wallet, they work the same.
 
-  * Do I need to backup the wallet?
-    - yes, it is very important to backup your wallet frequently and save backup files to multiple locations. And also it is important to make multiple backup files.
-    - for example:
-      - name your backup wallet file to something like
-        - html-wallet-backup-2017-12-30-0430pm.dat
-        - html-wallet-backup-2017-12-31-0500pm.dat
-        - html-wallet-backup-2018-01-01-0100am.dat
-    - Your wallet.dat can get corrupted due to multiple reasons and same to your backup files.  That is why you want to make multiple backups like this and save them to multiple locations like this:
-      - backup to your usb stick - at least two of them
-      - backup to your hdd disk
-      - backup to your external hdd disk
-      - backup to cloud storage (not recommended unless you have encrypted your wallet.)
+### Do I have to encrypt my wallet?
+  - No you do not have to, but it is strongly recommended to encrypt your wallet.
+  - If anyone can access your unecrypted wallet.dat file, they can steal your coin.
 
-  * Why do I need to backup my wallet?
-    - It contains all of your private keys
-    - It is easy to restore your wallet to other computer or to your existing wallet when your wallet is corrupted or reinstalled and accidentally wiped your wallet.dat.
+### Do I need to backup the wallet?
+  - yes, it is very important to backup your wallet frequently and save backup files to multiple locations. And also it is important to make multiple backup files.
+  - for example:
+    - name your backup wallet file to something like
+      - html-wallet-backup-2017-12-30-0430pm.dat
+      - html-wallet-backup-2017-12-31-0500pm.dat
+      - html-wallet-backup-2018-01-01-0100am.dat
+  - Your wallet.dat can get corrupted due to multiple reasons and same to your backup files.  That is why you want to make multiple backups like this and save them to multiple locations like this:
+    - backup to your usb stick - at least two of them
+    - backup to your hdd disk
+    - backup to your external hdd disk
+    - backup to cloud storage (not recommended unless you have encrypted your wallet.)
 
-  * Can I open my same wallet.dat to multiple locations?
-    - yes you can, but it is not recommended because it can cause some unknown issues. You can open one for pure minotring purposes, but do this at your own risk.
+### Why do I need to backup my wallet?
+  - It contains all of your private keys
+  - It is easy to restore your wallet to other computer or to your existing wallet when your wallet is corrupted or reinstalled and accidentally wiped your wallet.dat.
 
-  * How to import / export private keys?
-    - To export a private key from your qt client:
-      - launch your htmlcoin client as usual and wait for it to load the blockchain and start up
-      - click on 'help' in the menu bar (top right)
-      - click on 'debug window'
-      - select the 'console' tab
-      - type: `walletpassphrase your-walletpassphrase-here 600`
-      - type: `dumpprivkey your-address-here`
-      - this will return the private key, you can copy it now; ensure you clear your clipboard/history afterwards
-      - type: `walletlock`
-      - when dumpprivkey fails for no reason, restart your wallet and try again.  this was tested :D
+### Can I open my same wallet.dat to multiple locations?
+  - yes you can, but it is not recommended because it can cause some unknown issues. You can open one for pure minotring purposes, but do this at your own risk.
 
-    - To import a private key
-      - launch your htmlcoin client as usual and wait for it to load the blockchain and start up
-      - click on 'help' in the menu bar (top right)
-      - click on 'debug window'
-      - select the 'console' tab
-      - type: `walletpassphrase your-walletpassphrase-here 600`
-      - type: `importprivkey privatekey`
-      - type: `walletlock`
-      - when importprivkey fails for no reason, restart your wallet and try again.
-        - also check to see if you mistakenly used the address instead of private key :D
+### How to import / export private keys?
+  - To export a private key from your qt client:
+    - launch your htmlcoin client as usual and wait for it to load the blockchain and start up
+    - click on 'help' in the menu bar (top right)
+    - click on 'debug window'
+    - select the 'console' tab
+    - type: `walletpassphrase your-walletpassphrase-here 600`
+    - type: `dumpprivkey your-address-here`
+    - this will return the private key, you can copy it now; ensure you clear your clipboard/history afterwards
+    - type: `walletlock`
+    - when dumpprivkey fails for no reason, restart your wallet and try again.  this was tested :D
 
-  * How to restore wallet.dat?
-    - Close your wallet software
-    - You must find where your wallet.dat is located.
-      - For windows: it is usually under `%APPDATA%\Roaming\HTMLCOIN\`
-      - For Mac: it is usually under `Library/Application Support/HTMLCOIN/`
-      - For Lunux: wherever you installed.
-    - Rename your current `wallet.dat` to something like `wallet-original.dat`
-    - Copy your backup wallet data file to where the `wallet-original.dat` is at.
-      - DO NOT MOVE your backed up file.  make sure to copy and paste.
-    - Rename your backup wallet data file to `wallet.dat`
-    - Start your wallet software.
+  - To import a private key
+    - launch your htmlcoin client as usual and wait for it to load the blockchain and start up
+    - click on 'help' in the menu bar (top right)
+    - click on 'debug window'
+    - select the 'console' tab
+    - type: `walletpassphrase your-walletpassphrase-here 600`
+    - type: `importprivkey privatekey`
+    - type: `walletlock`
+    - when importprivkey fails for no reason, restart your wallet and try again.
+      - also check to see if you mistakenly used the address instead of private key :D
 
-  * Can I recover my coins if my wallet.dat is corrupted?
-    - only way you can restore is either you have working backup wallet.dat or by importing your private keys to your newly installed wallet.
+### How to restore wallet.dat?
+  - Close your wallet software
+  - You must find where your wallet.dat is located.
+    - For windows: it is usually under `%APPDATA%\Roaming\HTMLCOIN\`
+    - For Mac: it is usually under `Library/Application Support/HTMLCOIN/`
+    - For Lunux: wherever you installed.
+  - Rename your current `wallet.dat` to something like `wallet-original.dat`
+  - Copy your backup wallet data file to where the `wallet-original.dat` is at.
+    - DO NOT MOVE your backed up file.  make sure to copy and paste.
+  - Rename your backup wallet data file to `wallet.dat`
+  - Start your wallet software.
 
-  * Why peers get banned?
-    - Sharing what your wallet interprets as old or incorrect data or a prefork source. Happens often, especially when syncing.
+### Can I recover my coins if my wallet.dat is corrupted?
+  - only way you can restore is either you have working backup wallet.dat or by importing your private keys to your newly installed wallet.
 
-  * Guys how long does it take for coin to show up on core wallet?
-    - 8 hours staking or after 501 confirmations
+### Why peers get banned?
+  - Sharing what your wallet interprets as old or incorrect data or a prefork source. Happens often, especially when syncing.
 
-  * whats the immature in the HTML desktop wallet mean ?
-    - means your coin needs to be matured and will take about 501 confirmations (8+ hours)
+### Guys how long does it take for coin to show up on core wallet?
+  - 8 hours staking or after 501 confirmations
 
-  * Is there a way for us to see number of confirmation?
-    - go to Transactions
-    - bring your mouse cursor over the circle left to the date from the list.  you will see how many confirmations from received/mined coins.
-    - You can also enable coin control in settings, then go to send, select inputs.  Then you can see the age of every block.
+### whats the immature in the HTML desktop wallet mean ?
+  - means your coin needs to be matured and will take about 501 confirmations (8+ hours)
 
-  * Says 0 active connections to HTML coin network.
-    - you will need to wait a bit and see you get more connections.  the worst case, restart the computer and before starting anything else, start the wallet and see if it works or not.  One of my newly downloaded OTHER coin is doing the same thing
-    - I find if I kill banlist.dat and peers.dat and restart I get connections immediately
+### Is there a way for us to see number of confirmation?
+  - go to Transactions
+  - bring your mouse cursor over the circle left to the date from the list.  you will see how many confirmations from received/mined coins.
+  - You can also enable coin control in settings, then go to send, select inputs.  Then you can see the age of every block.
 
-  * I am mining 1 million coins or mining a lot a lot, is this normal?
-    - Not a fake wallet, it can certainly be a genuine copy, but if the program can’t find a copy of the blockchain from another node, it starts it’s own. Hence the 100M+ coin blocks. Those are the swap premine.
-    - Peter Bushnell:
-      - The wallet should not allow solo mining without connections, however it does, which causes people to mine coins that are not part of the main blockchain. Next update will make sure that at least one other connection is required as set by the `fMiningRequiresPeers` in chainparams.
-      - Q: So if it errors like this it’ll just die off once it reconnects? We won’t get fake blocks on the network..?
-        - Peter Bushnell:
-          - When the client connects to the mainnet it will switch chains to the longer chain which is also checkpointed. Next update will stop this situation from occuring to anyone except RegTest users but then you'd expect them to know what they are doing anyway.
-        - QuidProCrypto:
-          - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
+### Says 0 active connections to HTML coin network.
+  - you will need to wait a bit and see you get more connections.  the worst case, restart the computer and before starting anything else, start the wallet and see if it works or not.  One of my newly downloaded OTHER coin is doing the same thing
+  - I find if I kill banlist.dat and peers.dat and restart I get connections immediately
+
+### I am mining 1 million coins or mining a lot a lot, is this normal?
+  - Not a fake wallet, it can certainly be a genuine copy, but if the program can’t find a copy of the blockchain from another node, it starts it’s own. Hence the 100M+ coin blocks. Those are the swap premine.
+  - Peter Bushnell:
+    - The wallet should not allow solo mining without connections, however it does, which causes people to mine coins that are not part of the main blockchain. Next update will make sure that at least one other connection is required as set by the `fMiningRequiresPeers` in chainparams.
+    - Q: So if it errors like this it’ll just die off once it reconnects? We won’t get fake blocks on the network..?
+      - Peter Bushnell:
+        - When the client connects to the mainnet it will switch chains to the longer chain which is also checkpointed. Next update will stop this situation from occuring to anyone except RegTest users but then you'd expect them to know what they are doing anyway.
+      - QuidProCrypto:
+        - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
 
 
 
