@@ -562,6 +562,9 @@
   * France
     - https://t.me/htmlcoinfr
     - 13 members as of 2018-01-04
+  * Germany
+    - https://t.me/htmlcoinde
+    - 3 members as of 2018-01-04
   * Japan
     - https://t.me/HTMLcoin_Japan
     - 37 members as of 2018-01-04
