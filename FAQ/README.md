@@ -391,7 +391,7 @@
 
 ## TOTAL SUPPLY
 ### what is the max supply?
-  - Circulating Supply: 79,880,383,750 as of 2018-01-04 (confirmed by getinfo)
+  - Circulating Supply: 79,882,668,750 as of 2018-01-05 4:34 PM UTC
     - How can it be higher than circulating supplu of h5?
       - Check out the white paper.  This explains the premine and 5 year funding model, there was also some contingency included which will be discussed when we understand the final numbers as mining two blockchains does cost extra.
   - Total Supply: 90,000,000,000
@@ -401,6 +401,8 @@
       - Go to HELP --> DEBUG WINDOW --> CONSOLE
       - type
         - `getinfo `
+        - DO NOT COPY AND PASTE THIS INFO PUBLICALLY since it contains your coin balance.
+        - Please make sure to hide your coin balance before posting this info.
 
   * In the spirit of transparency, this number will be fully auditted against the swap number after the 106 day window and decisions taken on what we do. (SimonT)
 
@@ -549,36 +551,57 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
+    - 5110 members as of 2018-01-05 4:27 PM UTC
     - 4833 members as of 2018-01-04
+
   * Non-official news
     - https://t.me/htmlcoinnews
+    - 331 members as of 2018-01-05 4:27 PM UTC
     - 330 members as of 2018-01-04
+
   * Brazil
     - https://t.me/htmlcoinbrasil
+    - 434 members as of 2018-01-5 4:28 PM UTC
     - 421 members as of 2018-01-04
+
   * China
     - https://t.me/HTMLcoin_China
+    - 22 members as of 2018-01-05 4:28 PM UTC
     - 20 members as of 2018-01-04
+
   * France
     - https://t.me/htmlcoinfr
+    - 19 members as of 2018-01-05 4:29 PM UTC
     - 14 members as of 2018-01-04
+
   * Germany
     - https://t.me/htmlcoinde
+    - 18 members as of 2018-01-05 4:30 PM UTC
     - 6 members as of 2018-01-04
+
   * Japan
     - https://t.me/HTMLcoin_Japan
+    - 38 members as of 2018-01-05 4:41 PM UTC
     - 37 members as of 2018-01-04
+
   * Korea
     - https://t.me/HTMLcoin_Korea
+    - 903 members as of 2018-01-05 4:31 PM UTC
     - 780 members as of 2018-01-04
+
   * NL/BE
     - https://t.me/HTMLCOINDUTCH
+    - 109 members as of 2018-01-05 4:32 PM UTC
     - 73 members as of 2018-01-04
+
   * Russia
     - https://t.me/htmlofficialrussia
+    - 60 members as of 2018-01-05 4:32 PM UTC
     - 57 members as of 2018-01-04
+
   * Turkiye
     - https://t.me/HTMLcoin_Turkey
+    - 37 members as of 2018-01-05 4:32 PM UTC
     - 33 members as of 2018-01-04
 
   * if anything missing, please report to the main group.
