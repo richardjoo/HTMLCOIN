@@ -6,6 +6,9 @@
 
   addnode 165.227.147.196 add```
 
+  - This is extra node list
+    - https://pastebin.com/VXj0MNqt
+
 ## Table of contents
   * [Which is the new coin?](#which-is-the-new-coin)
   * [What is htmlcoin?](#what-is-htmlcoin)
