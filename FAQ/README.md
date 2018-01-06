@@ -2,12 +2,11 @@
 ## IMPORTANT MESSAGE
   * This is the message from Peter Bushnell.
 
-  ```There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
+    - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
+      - addnode 165.227.147.196 add
 
-  addnode 165.227.147.196 add```
-
-  - This is extra node list
-    - https://pastebin.com/VXj0MNqt
+    - This is extra node list
+      - https://pastebin.com/VXj0MNqt
 
 ## Table of contents
   * [Which is the new coin?](#which-is-the-new-coin)
