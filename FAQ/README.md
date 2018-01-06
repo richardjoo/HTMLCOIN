@@ -564,57 +564,57 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
-    - 5110 members as of 2018-01-05 4:27 PM UTC
+    - 5518 members as of 2018-01-06 08:07 AM UTC
     - 4833 members as of 2018-01-04
 
   * Non-official news
     - https://t.me/htmlcoinnews
-    - 331 members as of 2018-01-05 4:27 PM UTC
+    - 361 members as of 2018-01-06 08:07 AM UTC
     - 330 members as of 2018-01-04
 
   * Brazil
     - https://t.me/htmlcoinbrasil
-    - 434 members as of 2018-01-5 4:28 PM UTC
+    - 466 members as of 2018-01-06 08:07 AM UTC
     - 421 members as of 2018-01-04
 
   * China
     - https://t.me/HTMLcoin_China
-    - 22 members as of 2018-01-05 4:28 PM UTC
+    - 22 members as of 2018-01-06 08:07 AM UTC
     - 20 members as of 2018-01-04
 
   * France
     - https://t.me/htmlcoinfr
-    - 19 members as of 2018-01-05 4:29 PM UTC
+    - 26 members as of 2018-01-06 08:07 AM UTC
     - 14 members as of 2018-01-04
 
   * Germany
     - https://t.me/htmlcoinde
-    - 18 members as of 2018-01-05 4:30 PM UTC
+    - 32 members as of 2018-01-06 08:07 AM UTC
     - 6 members as of 2018-01-04
 
   * Japan
     - https://t.me/HTMLcoin_Japan
-    - 38 members as of 2018-01-05 4:41 PM UTC
+    - 39 members as of 2018-01-06 08:07 AM UTC
     - 37 members as of 2018-01-04
 
   * Korea
     - https://t.me/HTMLcoin_Korea
-    - 903 members as of 2018-01-05 4:31 PM UTC
+    - 1044 members as of 2018-01-06 08:07 AM UTC
     - 780 members as of 2018-01-04
 
   * NL/BE
     - https://t.me/HTMLCOINDUTCH
-    - 109 members as of 2018-01-05 4:32 PM UTC
+    - 145 members as of 2018-01-06 08:07 AM UTC
     - 73 members as of 2018-01-04
 
   * Russia
     - https://t.me/htmlofficialrussia
-    - 60 members as of 2018-01-05 4:32 PM UTC
+    - 72 members as of 2018-01-06 08:07 AM UTC
     - 57 members as of 2018-01-04
 
   * Turkiye
     - https://t.me/HTMLcoin_Turkey
-    - 37 members as of 2018-01-05 4:32 PM UTC
+    - 43 members as of 2018-01-06 08:07 AM UTC
     - 33 members as of 2018-01-04
 
   * if anything missing, please report to the main group.
