@@ -4,7 +4,7 @@
 
     - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
       - addnode 165.227.147.196 add
-        - male sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
+        - make sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
         - you will see `null` and that means the node has been successfully added.
 
     - This is extra node list
