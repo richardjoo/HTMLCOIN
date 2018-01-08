@@ -55,6 +55,10 @@
 
     - Blockchain isnt magic, it needs to be utility for the real world.
 
+  * Articles:
+    - The latest POMA Article from Nasdaq:
+      - http://www.nasdaq.com/press-release/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin-20180102-00944
+
 
 
 ## WHICH IS THE NEW COIN?
