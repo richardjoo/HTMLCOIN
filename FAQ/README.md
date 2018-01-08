@@ -64,6 +64,8 @@
     - Bleutrade = new coin
     - Yobit = SUCKS and has an old coin
     - Tradesatoshi = has both new and old coin, the old coin will close around January 10th, 2018
+    - Can I send HTML5 to HTML coin?
+      - no you cannot.  You will lose your coins permanently.
 
 
 
@@ -200,12 +202,14 @@
       - Run wallet.  I have seen it have to be started stoped and started again or wait a few minutes to get stable peers.
       - Restore the wallet after sync.
 
-## My Anti-virus software says the wallet software has a virus!!
+##$ My Anti-virus software says the wallet software has a virus!!
   - Some antivirus software will complain that this download is a virus, but don’t worry
   — it’s a false positive. You can scan the file with 45 antivirus programs on virustotal.com
 
-## Another connection issue
-
+##$ Assertion error is keep happening and not going away.  what should I do?
+  * Delete everything in your roaming profile datadir except wallet.dat and let the chain resync. If that doesn’t fix it, you may need to delete everything and use your backup wallet/keys. (QuidProCrypto)
+    - If you are worried about this, simply copy the entire HTMLCOIN folder to HTMLCOIN_old and delete everything from the HTMLCOIN except wallet.dat
+    - Start the wallet app and let it resync.
 
 ### Do you have a video on how to backup and restore?
   - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
@@ -682,6 +686,16 @@
   * if anything missing, please report to the main group.
 
 
+## WHAT'S APP
+  * the Brazilian community is divided into telegram and whatsapp, it is much bigger than here in the telegram, today we already have 4 groups in whatsapp and 1 in the telegram.
+    - 730 members in whatsap and we are close to reaching 1000 users in whatsapp or even more.
+    - groups 1 and 2 are full and 3 and Hold are free I will pass you the links
+    - GROUP 1,2,4 = FULL
+    - GROUP 3. HOLD = OPEN
+      - htmlcoin hold
+        - https://chat.whatsapp.com/A33IY09u1xj2y1bhZYjd19
+      - group 3
+        - https://chat.whatsapp.com/Joh5hgVGTgFHJYBf0Gnw4S
 
 
 ## TELEGRAM ADMIN
