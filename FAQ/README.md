@@ -165,7 +165,9 @@
         6. Just wait swap process
           - This process has a human labor.  It can take 1 to 24 hours
           - If you do not receive coins after 24 hours, please contact dev@htmlcoin.com
-
+          - Sometimes, the swap server runs out of coins and needs to be reloaded.
+            - Peter Bushenll wrote:
+              - _The swap server had run out of coins and has now been topped up._
 
 
 ## ROADMAP
