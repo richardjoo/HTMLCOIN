@@ -584,6 +584,9 @@
 
 
 ## EXCHANGE
+### Why CMC hasnt yet updated their market cap?
+  - HTML Foundation sent request and waiting for them to update.
+
 ### How the exchange works.
   - by SimonT
     > We apply to them, some of them charge money for the application.  Then they asses the coin and we do not hear back unless we are accepted.
