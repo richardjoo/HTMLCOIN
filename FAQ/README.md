@@ -60,7 +60,7 @@
 
     - [P.O.M.A. Blockchain Platform Launched By Top 2018 Cryptocurrency HTMLCOIN](http://m.wmcactionnews5.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin)
 
-    - rightnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+    - http://www.nbcrightnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
 
     - http://www.khq.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
 
