@@ -355,6 +355,11 @@
       - QuidProCrypto:
         - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
 
+### The staking expected time to earn reward is not working.
+  - This is happening because of QTUM wallet is having the staking calculation issue.
+  - The indept technical note can be found the link below:
+    - [Staking is correct](https://github.com/HTMLCOIN/HTMLCOIN/issues/5)
+
 ### Is there any manual for this wallet?
   * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
     - click right button and select "save link as"
@@ -491,6 +496,9 @@
   - follow the README instruction
   - you can download `htmlcoin-cli-mining.sh` file by right button on that file link and save as.
   - You can save the file to the wallet folder or one above.
+  - When I use this script on multiple sessions, it only uses 4 cores even if I have 32 cores.  Why?
+    - As an external miner is slow coming a better internal miner is something that I can work on, when you can set it to keep mining and allow you to set the thread count. When I get the time I'll get on to this but I'm stretched very thinly at the moment, not taken any days off now for months. This is on my to-do list.
+      - Peter Bushnell (2018-01-08)
 
 ### HTML coin mining with raspberry pi3
   - This is not completed, but you can follow this link below:
@@ -499,6 +507,8 @@
 ### Where is the mining pool?
   - No mining pool is available at the moment.
   - Currently wallet CPU solo mining only.
+  - External miner is slow coming in that it does not yet exist and I've not been able to pin down a miner developer. Internal mining only at the moment.
+    - Peter Bushnell (2018-01-08)
 
 ### Can I mine with my graphics card?
   - No, you can't.
