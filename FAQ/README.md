@@ -174,6 +174,7 @@
 ### HTMLCoin Official Whitepaper
   - https://htmlcoin.com/whitepaper/
   - You can also download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/Htmlcoin-White-Paper-V.5-For-Public-Release.pdf)
+    - click right button and select "save link as"
 
 
 
@@ -348,6 +349,7 @@
 
 ### Is there any manual for this wallet?
   * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
+    - click right button and select "save link as"
 
 
 
@@ -414,6 +416,8 @@
 ### Where can I find out more?
   - HTML uses an implementation of POS3.0 originally used by Black Coin:
     - https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf
+      - click right button and select "save link as"
+
   - QTUM uses the same staking method:
     - https://medium.com/@jb395official/an-introduction-to-qtum-proof-of-stake-mining-a-racing-story-f11a3f48009f
 
