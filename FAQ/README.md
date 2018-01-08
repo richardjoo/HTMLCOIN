@@ -10,7 +10,10 @@
     - This is extra node list
       - https://pastebin.com/VXj0MNqt
 
+  * MPORTANT NOTICE: bittrex, binance, cryptopia, tradesatoshi, Bitfinex, and CEX.io ALL STOPPED ACCEPTING NEW USERS BECAUSE THE websites cannot handle the extra crypto traffice!!! Sign up for all crypto exchanges NOW so you can trade when HTML gets listed on the others!!!!
+
 ## Table of contents
+  * [POMA](#proof-of-mass-adoption)
   * [Which is the new coin?](#which-is-the-new-coin)
   * [What is htmlcoin?](#what-is-htmlcoin)
   * [Whitepaper](#whitepaper)
@@ -25,11 +28,32 @@
   * [Mobile wallet](#mobile-wallet)
   * [Exchange](#exchange)
   * [HtmlBusiness](#htmlbusiness)
+  * [Blockchain Explorer and API](#blockchain-explorer)
   * [Links](#links)
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
   * [Telegram admin members](#telegram-admin)
   * [Contributors](#contributors)
+
+
+
+
+## Proof Of Mass Adoption
+  * What is PoMA?
+    - PoMA stands for Proof of Mass Adoption
+
+  * WHY ARE WE TAKING THE ADOPTION APPROACH ?
+    - When we have both the store of value and smart contract/commercial features of the two 'coin families', we have the ability to grow a new and very broad group of users for the coin and its wallet (store of value), and then begin to introduce interesting services to a growing marketplace.
+
+    - This is where our philosophy is different to many platform coins, who are focussed on creating a place for businesses.  We don't disagree with this at all, but where we are with the blockchain industry at the moment we need both adoption and cool services, on mobiles and PC's.  We believe most people in our industry target one or the other, and not both.
+
+    - Over the next months (and years), you will see the foundation encourage and promote projects which do both.
+      1. Broad adoption with a coin that is easy to use and doesnt scare away new users.
+      2. Real services, and things which our growing community of users can easily access.
+
+    - We will have many cool and complex services (we are talking to a number of third parties), but what we want to do is create the market for many of our partners who chose to build services on HTML..... we believe too many coin platforms aren't making crypto accessible enough.
+
+    - Blockchain isnt magic, it needs to be utility for the real world.
 
 
 
@@ -103,6 +127,9 @@
   * Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
     - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
 
+  * What is 51% attack?
+    - This page wih youtube video explains what the 51% attack is.
+      - [What is a 51% Attack – Simplified Bitcoin Tutorial](https://99bitcoins.com/51-attack-simplified-bitcoin-tutorial/)
 
 
 ## Whitepaper
@@ -503,6 +530,9 @@
 ### Where can I buy HTML coins?
   - [Bleutrade](https://bleutrade.com)
   - [Trade Satoshi](https://tradesatoshi.com/)
+  - [CryptoBridge](https://crypto-bridge.org)
+    - [wallet](https://wallet.crypto-bridge.org)
+    - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
 
 
 
@@ -539,6 +569,17 @@
     - https://htmlcoin.business/dapp-playground/business-reward-program/
 
 
+## Blockchain Explorer
+  * [Un-official HTML blockchain explorer](https://html.mastercalls.io/)
+  * API
+    - what is API?
+      - A software intermediary that allows two applications to talk to each other.
+    - http://api.htmlcoin.com:3001/htmlcoin-api/status?q=getInfo
+    - https://github.com/HTMLCOIN/htmlcoin-api
+      - it has a manual!!!
+      - example:
+        - http://api.htmlcoin.com:3001/htmlcoin-api/addr/YOUR-ADDRESS-HERE
+
 
 
 ## LINKS
@@ -567,6 +608,9 @@
   * Bitcointalk
     - The "HTMLCOIN Swap Delay At Yobit Exchange" topic
       - https://bitcointalk.org/index.php?topic=2610554o
+
+  * HTMLCOIN & HTML Blockchain: First Live Stream
+    - https://www.youtube.com/watch?v=HMo77gPd1a0&t=35s
 
 
 
