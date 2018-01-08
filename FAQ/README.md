@@ -27,6 +27,7 @@
   * [Mobile wallet](#mobile-wallet)
   * [Exchange](#exchange)
   * [HtmlBusiness](#htmlbusiness)
+  * [Blockchain Explorer and API](#blockchain-explorer)
   * [Links](#links)
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
@@ -539,6 +540,15 @@
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/business-reward-program/
 
+
+## Blockchain Explorer
+  * [Un-official HTML blockchain explorer](https://html.mastercalls.io/)
+  * API
+    - http://api.htmlcoin.com:3001/htmlcoin-api/status?q=getInfo
+    - https://github.com/HTMLCOIN/htmlcoin-api
+      - it has a manual!!!
+      - example:
+        - http://api.htmlcoin.com:3001/htmlcoin-api/addr/YOUR-ADDRESS-HERE
 
 
 
