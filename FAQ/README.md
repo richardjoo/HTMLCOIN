@@ -58,39 +58,21 @@
     - Blockchain isnt magic, it needs to be utility for the real world.
 
   * Articles:
-    - [The latest POMA Article from Nasdaq](http://www.nasdaq.com/press-release/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin-20180102-00944)
+    - http://www.nasdaq.com/press-release/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin-20180102-00944
 
-    - [P.O.M.A. Blockchain Platform Launched By Top 2018 Cryptocurrency HTMLCOIN](http://m.wmcactionnews5.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin)
+    - http://www.menafn.com/1096309905/Top-Cryptocurrency-HTMLCOIN-Announces-POMA-Blockchain-Platform-for-2018
+
+    - https://www.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
 
     - http://www.nbcrightnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
 
-    - http://www.khq.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+    - http://finance.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
 
-    - http://thesportship.com/news/p-o-m-a-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin/0042378/
+    - http://markets.financialcontent.com/stocks/news/read/35529486
 
-    - http://www.hawaiinewsnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+    - http://markets.financialcontent.com/dowtheoryletters/news/read/35529486
 
-    - http://www.kswo.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.fox8live.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.wafb.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.kuam.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.wandtv.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.newswest9.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.newschannel6now.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.erietvnews.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.wrcbtv.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.kxxv.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
-
-    - http://www.ksla.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+    - http://tech.asialogue.com/news/p-o-m-a-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin/0042378/
 
 
 ## WHICH IS THE NEW COIN?
