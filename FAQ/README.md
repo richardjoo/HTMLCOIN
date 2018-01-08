@@ -498,6 +498,9 @@
 ### Where can I buy HTML coins?
   - [Bleutrade](https://bleutrade.com)
   - [Trade Satoshi](https://tradesatoshi.com/)
+  - [CryptoBridge](https://crypto-bridge.org)
+    - [wallet](https://wallet.crypto-bridge.org)
+    - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
 
 
 
