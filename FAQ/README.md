@@ -1,18 +1,6 @@
 # HTMLCOIN Frequently Asked Questions
-## IMPORTANT MESSAGE
-  * Wallet v.2.0.0.3 connection issue
-    * The message from Peter Bushnell.
-      - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
-        - addnode 165.227.147.196 add
-          - make sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
-          - you will see `null` and that means the node has been successfully added.
-      - Extra node list
-        - https://pastebin.com/VXj0MNqt
-
-  * Exchanges are not accepting new users!
-    - bittrex, binance, cryptopia, tradesatoshi, Bitfinex, and CEX.io ALL STOPPED ACCEPTING NEW USERS BECAUSE THE websites cannot handle the extra crypto traffice!!! Sign up for all crypto exchanges NOW so you can trade when HTML gets listed on the others!!!!
-
 ## Table of contents
+  * [Important Message](#iimportant-message)
   * [POMA](#proof-of-mass-adoption)
   * [Which is the new coin?](#which-is-the-new-coin)
   * [What is htmlcoin?](#what-is-htmlcoin)
@@ -35,6 +23,20 @@
   * [Telegram admin members](#telegram-admin)
   * [Contributors](#contributors)
 
+
+
+## IMPORTANT MESSAGE
+  * Wallet v.2.0.0.3 connection issue
+    * The message from Peter Bushnell.
+      - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
+        - addnode 165.227.147.196 add
+          - make sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
+          - you will see `null` and that means the node has been successfully added.
+      - Extra node list
+        - https://pastebin.com/VXj0MNqt
+
+  * Exchanges are not accepting new users!
+    - bittrex, binance, cryptopia, tradesatoshi, Bitfinex, and CEX.io ALL STOPPED ACCEPTING NEW USERS BECAUSE THE websites cannot handle the extra crypto traffice!!! Sign up for all crypto exchanges NOW so you can trade when HTML gets listed on the others!!!!
 
 
 
