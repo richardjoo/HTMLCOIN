@@ -1,16 +1,7 @@
 # HTMLCOIN Frequently Asked Questions
-## IMPORTANT MESSAGE
-  * This is the message from Peter Bushnell.
-
-    - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
-      - addnode 165.227.147.196 add
-        - make sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
-        - you will see `null` and that means the node has been successfully added.
-
-    - This is extra node list
-      - https://pastebin.com/VXj0MNqt
-
 ## Table of contents
+  * [Important Message](#iimportant-message)
+  * [POMA](#proof-of-mass-adoption)
   * [Which is the new coin?](#which-is-the-new-coin)
   * [What is htmlcoin?](#what-is-htmlcoin)
   * [Whitepaper](#whitepaper)
@@ -25,12 +16,81 @@
   * [Mobile wallet](#mobile-wallet)
   * [Exchange](#exchange)
   * [HtmlBusiness](#htmlbusiness)
+  * [Blockchain Explorer and API](#blockchain-explorer)
   * [Links](#links)
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
   * [Telegram admin members](#telegram-admin)
   * [Contributors](#contributors)
 
+
+
+## IMPORTANT MESSAGE
+  * Wallet v.2.0.0.3 connection issue
+    * The message from Peter Bushnell.
+      - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
+        - addnode 165.227.147.196 add
+          - make sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
+          - you will see `null` and that means the node has been successfully added.
+      - Extra node list
+        - https://pastebin.com/VXj0MNqt
+
+  * Exchanges are not accepting new users!
+    - bittrex, binance, cryptopia, tradesatoshi, Bitfinex, and CEX.io ALL STOPPED ACCEPTING NEW USERS BECAUSE THE websites cannot handle the extra crypto traffice!!! Sign up for all crypto exchanges NOW so you can trade when HTML gets listed on the others!!!!
+
+
+
+## Proof Of Mass Adoption
+  * What is PoMA?
+    - PoMA stands for Proof of Mass Adoption
+
+  * WHY ARE WE TAKING THE ADOPTION APPROACH ?
+    - When we have both the store of value and smart contract/commercial features of the two 'coin families', we have the ability to grow a new and very broad group of users for the coin and its wallet (store of value), and then begin to introduce interesting services to a growing marketplace.
+
+    - This is where our philosophy is different to many platform coins, who are focussed on creating a place for businesses.  We don't disagree with this at all, but where we are with the blockchain industry at the moment we need both adoption and cool services, on mobiles and PC's.  We believe most people in our industry target one or the other, and not both.
+
+    - Over the next months (and years), you will see the foundation encourage and promote projects which do both.
+      1. Broad adoption with a coin that is easy to use and doesnt scare away new users.
+      2. Real services, and things which our growing community of users can easily access.
+
+    - We will have many cool and complex services (we are talking to a number of third parties), but what we want to do is create the market for many of our partners who chose to build services on HTML..... we believe too many coin platforms aren't making crypto accessible enough.
+
+    - Blockchain isnt magic, it needs to be utility for the real world.
+
+  * Articles:
+    - [The latest POMA Article from Nasdaq](http://www.nasdaq.com/press-release/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin-20180102-00944)
+
+    - [P.O.M.A. Blockchain Platform Launched By Top 2018 Cryptocurrency HTMLCOIN](http://m.wmcactionnews5.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin)
+
+    - http://www.nbcrightnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.khq.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://thesportship.com/news/p-o-m-a-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin/0042378/
+
+    - http://www.hawaiinewsnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.kswo.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.fox8live.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.wafb.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.kuam.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.wandtv.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.newswest9.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.newschannel6now.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.erietvnews.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.wrcbtv.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.kxxv.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+
+    - http://www.ksla.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
 
 
 ## WHICH IS THE NEW COIN?
@@ -40,6 +100,8 @@
     - Bleutrade = new coin
     - Yobit = SUCKS and has an old coin
     - Tradesatoshi = has both new and old coin, the old coin will close around January 10th, 2018
+    - Can I send HTML5 to HTML coin?
+      - no you cannot.  You will lose your coins permanently.
 
 
 
@@ -103,11 +165,15 @@
   * Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
     - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
 
+  * What is 51% attack?
+    - This page wih youtube video explains what the 51% attack is.
+      - [What is a 51% Attack – Simplified Bitcoin Tutorial](https://99bitcoins.com/51-attack-simplified-bitcoin-tutorial/)
 
 
 ## Whitepaper
 ### HTMLCoin Official Whitepaper
   - https://htmlcoin.com/whitepaper/
+  - You can also download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/Htmlcoin-White-Paper-V.5-For-Public-Release.pdf)
 
 
 
@@ -126,14 +192,18 @@
     * there is a pdf file
     * also this
       - 6 Step easy to swap
-        1. [Download desktop wallet new HTML v2.0.02](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-        2. Make a new HTMLcoin v2.0.0.2 address on menu request payment
+        1. [Download desktop wallet new HTML v2.0.0.3](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+        2. Make a new HTMLcoin v2.0.0.3 address on menu request payment
         3. [Fill the form](https://htmlcoin.com/swap-form/)
         Copy and paste the new wallet address,email and submit
         4. After submit you will get old html5 address
         5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
         6. Just wait swap process
-
+          - This process has a human labor.  It can take 1 to 24 hours
+          - If you do not receive coins after 24 hours, please contact dev@htmlcoin.com
+          - Sometimes, the swap server runs out of coins and needs to be reloaded.
+            - Peter Bushenll wrote:
+              - _The swap server had run out of coins and has now been topped up._
 
 
 ## ROADMAP
@@ -172,6 +242,15 @@
       - Reinstall
       - Run wallet.  I have seen it have to be started stoped and started again or wait a few minutes to get stable peers.
       - Restore the wallet after sync.
+
+### My Anti-virus software says the wallet software has a virus!!
+  - Some antivirus software will complain that this download is a virus, but don’t worry
+  — it’s a false positive. You can scan the file with 45 antivirus programs on virustotal.com
+
+### Assertion error is keep happening and not going away.  what should I do?
+  * Delete everything in your roaming profile datadir except wallet.dat and let the chain resync. If that doesn’t fix it, you may need to delete everything and use your backup wallet/keys. (QuidProCrypto)
+    - If you are worried about this, simply copy the entire HTMLCOIN folder to HTMLCOIN_old and delete everything from the HTMLCOIN except wallet.dat
+    - Start the wallet app and let it resync.
 
 ### Do you have a video on how to backup and restore?
   - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
@@ -266,6 +345,10 @@
         - When the client connects to the mainnet it will switch chains to the longer chain which is also checkpointed. Next update will stop this situation from occuring to anyone except RegTest users but then you'd expect them to know what they are doing anyway.
       - QuidProCrypto:
         - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
+
+### Is there any manual for this wallet?
+  * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
+
 
 
 
@@ -496,41 +579,55 @@
 ### Where can I buy HTML coins?
   - [Bleutrade](https://bleutrade.com)
   - [Trade Satoshi](https://tradesatoshi.com/)
+  - [CryptoBridge](https://crypto-bridge.org)
+    - [wallet](https://wallet.crypto-bridge.org)
+    - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
 
 
 
 
 ## Html.business
 ### PHASE I
-  1. Medical data processing: We are creating a Private Healthcare Data Blockchain Solutions to support logdata.
+  - Medical data processing: We are creating a Private Healthcare Data Blockchain Solutions to support logdata.
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/medical-data-processing/
-  2. The Brasil Token: The Brasil Token (BRSIL) is created to build a bridge between startups, creatives and corporates in Brasil
+  - The Brasil Token: The Brasil Token (BRSIL) is created to build a bridge between startups, creatives and corporates in Brasil
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/brasil-token/
 
-  3. Merchants: Proof-of-Delivery
+  - Merchants: Proof-of-Delivery
     - Simplifying the transport industry with blockchain technology!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/merchants-proof-of-delivery/
 
-  4. New Token Creation Platform.
+  - New Token Creation Platform.
     - On our platform any creative idea for services or products will have a chance to become a reality!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/token-creation-platform/
-  5. Create your own Gaming website.
+  - Create your own Gaming website.
     - At the request of many among you! As promised:  Gaming websites!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/create-your-own-gaming-website-htmlcoin-payments/
-  6. Smart Contracts
+  - Smart Contracts
     - There is no need for physical meetings and signatures anymore. Legal agreements for your clients can be made quickly and efficiently with a few clicks!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/smart-contracts/
-  7. THE HTMCOIN.BUSINESS REWARD PROGRAM
+  - THE HTMCOIN.BUSINESS REWARD PROGRAM
     - You can earn money, tokens and coins by simply telling the world about the services and ICO’s conducted by our Token Creation platform!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/business-reward-program/
 
+
+## Blockchain Explorer
+  * [Un-official HTML blockchain explorer](https://html.mastercalls.io/)
+  * API
+    - what is API?
+      - A software intermediary that allows two applications to talk to each other.
+    - http://api.htmlcoin.com:3001/htmlcoin-api/status?q=getInfo
+    - https://github.com/HTMLCOIN/htmlcoin-api
+      - it has a manual!!!
+      - example:
+        - http://api.htmlcoin.com:3001/htmlcoin-api/addr/YOUR-ADDRESS-HERE
 
 
 
@@ -560,6 +657,11 @@
   * Bitcointalk
     - The "HTMLCOIN Swap Delay At Yobit Exchange" topic
       - https://bitcointalk.org/index.php?topic=2610554o
+
+  * HTMLCOIN & HTML Blockchain: First Live Stream
+    - https://www.youtube.com/watch?v=HMo77gPd1a0&t=35s
+
+
 
 
 
@@ -631,6 +733,16 @@
   * if anything missing, please report to the main group.
 
 
+## WHAT'S APP
+  * the Brazilian community is divided into telegram and whatsapp, it is much bigger than here in the telegram, today we already have 4 groups in whatsapp and 1 in the telegram.
+    - 730 members in whatsap and we are close to reaching 1000 users in whatsapp or even more.
+    - groups 1 and 2 are full and 3 and Hold are free I will pass you the links
+    - GROUP 1,2,4 = FULL
+    - GROUP 3. HOLD = OPEN
+      - htmlcoin hold
+        - https://chat.whatsapp.com/A33IY09u1xj2y1bhZYjd19
+      - group 3
+        - https://chat.whatsapp.com/Joh5hgVGTgFHJYBf0Gnw4S
 
 
 ## TELEGRAM ADMIN
