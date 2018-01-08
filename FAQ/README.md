@@ -156,13 +156,15 @@
     * there is a pdf file
     * also this
       - 6 Step easy to swap
-        1. [Download desktop wallet new HTML v2.0.02](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-        2. Make a new HTMLcoin v2.0.0.2 address on menu request payment
+        1. [Download desktop wallet new HTML v2.0.0.3](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+        2. Make a new HTMLcoin v2.0.0.3 address on menu request payment
         3. [Fill the form](https://htmlcoin.com/swap-form/)
         Copy and paste the new wallet address,email and submit
         4. After submit you will get old html5 address
         5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
         6. Just wait swap process
+          - This process has a human labor.  It can take 1 to 24 hours
+          - If you do not receive coins after 24 hours, please contact dev@htmlcoin.com
 
 
 
@@ -203,11 +205,11 @@
       - Run wallet.  I have seen it have to be started stoped and started again or wait a few minutes to get stable peers.
       - Restore the wallet after sync.
 
-##$ My Anti-virus software says the wallet software has a virus!!
+### My Anti-virus software says the wallet software has a virus!!
   - Some antivirus software will complain that this download is a virus, but don’t worry
   — it’s a false positive. You can scan the file with 45 antivirus programs on virustotal.com
 
-##$ Assertion error is keep happening and not going away.  what should I do?
+### Assertion error is keep happening and not going away.  what should I do?
   * Delete everything in your roaming profile datadir except wallet.dat and let the chain resync. If that doesn’t fix it, you may need to delete everything and use your backup wallet/keys. (QuidProCrypto)
     - If you are worried about this, simply copy the entire HTMLCOIN folder to HTMLCOIN_old and delete everything from the HTMLCOIN except wallet.dat
     - Start the wallet app and let it resync.
@@ -308,6 +310,8 @@
 
 ### Is there any manual for this wallet?
   * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
+
+
 
 
 ## PAPER WALLET
