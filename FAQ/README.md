@@ -305,6 +305,8 @@
       - QuidProCrypto:
         - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
 
+### Is there any manual for this wallet?
+  * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
 
 
 ## PAPER WALLET
@@ -615,6 +617,8 @@
 
   * HTMLCOIN & HTML Blockchain: First Live Stream
     - https://www.youtube.com/watch?v=HMo77gPd1a0&t=35s
+
+
 
 
 
