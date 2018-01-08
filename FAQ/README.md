@@ -173,6 +173,13 @@
       - Run wallet.  I have seen it have to be started stoped and started again or wait a few minutes to get stable peers.
       - Restore the wallet after sync.
 
+## My Anti-virus software says the wallet software has a virus!!
+  - Some antivirus software will complain that this download is a virus, but don’t worry
+  — it’s a false positive. You can scan the file with 45 antivirus programs on virustotal.com
+
+## Another connection issue
+
+
 ### Do you have a video on how to backup and restore?
   - [QT wallet how to backup and restore](https://www.youtube.com/watch?v=YdFPfDTCLhQ&t=4s)
     - this is for DOGE but since it is QT wallet, they work the same.
