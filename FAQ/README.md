@@ -29,6 +29,8 @@
   * Wallet v.2.0.0.4 has been released!
     - It is not mandatory, but strongly recommended!
     - https://github.com/HTMLCOIN/HTMLCOIN/releases
+      - Fix crash when given a checkpoint not yet in the blockchain.
+      - Additional seeders and pnSeeds for new client connectivity.
 
   * Wallet v.2.0.0.3 connection issue
     * The message from Peter Bushnell.
