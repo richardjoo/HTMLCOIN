@@ -26,6 +26,12 @@
 
 
 ## IMPORTANT MESSAGE
+  * Wallet v.2.0.0.4 has been released!
+    - It is not mandatory, but strongly recommended!
+    - https://github.com/HTMLCOIN/HTMLCOIN/releases
+      - Fix crash when given a checkpoint not yet in the blockchain.
+      - Additional seeders and pnSeeds for new client connectivity.
+
   * Wallet v.2.0.0.3 connection issue
     * The message from Peter Bushnell.
       - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
@@ -73,6 +79,9 @@
     - http://markets.financialcontent.com/dowtheoryletters/news/read/35529486
 
     - http://tech.asialogue.com/news/p-o-m-a-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin/0042378/
+
+    - Do you want to see the **ENTIRE LIST**?  Here you go!! :D
+      - https://s3.amazonaws.com/bitcoinnearme/HTMLCOIN+NEWS+POMA.pdf
 
 
 ## WHICH IS THE NEW COIN?
@@ -196,6 +205,23 @@
 
 
 ## WALLET
+### How do I update to 2.0.0.4?
+  - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
+  - **Make sure to backup your wallet.dat to the multiple locations first!**
+  - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+  - Windows:
+    - install on top of existing software.
+  - Mac:
+    - double click the .dmg file and drag new wallet to Application folder
+    - when prompted to replace, click `replace`
+  - Linux: (untested and confirmed from other members)
+    - cd to HTMLCOIN folder
+    - git pull
+    - follow the README instruction again to make file.
+      - `./autogen.sh`
+      - `./configure`
+      - `make -j2`
+
 ### How do I update to 2.0.0.3?
   - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
   - **Make sure to backup your wallet.dat to the multiple locations first!**
