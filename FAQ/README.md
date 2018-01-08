@@ -105,6 +105,9 @@
   * Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
     - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
 
+  * What is 51% attack?
+    - This page wih youtube video explains what the 51% attack is.
+      - [What is a 51% Attack – Simplified Bitcoin Tutorial](https://99bitcoins.com/51-attack-simplified-bitcoin-tutorial/)
 
 
 ## Whitepaper
