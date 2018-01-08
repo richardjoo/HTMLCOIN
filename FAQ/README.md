@@ -137,6 +137,7 @@
 ## Whitepaper
 ### HTMLCoin Official Whitepaper
   - https://htmlcoin.com/whitepaper/
+  - You can also download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/Htmlcoin-White-Paper-V.5-For-Public-Release.pdf)
 
 
 
@@ -306,7 +307,7 @@
         - That’s the beauty of the UTXO model and DLT generally, one user can’t override the consensus.
 
 ### Is there any manual for this wallet?
-  * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
+  * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
 
 
 ## PAPER WALLET
