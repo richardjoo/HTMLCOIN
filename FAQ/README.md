@@ -550,31 +550,31 @@
 
 ## Html.business
 ### PHASE I
-  1. Medical data processing: We are creating a Private Healthcare Data Blockchain Solutions to support logdata.
+  - Medical data processing: We are creating a Private Healthcare Data Blockchain Solutions to support logdata.
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/medical-data-processing/
-  2. The Brasil Token: The Brasil Token (BRSIL) is created to build a bridge between startups, creatives and corporates in Brasil
+  - The Brasil Token: The Brasil Token (BRSIL) is created to build a bridge between startups, creatives and corporates in Brasil
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/brasil-token/
 
-  3. Merchants: Proof-of-Delivery
+  - Merchants: Proof-of-Delivery
     - Simplifying the transport industry with blockchain technology!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/merchants-proof-of-delivery/
 
-  4. New Token Creation Platform.
+  - New Token Creation Platform.
     - On our platform any creative idea for services or products will have a chance to become a reality!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/token-creation-platform/
-  5. Create your own Gaming website.
+  - Create your own Gaming website.
     - At the request of many among you! As promised:  Gaming websites!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/create-your-own-gaming-website-htmlcoin-payments/
-  6. Smart Contracts
+  - Smart Contracts
     - There is no need for physical meetings and signatures anymore. Legal agreements for your clients can be made quickly and efficiently with a few clicks!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/smart-contracts/
-  7. THE HTMCOIN.BUSINESS REWARD PROGRAM
+  - THE HTMCOIN.BUSINESS REWARD PROGRAM
     - You can earn money, tokens and coins by simply telling the world about the services and ICO’s conducted by our Token Creation platform!
     - For updates, you can follow this page. You can also sign up to receive updates by mail as soon as they arrive.
     - https://htmlcoin.business/dapp-playground/business-reward-program/
