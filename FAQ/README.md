@@ -520,7 +520,7 @@
 
 ## TOTAL SUPPLY
 ### what is the max supply?
-  - Circulating Supply: 79,882,668,750 as of 2018-01-05 4:34 PM UTC
+  - Circulating Supply: 79,888,870,000 as of 2018-01-09 6:30 AM UTC
     - How can it be higher than circulating supplu of h5?
       - Check out the white paper.  This explains the premine and 5 year funding model, there was also some contingency included which will be discussed when we understand the final numbers as mining two blockchains does cost extra.
   - Total Supply: 90,000,000,000
