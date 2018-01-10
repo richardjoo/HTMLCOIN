@@ -702,58 +702,47 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
-    - 5518 members as of 2018-01-06 08:07 AM UTC
-    - 4833 members as of 2018-01-04
+    - 6339 members as of 2018-01-10 07:25 AM UTC
 
   * Non-official news
     - https://t.me/htmlcoinnews
-    - 361 members as of 2018-01-06 08:07 AM UTC
-    - 330 members as of 2018-01-04
+    - 476 members as of 2018-01-10 07:25 AM UTC
 
   * Brazil
     - https://t.me/htmlcoinbrasil
-    - 466 members as of 2018-01-06 08:07 AM UTC
-    - 421 members as of 2018-01-04
+    - 528 members as of 2018-01-10 07:25 AM UTC
 
   * China
     - https://t.me/HTMLcoin_China
-    - 22 members as of 2018-01-06 08:07 AM UTC
-    - 20 members as of 2018-01-04
+    - 35 members as of 2018-01-10 07:25 AM UTC
 
   * France
     - https://t.me/htmlcoinfr
-    - 26 members as of 2018-01-06 08:07 AM UTC
-    - 14 members as of 2018-01-04
+    - 72 members as of 2018-01-10 07:25 AM UTC
 
   * Germany
     - https://t.me/htmlcoinde
-    - 32 members as of 2018-01-06 08:07 AM UTC
-    - 6 members as of 2018-01-04
+    - 50 members as of 2018-01-10 07:25 AM UTC
 
   * Japan
     - https://t.me/HTMLcoin_Japan
-    - 39 members as of 2018-01-06 08:07 AM UTC
-    - 37 members as of 2018-01-04
+    - 79 members as of 2018-01-10 07:25 AM UTC
 
   * Korea
     - https://t.me/HTMLcoin_Korea
-    - 1044 members as of 2018-01-06 08:07 AM UTC
-    - 780 members as of 2018-01-04
+    - 1325 members as of 2018-01-10 07:25 AM UTC
 
   * NL/BE
     - https://t.me/HTMLCOINDUTCH
-    - 145 members as of 2018-01-06 08:07 AM UTC
-    - 73 members as of 2018-01-04
+    - 278 members as of 2018-01-10 07:25 AM UTC
 
   * Russia
     - https://t.me/htmlofficialrussia
-    - 72 members as of 2018-01-06 08:07 AM UTC
-    - 57 members as of 2018-01-04
+    - 84 members as of 2018-01-10 07:25 AM UTC
 
   * Turkiye
     - https://t.me/HTMLcoin_Turkey
-    - 43 members as of 2018-01-06 08:07 AM UTC
-    - 33 members as of 2018-01-04
+    - 56 members as of 2018-01-10 07:25 AM UTC
 
   * if anything missing, please report to the main group.
 
@@ -768,6 +757,36 @@
         - https://chat.whatsapp.com/A33IY09u1xj2y1bhZYjd19
       - group 3
         - https://chat.whatsapp.com/Joh5hgVGTgFHJYBf0Gnw4S
+
+    - HTMLCOIN GRUPO 1
+      - https://chat.whatsapp.com/9JzAUDq8jJwI7BysZvkNC5
+      -256 members
+
+    - HTMLCOIN GRUPO 2
+      - https://chat.whatsapp.com/1yzRhCVDBMiAX6eliMWFyk
+      - 257 members
+
+    - HTMLCOIN GRUPO 3
+      - https://chat.whatsapp.com/Joh5hgVGTgFHJYBf0Gnw4S
+      - 221 members
+
+    - HTMLCOIN HOLD
+      - https://chat.whatsapp.com/A33IY09u1xj2y1bhZYjd19
+      - 181 members
+
+    - Facebook
+      - Fanpage
+      - https://www.facebook.com/Htmlcoinbrasil/
+      - 7914 followers
+
+    - Grup Htmlcoin Brasil
+      - https://www.facebook.com/groups/HtmlcoinBR/
+      - 723 members
+
+    - Grup HTMLCoin Brasil
+      - https://www.facebook.com/groups/754974114589033/
+      - 913 members
+
 
 
 ## TELEGRAM ADMIN
