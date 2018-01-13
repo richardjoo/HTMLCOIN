@@ -702,47 +702,51 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
-    - 6339 members as of 2018-01-10 07:25 AM UTC
+    - 6614 members as of 2018-01-12
 
   * Non-official news
     - https://t.me/htmlcoinnews
-    - 476 members as of 2018-01-10 07:25 AM UTC
+    - 512 members as of 2018-01-12
 
   * Brazil
     - https://t.me/htmlcoinbrasil
-    - 528 members as of 2018-01-10 07:25 AM UTC
+    - 563 members as of 2018-01-12
 
   * China
     - https://t.me/HTMLcoin_China
-    - 35 members as of 2018-01-10 07:25 AM UTC
+    - 40 members as of 2018-01-12
 
   * France
     - https://t.me/htmlcoinfr
-    - 72 members as of 2018-01-10 07:25 AM UTC
+    - 119 members as of 2018-01-12
 
   * Germany
     - https://t.me/htmlcoinde
-    - 50 members as of 2018-01-10 07:25 AM UTC
+    - 50 members as of 2018-01-12
 
   * Japan
     - https://t.me/HTMLcoin_Japan
-    - 79 members as of 2018-01-10 07:25 AM UTC
+    - 288 members as of 2018-01-12
 
   * Korea
     - https://t.me/HTMLcoin_Korea
-    - 1325 members as of 2018-01-10 07:25 AM UTC
+    - 1397 members as of 2018-01-12
 
   * NL/BE
     - https://t.me/HTMLCOINDUTCH
-    - 278 members as of 2018-01-10 07:25 AM UTC
+    - 330 members as of 2018-01-12
 
   * Russia
     - https://t.me/htmlofficialrussia
-    - 84 members as of 2018-01-10 07:25 AM UTC
+    - 87 members as of 2018-01-12
 
   * Turkiye
     - https://t.me/HTMLcoin_Turkey
-    - 56 members as of 2018-01-10 07:25 AM UTC
+    - 61 members as of 2018-01-12
+
+  * Vietnam
+    - https://t.me/HTMLVIETNAM
+    - 16 members as of 2018-01-12
 
   * if anything missing, please report to the main group.
 
