@@ -24,7 +24,6 @@
   * [Contributors](#contributors)
 
 
-
 ## IMPORTANT MESSAGE
   * Wallet v.2.0.0.4 has been released!
     - It is not mandatory, but strongly recommended!
@@ -45,43 +44,45 @@
     - bittrex, binance, cryptopia, tradesatoshi, Bitfinex, and CEX.io ALL STOPPED ACCEPTING NEW USERS BECAUSE THE websites cannot handle the extra crypto traffice!!! Sign up for all crypto exchanges NOW so you can trade when HTML gets listed on the others!!!!
 
 
-
 ## Proof Of Mass Adoption
-  * What is PoMA?
-    - PoMA stands for Proof of Mass Adoption
+### What is PoMA?
+  - PoMA stands for Proof of Mass Adoption
 
-  * WHY ARE WE TAKING THE ADOPTION APPROACH ?
-    - When we have both the store of value and smart contract/commercial features of the two 'coin families', we have the ability to grow a new and very broad group of users for the coin and its wallet (store of value), and then begin to introduce interesting services to a growing marketplace.
+### WHY ARE WE TAKING THE ADOPTION APPROACH ?
+  - When we have both the store of value and smart contract/commercial features of the two 'coin families', we have the ability to grow a new and very broad group of users for the coin and its wallet (store of value), and then begin to introduce interesting services to a growing marketplace.
 
-    - This is where our philosophy is different to many platform coins, who are focussed on creating a place for businesses.  We don't disagree with this at all, but where we are with the blockchain industry at the moment we need both adoption and cool services, on mobiles and PC's.  We believe most people in our industry target one or the other, and not both.
+  - This is where our philosophy is different to many platform coins, who are focussed on creating a place for businesses.  We don't disagree with this at all, but where we are with the blockchain industry at the moment we need both adoption and cool services, on mobiles and PC's.  We believe most people in our industry target one or the other, and not both.
 
-    - Over the next months (and years), you will see the foundation encourage and promote projects which do both.
-      1. Broad adoption with a coin that is easy to use and doesnt scare away new users.
-      2. Real services, and things which our growing community of users can easily access.
+  - Over the next months (and years), you will see the foundation encourage and promote projects which do both.
+    1. Broad adoption with a coin that is easy to use and doesnt scare away new users.
+    2. Real services, and things which our growing community of users can easily access.
 
-    - We will have many cool and complex services (we are talking to a number of third parties), but what we want to do is create the market for many of our partners who chose to build services on HTML..... we believe too many coin platforms aren't making crypto accessible enough.
+  - We will have many cool and complex services (we are talking to a number of third parties), but what we want to do is create the market for many of our partners who chose to build services on HTML..... we believe too many coin platforms aren't making crypto accessible enough.
 
-    - Blockchain isnt magic, it needs to be utility for the real world.
+  - Blockchain isnt magic, it needs to be utility for the real world.
 
-  * Articles:
-    - http://www.nasdaq.com/press-release/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin-20180102-00944
+### Does anyone know a date for poma?
+  - beta testing starts this quarter, full release Q2
 
-    - http://www.menafn.com/1096309905/Top-Cryptocurrency-HTMLCOIN-Announces-POMA-Blockchain-Platform-for-2018
+### Articles:
+  - http://www.nasdaq.com/press-release/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin-20180102-00944
 
-    - https://www.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
+  - http://www.menafn.com/1096309905/Top-Cryptocurrency-HTMLCOIN-Announces-POMA-Blockchain-Platform-for-2018
 
-    - http://www.nbcrightnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+  - https://www.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
 
-    - http://finance.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
+  - http://www.nbcrightnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
 
-    - http://markets.financialcontent.com/stocks/news/read/35529486
+  - http://finance.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
 
-    - http://markets.financialcontent.com/dowtheoryletters/news/read/35529486
+  - http://markets.financialcontent.com/stocks/news/read/35529486
 
-    - http://tech.asialogue.com/news/p-o-m-a-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin/0042378/
+  - http://markets.financialcontent.com/dowtheoryletters/news/read/35529486
 
-    - Do you want to see the **ENTIRE LIST**?  Here you go!! :D
-      - https://s3.amazonaws.com/bitcoinnearme/HTMLCOIN+NEWS+POMA.pdf
+  - http://tech.asialogue.com/news/p-o-m-a-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin/0042378/
+
+  - Do you want to see the **ENTIRE LIST**?  Here you go!! :D
+    - https://s3.amazonaws.com/bitcoinnearme/HTMLCOIN+NEWS+POMA.pdf
 
 
 ## WHICH IS THE NEW COIN?
@@ -93,7 +94,6 @@
     - Tradesatoshi = has both new and old coin, the old coin will close around January 10th, 2018
     - Can I send HTML5 to HTML coin?
       - no you cannot.  You will lose your coins permanently.
-
 
 
 ## WHAT IS HTMLCOIN?
@@ -155,11 +155,9 @@
 ### Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
   - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
 
-
 ### What is 51% attack?
   - This page wih youtube video explains what the 51% attack is.
     - [What is a 51% Attack – Simplified Bitcoin Tutorial](https://99bitcoins.com/51-attack-simplified-bitcoin-tutorial/)
-
 
 ### Seeing an extreme amount of "this is good, lets lambo boys" posts here, i Love HTML but would like to know the drawbacks. What's holding us back and What are the potential risks within the coins future?
   - Answered by SimonT
@@ -191,7 +189,6 @@
     >
     > Yes wedo  help our friends in other projects, but they have helped us.  Its the way it all works.  2018 will be an interesting year for blockchain, we can do some cool stuff,  and make decentralisation start to happen like we promised.   Lets have some fun and change things.
 
-
 ### HTML DEVs must be rich!
   - Answered by SimonT
     >
@@ -201,9 +198,20 @@
     >
     > There is simply too much in the pipeline and we aren't going to ruin the work we are doing for short term and personal gain.
 
-
-
-
+### How far is tech from qtum as suppoman mentioned? Hybrid etc
+  - Answered by SimonT
+    > Our tech is the same as Qtum.
+    >
+    > We both use the identical Ether Cpp client, pretty much unchanged.  This is why we are both compatible with ether dapps.
+    >
+    > We both use the same bitcoincore layer, but our supply is different so there are some changes to accomodate this.
+    >
+    > QTUM runs POS3.0 with a blocktime of 120 seconds.
+    > HTML runs POS3.0 with a blocktime of 120 seconds, but we alo run POW (mining) with a blocktime of 120 seconds.  We run the POS & POW 60 seconds out of sequence.  This gives us an effective blocktime of 60 seconds.
+    >
+    > HTML also has realtime checkpointing.  This ensures the blockchain cannot be opened up in a 51% attack.
+    >
+    > There are a number of other subtle differences (EHRC) but these are all in the chain/network layer and do not impact the features.... maybe @bushstar will jump here and correct me, but unless you are an ultra geek this is a fair summary.  Speed and security.
 
 
 ## Whitepaper
@@ -213,40 +221,40 @@
     - click right button and select "save link as"
 
 
-
-
 ## SWAP
-  * swap dates
+### swap dates
 
-     PERIOD   | RATIO | DATE
-    ----------|-------|------------
-     1 - 60   | 1:1   | 2018-02-12
-     61 - 90  | 1:2   | 2018-03-12
-     91 - 105 | 1:3   | 2018-03-27
-     106      |       | End of Swap
+   PERIOD   | RATIO | DATE
+  ----------|-------|------------
+   1 - 60   | 1:1   | 2018-02-12
+   61 - 90  | 1:2   | 2018-03-12
+   91 - 105 | 1:3   | 2018-03-27
+   106      |       | End of Swap
 
-  * Yobit swap process
-    * there is a pdf file
-    * also this
-      - 6 Step easy to swap
-        1. [Download desktop wallet new HTML v2.0.0.3](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-        2. Make a new HTMLcoin v2.0.0.3 address on menu request payment
-        3. [Fill the form](https://htmlcoin.com/swap-form/)
-        Copy and paste the new wallet address,email and submit
-        4. After submit you will get old html5 address
-        5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
-        6. Just wait swap process
-          - This process has a human labor.  It can take 1 to 24 hours
-          - If you do not receive coins after 24 hours, please contact dev@htmlcoin.com
-          - Sometimes, the swap server runs out of coins and needs to be reloaded.
-            - Peter Bushenll wrote:
-              - _The swap server had run out of coins and has now been topped up._
+### Yobit swap process
+  * there is a pdf file
+  * also this
+    - 6 Step easy to swap
+      1. [Download desktop wallet new HTML v2.0.0.3](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+      2. Make a new HTMLcoin v2.0.0.3 address on menu request payment
+      3. [Fill the form](https://htmlcoin.com/swap-form/)
+      Copy and paste the new wallet address,email and submit
+      4. After submit you will get old html5 address
+      5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
+      6. Just wait swap process
+        - This process has a human labor.  It can take 1 to 24 hours
+        - If you do not receive coins after 24 hours, please contact dev@htmlcoin.com
+        - Sometimes, the swap server runs out of coins and needs to be reloaded.
+          - Peter Bushenll wrote:
+            - _The swap server had run out of coins and has now been topped up._
 
+### I moved my html5 from yobit into my HTML wallet... I did this twice using the same payment address not knowing I needed to generate a new payment address... will this still go through?
+  - Answered by @QuidProCrypto
+    - You mean you sent two separate withdrawals from Yobit to the HTML5 address generated by the swap form? that’s perfectly fine, the HTML5 address is unique and will last as long as the swap form operates; you could send as many transactions as you want, and any transaction over 1 HTML5 will be swapped
 
 ## ROADMAP
   * Do you have an updated roadmap?
     - not yet, but we've been discussing internally and think we now know what is in/out of the foundation budget now.  Expect an update to be isssued in the new year...... that said, we are working on the solo miner, explorer and API, android and ios wallets.... and going through the research/planning for lightning. (SimonT)
-
 
 
 ## WALLET
@@ -409,7 +417,18 @@
   * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
     - click right button and select "save link as"
 
+### I am on 2.0.0.4 and having issues connecting to nodes.
+  - Answered by Peter Bushnell
+    - Restart your router and try again.
+      - Seems that nodes that previously seen are ignored by other network nodes, run a new client on a different port and it connects. Restarting the router may give you a new IP or map your client to a different port and appear as a different node to the network.
+    - This answer can be found [here](https://github.com/HTMLCOIN/HTMLCOIN/issues/4#issuecomment-356858426)
 
+### CreateNewBlock: TestBlockValidity Failed: bad-version (code 17) (#12)
+  - Answered by Peter Bushnell
+    - I only see the errors shown while the blockchain is still syncing with the network. Make sure that your block height is the same as shown in the explorer.
+      - https://html.mastercalls.io/
+
+    - This answer can be found [here](https://github.com/HTMLCOIN/HTMLCOIN/issues/12)
 
 
 ## PAPER WALLET
@@ -418,14 +437,11 @@
     - https://walletgenerator.net/?currency=HTMLCoin
 
 
-
-
 ## POS
-  * What is PoS and How does it work?
-    - HTMLCOIN uses PoS3.0
-    - POS generates 1 block every 120 seconds, whilst POW generates 1 block every 120 seconds.  The two processes run 60 seconds out of sequence so we effectively have a 60 second block time witheach process throttled back to 1% pa each.
-    - The block reward is currently 1250 coins, and growth in supply is managed at the network level which is why there appears to be a lumpy/luck based element to rewards.  This is a feature of the more modern POS3.0 coins and I am trying to explain is simply and mathemetically in a document for everyone to understand at the moment.
-
+### What is PoS and How does it work?
+  - HTMLCOIN uses PoS3.0
+  - POS generates 1 block every 120 seconds, whilst POW generates 1 block every 120 seconds.  The two processes run 60 seconds out of sequence so we effectively have a 60 second block time witheach process throttled back to 1% pa each.
+  - The block reward is currently 1250 coins, and growth in supply is managed at the network level which is why there appears to be a lumpy/luck based element to rewards.  This is a feature of the more modern POS3.0 coins and I am trying to explain is simply and mathemetically in a document for everyone to understand at the moment.
 
 
 ## What is Staking? by SimonT
@@ -478,7 +494,6 @@
 
   - QTUM uses the same staking method:
     - https://medium.com/@jb395official/an-introduction-to-qtum-proof-of-stake-mining-a-racing-story-f11a3f48009f
-
 
 
 ## MINING
@@ -561,8 +576,6 @@
   - and mining pool is not available yet. Dev is actively working on it.
 
 
-
-
 ## TOTAL SUPPLY
 ### what is the max supply?
   - Circulating Supply: 79,888,870,000 as of 2018-01-09 6:30 AM UTC
@@ -579,7 +592,6 @@
         - Please make sure to hide your coin balance before posting this info.
 
   * In the spirit of transparency, this number will be fully auditted against the swap number after the 106 day window and decisions taken on what we do. (SimonT)
-
 
 
 ## LIGHTNING
@@ -619,13 +631,9 @@
   - MN is on the list of things to investigate, and we have discussed it before, but there needs to be an economic business case other than making free coins.  There is a room to discuss in our ryver/slack site, and i see us kicking things off again in Jan.  The problem we have is that we are very fast, very secure and with lightning we can do TOR style micropayments.  If you do research MN coins they are generally all pre-segwit bitcoin based, whereas we are 0.14 and don't need to make any compromises.
 
 
-
-
 ## MOBILE WALLET
   * SimonT answered on 2017-12-28
     - IOS is in progress whilst Android is in alpha at the moment.  Teams are working on this (we were discussing on xmas day) and it will be one of the most important things we deliver in Jan/Feb, although IOS will be all very hard work as soon as we submit to apple and their listing processes.
-
-
 
 
 ## EXCHANGE
@@ -652,8 +660,6 @@
   - [CryptoBridge](https://crypto-bridge.org)
     - [wallet](https://wallet.crypto-bridge.org)
     - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
-
-
 
 
 ## Html.business
@@ -700,7 +706,6 @@
         - http://api.htmlcoin.com:3001/htmlcoin-api/addr/YOUR-ADDRESS-HERE
 
 
-
 ## LINKS
   * HTMLCoin releases
     - Wallet downloads
@@ -732,16 +737,10 @@
     - https://www.youtube.com/watch?v=HMo77gPd1a0&t=35s
 
 
-
-
-
-
 ## COIN BURN
   * Coinburn planned at anytime?
     - Please feel free to burn yours ;)
     - Dont burn it, sell to me for 1 sat
-
-
 
 
 ## TELEGRAM GROUPS
@@ -837,13 +836,12 @@
       - 913 members
 
 
-
 ## TELEGRAM ADMIN
   * scammers are out there and trying to steal your coins. When anyone contacts you with admin name and photo, check their user names. ask other admins and verify the user before giving out any sensitive information.
   * Admins will NEVER EVER ask anyone for donation or ask private keys. That is the red alert right there!
 
 
-
 ## CONTRIBUTORS
   * Miwand Najafe (miwand)
     - https://github.com/miwand
+
