@@ -97,44 +97,43 @@
 
 
 ## WHAT IS HTMLCOIN?
-  * Answered by SimonT
-    - Portability through using the ether client: most developers have learnt on the biggest platform, ethereum, and the tools have been developed for ether.  Whereas neo and many other dap/token platforms have their own comparability requirements, anything written for ether can be quickly ported to HTML very simply.  Html uses the ether client, simple.
+### Answered by SimonT
+  - Portability through using the ether client: most developers have learnt on the biggest platform, ethereum, and the tools have been developed for ether.  Whereas neo and many other dap/token platforms have their own comparability requirements, anything written for ether can be quickly ported to HTML very simply.  Html uses the ether client, simple.
 
-    - Stability. Html replaces the ether-go network/Blockchain layer with a current, proven and robust bitcoin core one.  Bitcoin core include the unspent transaction output model (UTXO) which is a whole lot more flexible than the legacy ether account approach.
+  - Stability. Html replaces the ether-go network/Blockchain layer with a current, proven and robust bitcoin core one.  Bitcoin core include the unspent transaction output model (UTXO) which is a whole lot more flexible than the legacy ether account approach.
 
-    - Security. No 51% attacks here !!! We use realtime checkpointing which locks our Blockchain and protects it from replay attacks.  I don't think any of the smart contract/dap platform coins have this at the moment although we haven't had a spate of consensus attacks for 18 months now, with values the way they are we can't be too safe.
+  - Security. No 51% attacks here !!! We use realtime checkpointing which locks our Blockchain and protects it from replay attacks.  I don't think any of the smart contract/dap platform coins have this at the moment although we haven't had a spate of consensus attacks for 18 months now, with values the way they are we can't be too safe.
 
-    - Speed.  We run both pow and pos to secure the network and make it faster.  They both run a 2 minute blocktime, but 1 minute out of sync giving a net 60 second blocktime. This gives us the 3-20 second transaction times we currently enjoy as well as 60 second confirmations.
+  - Speed.  We run both pow and pos to secure the network and make it faster.  They both run a 2 minute blocktime, but 1 minute out of sync giving a net 60 second blocktime. This gives us the 3-20 second transaction times we currently enjoy as well as 60 second confirmations.
 
-    - Open source bitcoin and ether : sharing much of bitcoincore with many other projects we get to leverage all the bitcoin improvements (BIP) which give us these great wallets and roadmap for lightning and other cool stuff. We also don't hide the fact we track qtum for a lot of our features and although there's still a lot of work to adapt things for us, the challenges are quantifiable and mean we get to share all the latest and greatest bitcoin core open source features. From an ether client perspective we can run all the open source projects in the state of the daps libraries.
+  - Open source bitcoin and ether : sharing much of bitcoincore with many other projects we get to leverage all the bitcoin improvements (BIP) which give us these great wallets and roadmap for lightning and other cool stuff. We also don't hide the fact we track qtum for a lot of our features and although there's still a lot of work to adapt things for us, the challenges are quantifiable and mean we get to share all the latest and greatest bitcoin core open source features. From an ether client perspective we can run all the open source projects in the state of the daps libraries.
 
-  * Answered by Arturo
-    - The new HTMLcoin is not just a cryptocurrency but a new secure sha256d blockchain based on a fully integrated Bitcoin Core and  Ethereum cpp client codebase, to deliver Smart Contracts and Distributed Applications (DAPPS). It implements an extendable design which is capable of adding more virtual machines (VM), enabled through an Account Abstraction Layer, which allows an account based VM to function on a Bitcoin UTXO based Blockchain.  We have the strength of Bitcoin and features of Ethereum on one platform.
+### Answered by Arturo
+  - The new HTMLcoin is not just a cryptocurrency but a new secure sha256d blockchain based on a fully integrated Bitcoin Core and  Ethereum cpp client codebase, to deliver Smart Contracts and Distributed Applications (DAPPS). It implements an extendable design which is capable of adding more virtual machines (VM), enabled through an Account Abstraction Layer, which allows an account based VM to function on a Bitcoin UTXO based Blockchain.  We have the strength of Bitcoin and features of Ethereum on one platform.
 
-    - Another way of describing it is that we are moving from an older Blockchain to a new one which is based on  bitcoin core 0.14 (csv/segwit) with the ethereum client c++ codebase integrated on top.  We have the best of both worlds on one blockchain.
+  - Another way of describing it is that we are moving from an older Blockchain to a new one which is based on  bitcoin core 0.14 (csv/segwit) with the ethereum client c++ codebase integrated on top.  We have the best of both worlds on one blockchain.
 
-    - As well as being a coin, HTMLCOIN will be the gateway to buying tokens from dapps and smart contracts on the HTMLCOIN blockchain where it will can also be exchanged for the gas required to drive smart contracts.
+  - As well as being a coin, HTMLCOIN will be the gateway to buying tokens from dapps and smart contracts on the HTMLCOIN blockchain where it will can also be exchanged for the gas required to drive smart contracts.
 
-    - The HTMLcoin Foundation is developing key use cases to show the capabilities of the platform where decentralized technologies using cryptocurrencies and distributed applications can bring innovation to large economic groups and communities across the globe.  We are working with a number of partners and startups across the globe to join our Blockchain, for their crowdfunding and final deployed services.
+  - The HTMLcoin Foundation is developing key use cases to show the capabilities of the platform where decentralized technologies using cryptocurrencies and distributed applications can bring innovation to large economic groups and communities across the globe.  We are working with a number of partners and startups across the globe to join our Blockchain, for their crowdfunding and final deployed services.
 
-    - The features of HTMLCoin include:
-      - Double SHA256: is used by Bitcoin and other established blockchains to provide a secure and provens cryptographic wrap for HTMLCOIN.
-      - Real Time Checkpointing: Protects the history of the chain from being changed by 51% attacks, and broadcasts block height and hash of the main chain that cannot be overwritten.
-      - Enhanced Hash Rate Compensation: Adjusts every 120 blocks but with short, medium and long block time samples to average out the adjust and apply 25% damping to the result.
-      - Hybrid Bitcoin / Ethereum: Uses both the Bitcoin and Ethereum codebase combining Bitcoin with EVM (Ethereum Virtual Machines).
-      - Smart Contracts: Protocol to facilitate, verify or enforce negotiation or performance of a contract.
-      - Simple Payment Verification: Execute smart contracts from lite wallets.
-      - Decentralized Applications and distributed computing platform:  The new HTMLCoin network will to be able to create smart contracts and other more fully fledged complex EVM apps.
-      - Account Abstraction Layer:  extension to Bitcoins ‘Script’ language, sits between the blockchain and EVM and allows decentralised applications and smart contracts to run in environments that were not possible before.
+  - The features of HTMLCoin include:
+    - Double SHA256: is used by Bitcoin and other established blockchains to provide a secure and provens cryptographic wrap for HTMLCOIN.
+    - Real Time Checkpointing: Protects the history of the chain from being changed by 51% attacks, and broadcasts block height and hash of the main chain that cannot be overwritten.
+    - Enhanced Hash Rate Compensation: Adjusts every 120 blocks but with short, medium and long block time samples to average out the adjust and apply 25% damping to the result.
+    - Hybrid Bitcoin / Ethereum: Uses both the Bitcoin and Ethereum codebase combining Bitcoin with EVM (Ethereum Virtual Machines).
+    - Smart Contracts: Protocol to facilitate, verify or enforce negotiation or performance of a contract.
+    - Simple Payment Verification: Execute smart contracts from lite wallets.
+    - Decentralized Applications and distributed computing platform:  The new HTMLCoin network will to be able to create smart contracts and other more fully fledged complex EVM apps.
+    - Account Abstraction Layer:  extension to Bitcoins ‘Script’ language, sits between the blockchain and EVM and allows decentralised applications and smart contracts to run in environments that were not possible before.
 
-  * why is this coin unique guys/ The supply is huge
-    - Answered by SimonT
-      - supply is irrelevent, but based on the old coin we have swapped from.
-      - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
+### why is this coin unique guys/ The supply is huge
+  - Answered by SimonT
+    - Supply is irrelevent, but based on the old coin we have swapped from.
+    - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
 
-  * Can you guess how much this coin will be?
-    > by SimonT
-    >
+### Can you guess how much this coin will be?
+  - by SimonT
     > No one in the HTML team can guess.  The same goes for all coin teams.
     >
     > This is because we do not sell the coin.  We only support the network s/w it uses.  You guys buy the coins from each other on the exchanges and it may surprise you to know the foundation and dev team doesn't benefit from your transactions with each other.
@@ -153,12 +152,58 @@
     >
     > I hope this helps clarify why we skip around any questions of price or value.
 
-  * Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
-    - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
+### Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
+  - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
 
-  * What is 51% attack?
-    - This page wih youtube video explains what the 51% attack is.
-      - [What is a 51% Attack – Simplified Bitcoin Tutorial](https://99bitcoins.com/51-attack-simplified-bitcoin-tutorial/)
+
+### What is 51% attack?
+  - This page wih youtube video explains what the 51% attack is.
+    - [What is a 51% Attack – Simplified Bitcoin Tutorial](https://99bitcoins.com/51-attack-simplified-bitcoin-tutorial/)
+
+
+### Seeing an extreme amount of "this is good, lets lambo boys" posts here, i Love HTML but would like to know the drawbacks. What's holding us back and What are the potential risks within the coins future?
+  - Answered by SimonT
+    > Great question.
+    >
+    > Firstly, we are here for the long run and you won't see any lambo, or buy signals from the core team.  We intend to be compliant with all upcoming rules and regulations on crypto and securities.    In fact, we see the foundation as a software company.  We build and mainaint the software which is used to run the decentralised blockchain and all its features.  The foundation sells nothing, and has nothing to do with the exchnage actiivities.
+    >
+    > As i mentioned, the Foundation is not driven by the price on the exchanges, but building great software to encourage the adoption od decentralised blockchain technology.  Our approach is more than many platform coins in so much as we arent looking for projects to land on our chain, fire up a token an generate business for themselves..... what we are doing is using the value transfer (bitcoin) capabilites of the blockchain to drive very broad (horizontal) adoption in both commercial and private use.  This is what the POMA programme is about.
+    >
+    > As we grow the basic adoption of an easy to use technology with the desktop and soon to arrive mobile wallets, we then have a community of platform users who can start to use the blockchain for other things.  These things will use daps, smart contracts and other technologues to provide richer and more disruptive (vertical) solutions.
+    >
+    > Why are we taking this approach ?
+    >
+    >   Speed, pace and relevence.  What we observed is a lot of great platform blockchains growing, which then host projects which seem to be expected to bring their own user base.  The projects don't seem to connect with the users of the blockchains...... which confuses us.  A blockchain is not like a cloud computing platform, its a community that chose to use a decentralised value transfer platform  which can deliver decentralised applications (relevent to their worlds)
+    >
+    > What is holding us back ?
+    >
+    >   This is a personal view, and not the official line.  At the moment, we need to regroup and focus on features and growth.  We (the core team) need to consider the bigger picture with a complete economic model of growth and adoption and get building.   We do have full time developers in the team, and POMA has been in development for a long time, so the challenge is keeping this relevent and establshing the campaigns.
+    >
+    > Are there any blockers.  Right now, i don't think so.  Look how far we've come since we started in September.  I think the singel biggest issue is an industry one, and its the arrival of likely regualtion.  We take the recent SEC rulings very seriously, and so do the exchnages that make an important part of the eco-system.  This means the community needs to behave in an exempelary manner for us to get listed.  The exchnages we have applied to are watching, and completing their due dilligence and decisions based on our innovation/projects, our likely growth, the health of our coin (stable and non-pumped) and quality/participation of the community in achieving our stated goal of mass adoption of blockchain.
+    >
+    > What are the primary risks ?  personally:
+    >
+    >   1.  We support good regulation, but not regulation that hampers decentralised blokchain.
+    >   2.  Dominance of bitcoin and its politcs.  For me, this casts a shadow across our inidustry.  Bitcoin has no roadmap, no strategy and no architectural consensus.  I mean, they still haven't tuly deployed satoshi's original white paper.  The constant infighting and techical politics is destroying value, destroying the environment and making fools of us.  As an alt-coin, the impact of bitcoin is that it destabilises the adoption of alternative and better technologies, whilst people look for free money and move in/out of it.
+    >   3. Time and workload.  You will see a lot from this team, more than its size suggests.  We have and use an extensive network of friends and dev teams, but whatever we do you guys will want it last week, and if we slip by a few days we know you will be upset.  But, this is sotware development and we are a software delivery team.  It is what it is, and it takes as long as it takes.  Quality is everything !
+    >
+    > Finally, and everyone asks this.  The devs are a team.  We are going nowhere except here.  Yes its been a bumpy ride, but we've stuck it out and are pleased to have develop a reputation for honesty, transparency and persistence.  We like this community, we like the arguments, we like the trolls and we like learning together.
+    >
+    > Yes wedo  help our friends in other projects, but they have helped us.  Its the way it all works.  2018 will be an interesting year for blockchain, we can do some cool stuff,  and make decentralisation start to happen like we promised.   Lets have some fun and change things.
+
+
+### HTML DEVs must be rich!
+  - Answered by SimonT
+    >
+    > Transparency => No 'rich devs' trading. Personally I sold a couple of million a few weeks ago to pay for Xmas for my family who I've spent months neglecting.  Since then I invested more btc which I earned advising in other projects and bought in at 21 sats yesterday.
+    >
+    > The devs are bound by the rules of the foundation and we cannot encourage people to buy or sell HTML, but you can rest assured personally we are too busy with the project to participate in any day trading, also the dev team have a reputation to maintain and have no intention of destabilising the economics of the project whilst it is finding its market and support levels.
+    >
+    > There is simply too much in the pipeline and we aren't going to ruin the work we are doing for short term and personal gain.
+
+
+
+
 
 
 ## Whitepaper
