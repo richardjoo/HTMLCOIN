@@ -24,117 +24,116 @@
   * [Contributors](#contributors)
 
 
-
 ## IMPORTANT MESSAGE
-  * Wallet v.2.0.0.4 has been released!
-    - It is not mandatory, but strongly recommended!
-    - https://github.com/HTMLCOIN/HTMLCOIN/releases
-      - Fix crash when given a checkpoint not yet in the blockchain.
-      - Additional seeders and pnSeeds for new client connectivity.
+### Wallet v.2.0.0.4 has been released!
+  - It is not mandatory, but strongly recommended!
+  - https://github.com/HTMLCOIN/HTMLCOIN/releases
+    - Fix crash when given a checkpoint not yet in the blockchain.
+    - Additional seeders and pnSeeds for new client connectivity.
 
-  * Wallet v.2.0.0.3 connection issue
-    * The message from Peter Bushnell.
-      - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
-        - addnode 165.227.147.196 add
-          - make sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
-          - you will see `null` and that means the node has been successfully added.
-      - Extra node list
-        - https://pastebin.com/VXj0MNqt
+### Wallet v.2.0.0.3 connection issue
+  * The message from Peter Bushnell.
+    - There's a bug with new clients not being able to connect, try connecting manually with the following command in the debug console using IP addresses from the linked in text document. A new client will be coming out in the next couple of days with this connection issue fixed.
+      - addnode 165.227.147.196 add
+        - make sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
+        - you will see `null` and that means the node has been successfully added.
+    - Extra node list
+      - https://pastebin.com/VXj0MNqt
 
-  * Exchanges are not accepting new users!
-    - bittrex, binance, cryptopia, tradesatoshi, Bitfinex, and CEX.io ALL STOPPED ACCEPTING NEW USERS BECAUSE THE websites cannot handle the extra crypto traffice!!! Sign up for all crypto exchanges NOW so you can trade when HTML gets listed on the others!!!!
-
+### Exchanges are not accepting new users!
+  - bittrex, binance, cryptopia, tradesatoshi, Bitfinex, and CEX.io ALL STOPPED ACCEPTING NEW USERS BECAUSE THE websites cannot handle the extra crypto traffice!!! Sign up for all crypto exchanges NOW so you can trade when HTML gets listed on the others!!!!
 
 
 ## Proof Of Mass Adoption
-  * What is PoMA?
-    - PoMA stands for Proof of Mass Adoption
+### What is PoMA?
+  - PoMA stands for Proof of Mass Adoption
 
-  * WHY ARE WE TAKING THE ADOPTION APPROACH ?
-    - When we have both the store of value and smart contract/commercial features of the two 'coin families', we have the ability to grow a new and very broad group of users for the coin and its wallet (store of value), and then begin to introduce interesting services to a growing marketplace.
+### WHY ARE WE TAKING THE ADOPTION APPROACH ?
+  - When we have both the store of value and smart contract/commercial features of the two 'coin families', we have the ability to grow a new and very broad group of users for the coin and its wallet (store of value), and then begin to introduce interesting services to a growing marketplace.
 
-    - This is where our philosophy is different to many platform coins, who are focussed on creating a place for businesses.  We don't disagree with this at all, but where we are with the blockchain industry at the moment we need both adoption and cool services, on mobiles and PC's.  We believe most people in our industry target one or the other, and not both.
+  - This is where our philosophy is different to many platform coins, who are focussed on creating a place for businesses.  We don't disagree with this at all, but where we are with the blockchain industry at the moment we need both adoption and cool services, on mobiles and PC's.  We believe most people in our industry target one or the other, and not both.
 
-    - Over the next months (and years), you will see the foundation encourage and promote projects which do both.
-      1. Broad adoption with a coin that is easy to use and doesnt scare away new users.
-      2. Real services, and things which our growing community of users can easily access.
+  - Over the next months (and years), you will see the foundation encourage and promote projects which do both.
+    1. Broad adoption with a coin that is easy to use and doesnt scare away new users.
+    2. Real services, and things which our growing community of users can easily access.
 
-    - We will have many cool and complex services (we are talking to a number of third parties), but what we want to do is create the market for many of our partners who chose to build services on HTML..... we believe too many coin platforms aren't making crypto accessible enough.
+  - We will have many cool and complex services (we are talking to a number of third parties), but what we want to do is create the market for many of our partners who chose to build services on HTML..... we believe too many coin platforms aren't making crypto accessible enough.
 
-    - Blockchain isnt magic, it needs to be utility for the real world.
+  - Blockchain isnt magic, it needs to be utility for the real world.
 
-  * Articles:
-    - http://www.nasdaq.com/press-release/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin-20180102-00944
+### Does anyone know a date for poma?
+  - beta testing starts this quarter, full release Q2
 
-    - http://www.menafn.com/1096309905/Top-Cryptocurrency-HTMLCOIN-Announces-POMA-Blockchain-Platform-for-2018
+### Articles:
+  - http://www.nasdaq.com/press-release/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin-20180102-00944
 
-    - https://www.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
+  - http://www.menafn.com/1096309905/Top-Cryptocurrency-HTMLCOIN-Announces-POMA-Blockchain-Platform-for-2018
 
-    - http://www.nbcrightnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
+  - https://www.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
 
-    - http://finance.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
+  - http://www.nbcrightnow.com/story/37172238/poma-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin
 
-    - http://markets.financialcontent.com/stocks/news/read/35529486
+  - http://finance.yahoo.com/news/p-o-m-blockchain-platform-033000285.html
 
-    - http://markets.financialcontent.com/dowtheoryletters/news/read/35529486
+  - http://markets.financialcontent.com/stocks/news/read/35529486
 
-    - http://tech.asialogue.com/news/p-o-m-a-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin/0042378/
+  - http://markets.financialcontent.com/dowtheoryletters/news/read/35529486
 
-    - Do you want to see the **ENTIRE LIST**?  Here you go!! :D
-      - https://s3.amazonaws.com/bitcoinnearme/HTMLCOIN+NEWS+POMA.pdf
+  - http://tech.asialogue.com/news/p-o-m-a-blockchain-platform-launched-by-top-2018-cryptocurrency-htmlcoin/0042378/
+
+  - Do you want to see the **ENTIRE LIST**?  Here you go!! :D
+    - https://s3.amazonaws.com/bitcoinnearme/HTMLCOIN+NEWS+POMA.pdf
 
 
 ## WHICH IS THE NEW COIN?
-  * HTMLCOIN LESSON 101
-    - Old Coin = HTML5
-    - New Coin = HTML
-    - Bleutrade = new coin
-    - Yobit = SUCKS and has an old coin
-    - Tradesatoshi = has both new and old coin, the old coin will close around January 10th, 2018
-    - Can I send HTML5 to HTML coin?
-      - no you cannot.  You will lose your coins permanently.
-
+### HTMLCOIN LESSON 101
+  - Old Coin = HTML5
+  - New Coin = HTML
+  - Bleutrade = new coin
+  - Yobit = SUCKS and has an old coin
+  - Tradesatoshi = has both new and old coin, the old coin will close around January 10th, 2018
+  - Can I send HTML5 to HTML coin?
+    - no you cannot.  You will lose your coins permanently.
 
 
 ## WHAT IS HTMLCOIN?
-  * Answered by SimonT
-    - Portability through using the ether client: most developers have learnt on the biggest platform, ethereum, and the tools have been developed for ether.  Whereas neo and many other dap/token platforms have their own comparability requirements, anything written for ether can be quickly ported to HTML very simply.  Html uses the ether client, simple.
+### Answered by SimonT
+  - Portability through using the ether client: most developers have learnt on the biggest platform, ethereum, and the tools have been developed for ether.  Whereas neo and many other dap/token platforms have their own comparability requirements, anything written for ether can be quickly ported to HTML very simply.  Html uses the ether client, simple.
 
-    - Stability. Html replaces the ether-go network/Blockchain layer with a current, proven and robust bitcoin core one.  Bitcoin core include the unspent transaction output model (UTXO) which is a whole lot more flexible than the legacy ether account approach.
+  - Stability. Html replaces the ether-go network/Blockchain layer with a current, proven and robust bitcoin core one.  Bitcoin core include the unspent transaction output model (UTXO) which is a whole lot more flexible than the legacy ether account approach.
 
-    - Security. No 51% attacks here !!! We use realtime checkpointing which locks our Blockchain and protects it from replay attacks.  I don't think any of the smart contract/dap platform coins have this at the moment although we haven't had a spate of consensus attacks for 18 months now, with values the way they are we can't be too safe.
+  - Security. No 51% attacks here !!! We use realtime checkpointing which locks our Blockchain and protects it from replay attacks.  I don't think any of the smart contract/dap platform coins have this at the moment although we haven't had a spate of consensus attacks for 18 months now, with values the way they are we can't be too safe.
 
-    - Speed.  We run both pow and pos to secure the network and make it faster.  They both run a 2 minute blocktime, but 1 minute out of sync giving a net 60 second blocktime. This gives us the 3-20 second transaction times we currently enjoy as well as 60 second confirmations.
+  - Speed.  We run both pow and pos to secure the network and make it faster.  They both run a 2 minute blocktime, but 1 minute out of sync giving a net 60 second blocktime. This gives us the 3-20 second transaction times we currently enjoy as well as 60 second confirmations.
 
-    - Open source bitcoin and ether : sharing much of bitcoincore with many other projects we get to leverage all the bitcoin improvements (BIP) which give us these great wallets and roadmap for lightning and other cool stuff. We also don't hide the fact we track qtum for a lot of our features and although there's still a lot of work to adapt things for us, the challenges are quantifiable and mean we get to share all the latest and greatest bitcoin core open source features. From an ether client perspective we can run all the open source projects in the state of the daps libraries.
+  - Open source bitcoin and ether : sharing much of bitcoincore with many other projects we get to leverage all the bitcoin improvements (BIP) which give us these great wallets and roadmap for lightning and other cool stuff. We also don't hide the fact we track qtum for a lot of our features and although there's still a lot of work to adapt things for us, the challenges are quantifiable and mean we get to share all the latest and greatest bitcoin core open source features. From an ether client perspective we can run all the open source projects in the state of the daps libraries.
 
-  * Answered by Arturo
-    - The new HTMLcoin is not just a cryptocurrency but a new secure sha256d blockchain based on a fully integrated Bitcoin Core and  Ethereum cpp client codebase, to deliver Smart Contracts and Distributed Applications (DAPPS). It implements an extendable design which is capable of adding more virtual machines (VM), enabled through an Account Abstraction Layer, which allows an account based VM to function on a Bitcoin UTXO based Blockchain.  We have the strength of Bitcoin and features of Ethereum on one platform.
+### Answered by Arturo
+  - The new HTMLcoin is not just a cryptocurrency but a new secure sha256d blockchain based on a fully integrated Bitcoin Core and  Ethereum cpp client codebase, to deliver Smart Contracts and Distributed Applications (DAPPS). It implements an extendable design which is capable of adding more virtual machines (VM), enabled through an Account Abstraction Layer, which allows an account based VM to function on a Bitcoin UTXO based Blockchain.  We have the strength of Bitcoin and features of Ethereum on one platform.
 
-    - Another way of describing it is that we are moving from an older Blockchain to a new one which is based on  bitcoin core 0.14 (csv/segwit) with the ethereum client c++ codebase integrated on top.  We have the best of both worlds on one blockchain.
+  - Another way of describing it is that we are moving from an older Blockchain to a new one which is based on  bitcoin core 0.14 (csv/segwit) with the ethereum client c++ codebase integrated on top.  We have the best of both worlds on one blockchain.
 
-    - As well as being a coin, HTMLCOIN will be the gateway to buying tokens from dapps and smart contracts on the HTMLCOIN blockchain where it will can also be exchanged for the gas required to drive smart contracts.
+  - As well as being a coin, HTMLCOIN will be the gateway to buying tokens from dapps and smart contracts on the HTMLCOIN blockchain where it will can also be exchanged for the gas required to drive smart contracts.
 
-    - The HTMLcoin Foundation is developing key use cases to show the capabilities of the platform where decentralized technologies using cryptocurrencies and distributed applications can bring innovation to large economic groups and communities across the globe.  We are working with a number of partners and startups across the globe to join our Blockchain, for their crowdfunding and final deployed services.
+  - The HTMLcoin Foundation is developing key use cases to show the capabilities of the platform where decentralized technologies using cryptocurrencies and distributed applications can bring innovation to large economic groups and communities across the globe.  We are working with a number of partners and startups across the globe to join our Blockchain, for their crowdfunding and final deployed services.
 
-    - The features of HTMLCoin include:
-      - Double SHA256: is used by Bitcoin and other established blockchains to provide a secure and provens cryptographic wrap for HTMLCOIN.
-      - Real Time Checkpointing: Protects the history of the chain from being changed by 51% attacks, and broadcasts block height and hash of the main chain that cannot be overwritten.
-      - Enhanced Hash Rate Compensation: Adjusts every 120 blocks but with short, medium and long block time samples to average out the adjust and apply 25% damping to the result.
-      - Hybrid Bitcoin / Ethereum: Uses both the Bitcoin and Ethereum codebase combining Bitcoin with EVM (Ethereum Virtual Machines).
-      - Smart Contracts: Protocol to facilitate, verify or enforce negotiation or performance of a contract.
-      - Simple Payment Verification: Execute smart contracts from lite wallets.
-      - Decentralized Applications and distributed computing platform:  The new HTMLCoin network will to be able to create smart contracts and other more fully fledged complex EVM apps.
-      - Account Abstraction Layer:  extension to Bitcoins ‘Script’ language, sits between the blockchain and EVM and allows decentralised applications and smart contracts to run in environments that were not possible before.
+  - The features of HTMLCoin include:
+    - Double SHA256: is used by Bitcoin and other established blockchains to provide a secure and provens cryptographic wrap for HTMLCOIN.
+    - Real Time Checkpointing: Protects the history of the chain from being changed by 51% attacks, and broadcasts block height and hash of the main chain that cannot be overwritten.
+    - Enhanced Hash Rate Compensation: Adjusts every 120 blocks but with short, medium and long block time samples to average out the adjust and apply 25% damping to the result.
+    - Hybrid Bitcoin / Ethereum: Uses both the Bitcoin and Ethereum codebase combining Bitcoin with EVM (Ethereum Virtual Machines).
+    - Smart Contracts: Protocol to facilitate, verify or enforce negotiation or performance of a contract.
+    - Simple Payment Verification: Execute smart contracts from lite wallets.
+    - Decentralized Applications and distributed computing platform:  The new HTMLCoin network will to be able to create smart contracts and other more fully fledged complex EVM apps.
+    - Account Abstraction Layer:  extension to Bitcoins ‘Script’ language, sits between the blockchain and EVM and allows decentralised applications and smart contracts to run in environments that were not possible before.
 
-  * why is this coin unique guys/ The supply is huge
-    - Answered by SimonT
-      - supply is irrelevent, but based on the old coin we have swapped from.
-      - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
+### why is this coin unique guys/ The supply is huge
+  - Answered by SimonT
+    - Supply is irrelevent, but based on the old coin we have swapped from.
+    - HTML5 was a legacy bitcoin clone blockchain. HTML is a new hybrid blockchain for tokens, smart contracts, daps and ether virtual machines. A pos/pow hybrid combination of a bitcoin core network and ether client with HTML being the primary currency to pay for gas and other services.
 
-  * Can you guess how much this coin will be?
-    > by SimonT
-    >
+### Can you guess how much this coin will be?
+  - by SimonT
     > No one in the HTML team can guess.  The same goes for all coin teams.
     >
     > This is because we do not sell the coin.  We only support the network s/w it uses.  You guys buy the coins from each other on the exchanges and it may surprise you to know the foundation and dev team doesn't benefit from your transactions with each other.
@@ -153,12 +152,66 @@
     >
     > I hope this helps clarify why we skip around any questions of price or value.
 
-  * Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
-    - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
+### Is there a plan to lock an amount of coins like ripple did? I guess thats not bad depending on what you find after the 106 days audit I guess
+  - The foundation and dev premine is already kept away from staking in cold storage.  Once we audit the swap totals we will publish our plans
 
-  * What is 51% attack?
-    - This page wih youtube video explains what the 51% attack is.
-      - [What is a 51% Attack – Simplified Bitcoin Tutorial](https://99bitcoins.com/51-attack-simplified-bitcoin-tutorial/)
+### What is 51% attack?
+  - This page wih youtube video explains what the 51% attack is.
+    - [What is a 51% Attack – Simplified Bitcoin Tutorial](https://99bitcoins.com/51-attack-simplified-bitcoin-tutorial/)
+
+### Seeing an extreme amount of "this is good, lets lambo boys" posts here, i Love HTML but would like to know the drawbacks. What's holding us back and What are the potential risks within the coins future?
+  - Answered by SimonT
+    > Great question.
+    >
+    > Firstly, we are here for the long run and you won't see any lambo, or buy signals from the core team.  We intend to be compliant with all upcoming rules and regulations on crypto and securities.    In fact, we see the foundation as a software company.  We build and mainaint the software which is used to run the decentralised blockchain and all its features.  The foundation sells nothing, and has nothing to do with the exchnage actiivities.
+    >
+    > As i mentioned, the Foundation is not driven by the price on the exchanges, but building great software to encourage the adoption od decentralised blockchain technology.  Our approach is more than many platform coins in so much as we arent looking for projects to land on our chain, fire up a token an generate business for themselves..... what we are doing is using the value transfer (bitcoin) capabilites of the blockchain to drive very broad (horizontal) adoption in both commercial and private use.  This is what the POMA programme is about.
+    >
+    > As we grow the basic adoption of an easy to use technology with the desktop and soon to arrive mobile wallets, we then have a community of platform users who can start to use the blockchain for other things.  These things will use daps, smart contracts and other technologues to provide richer and more disruptive (vertical) solutions.
+    >
+    > Why are we taking this approach ?
+    >
+    >   Speed, pace and relevence.  What we observed is a lot of great platform blockchains growing, which then host projects which seem to be expected to bring their own user base.  The projects don't seem to connect with the users of the blockchains...... which confuses us.  A blockchain is not like a cloud computing platform, its a community that chose to use a decentralised value transfer platform  which can deliver decentralised applications (relevent to their worlds)
+    >
+    > What is holding us back ?
+    >
+    >   This is a personal view, and not the official line.  At the moment, we need to regroup and focus on features and growth.  We (the core team) need to consider the bigger picture with a complete economic model of growth and adoption and get building.   We do have full time developers in the team, and POMA has been in development for a long time, so the challenge is keeping this relevent and establshing the campaigns.
+    >
+    > Are there any blockers.  Right now, i don't think so.  Look how far we've come since we started in September.  I think the singel biggest issue is an industry one, and its the arrival of likely regualtion.  We take the recent SEC rulings very seriously, and so do the exchnages that make an important part of the eco-system.  This means the community needs to behave in an exempelary manner for us to get listed.  The exchnages we have applied to are watching, and completing their due dilligence and decisions based on our innovation/projects, our likely growth, the health of our coin (stable and non-pumped) and quality/participation of the community in achieving our stated goal of mass adoption of blockchain.
+    >
+    > What are the primary risks ?  personally:
+    >
+    >   1.  We support good regulation, but not regulation that hampers decentralised blokchain.
+    >   2.  Dominance of bitcoin and its politcs.  For me, this casts a shadow across our inidustry.  Bitcoin has no roadmap, no strategy and no architectural consensus.  I mean, they still haven't tuly deployed satoshi's original white paper.  The constant infighting and techical politics is destroying value, destroying the environment and making fools of us.  As an alt-coin, the impact of bitcoin is that it destabilises the adoption of alternative and better technologies, whilst people look for free money and move in/out of it.
+    >   3. Time and workload.  You will see a lot from this team, more than its size suggests.  We have and use an extensive network of friends and dev teams, but whatever we do you guys will want it last week, and if we slip by a few days we know you will be upset.  But, this is sotware development and we are a software delivery team.  It is what it is, and it takes as long as it takes.  Quality is everything !
+    >
+    > Finally, and everyone asks this.  The devs are a team.  We are going nowhere except here.  Yes its been a bumpy ride, but we've stuck it out and are pleased to have develop a reputation for honesty, transparency and persistence.  We like this community, we like the arguments, we like the trolls and we like learning together.
+    >
+    > Yes wedo  help our friends in other projects, but they have helped us.  Its the way it all works.  2018 will be an interesting year for blockchain, we can do some cool stuff,  and make decentralisation start to happen like we promised.   Lets have some fun and change things.
+
+### HTML DEVs must be rich!
+  - Answered by SimonT
+    >
+    > Transparency => No 'rich devs' trading. Personally I sold a couple of million a few weeks ago to pay for Xmas for my family who I've spent months neglecting.  Since then I invested more btc which I earned advising in other projects and bought in at 21 sats yesterday.
+    >
+    > The devs are bound by the rules of the foundation and we cannot encourage people to buy or sell HTML, but you can rest assured personally we are too busy with the project to participate in any day trading, also the dev team have a reputation to maintain and have no intention of destabilising the economics of the project whilst it is finding its market and support levels.
+    >
+    > There is simply too much in the pipeline and we aren't going to ruin the work we are doing for short term and personal gain.
+
+### How far is tech from qtum as suppoman mentioned? Hybrid etc
+  - Answered by SimonT
+    > Our tech is the same as Qtum.
+    >
+    > We both use the identical Ether Cpp client, pretty much unchanged.  This is why we are both compatible with ether dapps.
+    >
+    > We both use the same bitcoincore layer, but our supply is different so there are some changes to accomodate this.
+    >
+    > QTUM runs POS3.0 with a blocktime of 120 seconds.
+    > HTML runs POS3.0 with a blocktime of 120 seconds, but we alo run POW (mining) with a blocktime of 120 seconds.  We run the POS & POW 60 seconds out of sequence.  This gives us an effective blocktime of 60 seconds.
+    >
+    > HTML also has realtime checkpointing.  This ensures the blockchain cannot be opened up in a 51% attack.
+    >
+    > There are a number of other subtle differences (EHRC) but these are all in the chain/network layer and do not impact the features.... maybe @bushstar will jump here and correct me, but unless you are an ultra geek this is a fair summary.  Speed and security.
 
 
 ## Whitepaper
@@ -168,40 +221,40 @@
     - click right button and select "save link as"
 
 
-
-
 ## SWAP
-  * swap dates
+### swap dates
 
-     PERIOD   | RATIO | DATE
-    ----------|-------|------------
-     1 - 60   | 1:1   | 2018-02-12
-     61 - 90  | 1:2   | 2018-03-12
-     91 - 105 | 1:3   | 2018-03-27
-     106      |       | End of Swap
+   PERIOD   | RATIO | DATE
+  ----------|-------|------------
+   1 - 60   | 1:1   | 2018-02-12
+   61 - 90  | 1:2   | 2018-03-12
+   91 - 105 | 1:3   | 2018-03-27
+   106      |       | End of Swap
 
-  * Yobit swap process
-    * there is a pdf file
-    * also this
-      - 6 Step easy to swap
-        1. [Download desktop wallet new HTML v2.0.0.3](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-        2. Make a new HTMLcoin v2.0.0.3 address on menu request payment
-        3. [Fill the form](https://htmlcoin.com/swap-form/)
-        Copy and paste the new wallet address,email and submit
-        4. After submit you will get old html5 address
-        5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
-        6. Just wait swap process
-          - This process has a human labor.  It can take 1 to 24 hours
-          - If you do not receive coins after 24 hours, please contact dev@htmlcoin.com
-          - Sometimes, the swap server runs out of coins and needs to be reloaded.
-            - Peter Bushenll wrote:
-              - _The swap server had run out of coins and has now been topped up._
+### Yobit swap process
+  * there is a pdf file
+  * also this
+    - 6 Step easy to swap
+      1. [Download desktop wallet new HTML v2.0.0.3](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+      2. Make a new HTMLcoin v2.0.0.3 address on menu request payment
+      3. [Fill the form](https://htmlcoin.com/swap-form/)
+      Copy and paste the new wallet address,email and submit
+      4. After submit you will get old html5 address
+      5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
+      6. Just wait swap process
+        - This process has a human labor.  It can take 1 to 24 hours
+        - If you do not receive coins after 24 hours, please contact dev@htmlcoin.com
+        - Sometimes, the swap server runs out of coins and needs to be reloaded.
+          - Peter Bushenll wrote:
+            - _The swap server had run out of coins and has now been topped up._
 
+### I moved my html5 from yobit into my HTML wallet... I did this twice using the same payment address not knowing I needed to generate a new payment address... will this still go through?
+  - Answered by @QuidProCrypto
+    - You mean you sent two separate withdrawals from Yobit to the HTML5 address generated by the swap form? that’s perfectly fine, the HTML5 address is unique and will last as long as the swap form operates; you could send as many transactions as you want, and any transaction over 1 HTML5 will be swapped
 
 ## ROADMAP
   * Do you have an updated roadmap?
     - not yet, but we've been discussing internally and think we now know what is in/out of the foundation budget now.  Expect an update to be isssued in the new year...... that said, we are working on the solo miner, explorer and API, android and ios wallets.... and going through the research/planning for lightning. (SimonT)
-
 
 
 ## WALLET
@@ -364,7 +417,18 @@
   * You can download this [pdf file](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/HTML_Wallet-Quick-guide_beta.pdf)
     - click right button and select "save link as"
 
+### I am on 2.0.0.4 and having issues connecting to nodes.
+  - Answered by Peter Bushnell
+    - Restart your router and try again.
+      - Seems that nodes that previously seen are ignored by other network nodes, run a new client on a different port and it connects. Restarting the router may give you a new IP or map your client to a different port and appear as a different node to the network.
+    - This answer can be found [here](https://github.com/HTMLCOIN/HTMLCOIN/issues/4#issuecomment-356858426)
 
+### CreateNewBlock: TestBlockValidity Failed: bad-version (code 17) (#12)
+  - Answered by Peter Bushnell
+    - I only see the errors shown while the blockchain is still syncing with the network. Make sure that your block height is the same as shown in the explorer.
+      - https://html.mastercalls.io/
+
+    - This answer can be found [here](https://github.com/HTMLCOIN/HTMLCOIN/issues/12)
 
 
 ## PAPER WALLET
@@ -373,14 +437,11 @@
     - https://walletgenerator.net/?currency=HTMLCoin
 
 
-
-
 ## POS
-  * What is PoS and How does it work?
-    - HTMLCOIN uses PoS3.0
-    - POS generates 1 block every 120 seconds, whilst POW generates 1 block every 120 seconds.  The two processes run 60 seconds out of sequence so we effectively have a 60 second block time witheach process throttled back to 1% pa each.
-    - The block reward is currently 1250 coins, and growth in supply is managed at the network level which is why there appears to be a lumpy/luck based element to rewards.  This is a feature of the more modern POS3.0 coins and I am trying to explain is simply and mathemetically in a document for everyone to understand at the moment.
-
+### What is PoS and How does it work?
+  - HTMLCOIN uses PoS3.0
+  - POS generates 1 block every 120 seconds, whilst POW generates 1 block every 120 seconds.  The two processes run 60 seconds out of sequence so we effectively have a 60 second block time witheach process throttled back to 1% pa each.
+  - The block reward is currently 1250 coins, and growth in supply is managed at the network level which is why there appears to be a lumpy/luck based element to rewards.  This is a feature of the more modern POS3.0 coins and I am trying to explain is simply and mathemetically in a document for everyone to understand at the moment.
 
 
 ## What is Staking? by SimonT
@@ -433,7 +494,6 @@
 
   - QTUM uses the same staking method:
     - https://medium.com/@jb395official/an-introduction-to-qtum-proof-of-stake-mining-a-racing-story-f11a3f48009f
-
 
 
 ## MINING
@@ -516,8 +576,6 @@
   - and mining pool is not available yet. Dev is actively working on it.
 
 
-
-
 ## TOTAL SUPPLY
 ### what is the max supply?
   - Circulating Supply: 79,888,870,000 as of 2018-01-09 6:30 AM UTC
@@ -534,7 +592,6 @@
         - Please make sure to hide your coin balance before posting this info.
 
   * In the spirit of transparency, this number will be fully auditted against the swap number after the 106 day window and decisions taken on what we do. (SimonT)
-
 
 
 ## LIGHTNING
@@ -574,13 +631,9 @@
   - MN is on the list of things to investigate, and we have discussed it before, but there needs to be an economic business case other than making free coins.  There is a room to discuss in our ryver/slack site, and i see us kicking things off again in Jan.  The problem we have is that we are very fast, very secure and with lightning we can do TOR style micropayments.  If you do research MN coins they are generally all pre-segwit bitcoin based, whereas we are 0.14 and don't need to make any compromises.
 
 
-
-
 ## MOBILE WALLET
   * SimonT answered on 2017-12-28
     - IOS is in progress whilst Android is in alpha at the moment.  Teams are working on this (we were discussing on xmas day) and it will be one of the most important things we deliver in Jan/Feb, although IOS will be all very hard work as soon as we submit to apple and their listing processes.
-
-
 
 
 ## EXCHANGE
@@ -607,8 +660,6 @@
   - [CryptoBridge](https://crypto-bridge.org)
     - [wallet](https://wallet.crypto-bridge.org)
     - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
-
-
 
 
 ## Html.business
@@ -655,7 +706,6 @@
         - http://api.htmlcoin.com:3001/htmlcoin-api/addr/YOUR-ADDRESS-HERE
 
 
-
 ## LINKS
   * HTMLCoin releases
     - Wallet downloads
@@ -687,16 +737,10 @@
     - https://www.youtube.com/watch?v=HMo77gPd1a0&t=35s
 
 
-
-
-
-
 ## COIN BURN
   * Coinburn planned at anytime?
     - Please feel free to burn yours ;)
     - Dont burn it, sell to me for 1 sat
-
-
 
 
 ## TELEGRAM GROUPS
@@ -792,13 +836,12 @@
       - 913 members
 
 
-
 ## TELEGRAM ADMIN
   * scammers are out there and trying to steal your coins. When anyone contacts you with admin name and photo, check their user names. ask other admins and verify the user before giving out any sensitive information.
   * Admins will NEVER EVER ask anyone for donation or ask private keys. That is the red alert right there!
 
 
-
 ## CONTRIBUTORS
   * Miwand Najafe (miwand)
     - https://github.com/miwand
+
