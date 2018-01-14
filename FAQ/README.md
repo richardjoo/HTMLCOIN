@@ -17,6 +17,7 @@
   * [Exchange](#exchange)
   * [HtmlBusiness](#htmlbusiness)
   * [Blockchain Explorer and API](#blockchain-explorer)
+  * [Current Ranking](#current-ranking)
   * [Links](#links)
   * [Coin burn](#coin-burn)
   * [Telegram groups](#telegram-groups)
@@ -704,6 +705,13 @@
       - it has a manual!!!
       - example:
         - http://api.htmlcoin.com:3001/htmlcoin-api/addr/YOUR-ADDRESS-HERE
+
+## Current Ranking
+  * What is the current ranking?  CCMC does not show such information.
+    - As of Sunday, January 14th, 2018 12:58 AM PST
+      - 79897788750 x 29 sat = 23170 BTC x $13,650 = $316,275,396
+      - rank 105
+
 
 
 ## LINKS
