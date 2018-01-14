@@ -24,6 +24,7 @@
   * [Telegram admin members](#telegram-admin)
   * [Contributors](#contributors)
 
+<br/><br/>
 
 ## IMPORTANT MESSAGE
 ### Wallet v.2.0.0.4 has been released!
