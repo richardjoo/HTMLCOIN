@@ -46,6 +46,12 @@
   - bittrex, binance, cryptopia, tradesatoshi, Bitfinex, and CEX.io ALL STOPPED ACCEPTING NEW USERS BECAUSE THE websites cannot handle the extra crypto traffice!!! Sign up for all crypto exchanges NOW so you can trade when HTML gets listed on the others!!!!
 
 
+
+
+<br/><br/>
+
+
+
 ## Proof Of Mass Adoption
 ### What is PoMA?
   - PoMA stands for Proof of Mass Adoption
