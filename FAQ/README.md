@@ -114,11 +114,11 @@
 ### Answered by SimonT
   - Portability through using the ether client: most developers have learnt on the biggest platform, ethereum, and the tools have been developed for ether.  Whereas neo and many other dap/token platforms have their own comparability requirements, anything written for ether can be quickly ported to HTML very simply.  Html uses the ether client, simple.
 
-  - Stability. Html replaces the ether-go network/Blockchain layer with a current, proven and robust bitcoin core one.  Bitcoin core include the unspent transaction output model (UTXO) which is a whole lot more flexible than the legacy ether account approach.
+  - Stability. HTML replaces the ether-go network/Blockchain layer with a current, proven and robust bitcoin core one.  Bitcoin core include the unspent transaction output model (UTXO) which is a whole lot more flexible than the legacy ether account approach.
 
-  - Security. No 51% attacks here !!! We use realtime checkpointing which locks our Blockchain and protects it from replay attacks.  I don't think any of the smart contract/dap platform coins have this at the moment although we haven't had a spate of consensus attacks for 18 months now, with values the way they are we can't be too safe.
+  - Security. No 51% attacks here!!! We use realtime checkpointing which locks our Blockchain and protects it from replay attacks.  I don't think any of the smart contract/dap platform coins have this at the moment although we haven't had a spate of consensus attacks for 18 months now, with values the way they are we can't be too safe.
 
-  - Speed.  We run both pow and pos to secure the network and make it faster.  They both run a 2 minute blocktime, but 1 minute out of sync giving a net 60 second blocktime. This gives us the 3-20 second transaction times we currently enjoy as well as 60 second confirmations.
+  - Speed.  We run both PoW and PoS to secure the network and make it faster.  They both run a 2 minute blocktime, but 1 minute out of sync giving a net 60 second blocktime. This gives us the 3-20 second transaction times we currently enjoy as well as 60 second confirmations.
 
   - Open source bitcoin and ether : sharing much of bitcoincore with many other projects we get to leverage all the bitcoin improvements (BIP) which give us these great wallets and roadmap for lightning and other cool stuff. We also don't hide the fact we track qtum for a lot of our features and although there's still a lot of work to adapt things for us, the challenges are quantifiable and mean we get to share all the latest and greatest bitcoin core open source features. From an ether client perspective we can run all the open source projects in the state of the daps libraries.
 
@@ -256,12 +256,12 @@
   * there is a pdf file
   * also this
     - 6 Step easy to swap
-      1. [Download desktop wallet new HTML v2.0.0.3](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-      2. Make a new HTMLcoin v2.0.0.3 address on menu request payment
+      1. [Download desktop wallet new HTML v2.0.0.4](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+      2. Make a new HTMLcoin v2.0.0.4 address on menu request payment
       3. [Fill the form](https://htmlcoin.com/swap-form/)
       Copy and paste the new wallet address,email and submit
-      4. After submit you will get old html5 address
-      5. Open yobit / html5 coin wallet and do the withdraw,  sent it to address you get in step number 4
+      4. After submit you will get old HTML5 address
+      5. Open Yobit / HTML5 coin wallet and do the withdraw,  sent it to address you get in step number 4
       6. Just wait swap process
         - This process has a human labor.  It can take 1 to 24 hours
         - If you do not receive coins after 24 hours, please contact dev@htmlcoin.team
@@ -590,9 +590,9 @@
   - You just download the zip file and uncompress, and close your windows QT wallet fully, and click start_mining.cmd
     - go to the site
       - https://github.com/HTMLCOIN/HTMLCOIN/releases
-    - and download the 4th one `htmlcoind-2.0.0.3-win32.zip`
+    - and download the 4th one `htmlcoind-2.0.0.4-win32.zip`
       - or click this link below to download the file
-        - https://github.com/HTMLCOIN/HTMLCOIN/releases/download/v2.0.0.3/htmlcoind-2.0.0.3-win32.zip
+        - https://github.com/HTMLCOIN/HTMLCOIN/releases/download/v2.0.0.4/htmlcoind-2.0.0.4-win32.zip
     - uncompress
     - Read the README file and follow the instruction.
 
@@ -629,7 +629,7 @@
 ## TOTAL SUPPLY
 ### what is the max supply?
   - Circulating Supply: 79,888,870,000 as of 2018-01-09 6:30 AM UTC
-    - How can it be higher than circulating supplu of h5?
+    - How can it be higher than circulating supply of HTML5?
       - Check out the white paper.  This explains the premine and 5 year funding model, there was also some contingency included which will be discussed when we understand the final numbers as mining two blockchains does cost extra.
   - Total Supply: 90,000,000,000
   - Max Supply: 90,000,000,000
@@ -692,7 +692,7 @@
 
 ## MOBILE WALLET
   * SimonT answered on 2017-12-28
-    - IOS is in progress whilst Android is in alpha at the moment.  Teams are working on this (we were discussing on xmas day) and it will be one of the most important things we deliver in Jan/Feb, although IOS will be all very hard work as soon as we submit to apple and their listing processes.
+    - iOS is in progress whilst Android is in alpha at the moment.  Teams are working on this (we were discussing on xmas day) and it will be one of the most important things we deliver in Jan/Feb 2018, although iOS will be all very hard work as soon as we submit to Apple and their listing processes.
 
 
 <br/><br/>
@@ -960,3 +960,5 @@
   * Miwand Najafe (miwand)
     - https://github.com/miwand
 
+  * sunk818
+    - https://github.com/sunk818
