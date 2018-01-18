@@ -608,6 +608,11 @@
     - As an external miner is slow coming a better internal miner is something that I can work on, when you can set it to keep mining and allow you to set the thread count. When I get the time I'll get on to this but I'm stretched very thinly at the moment, not taken any days off now for months. This is on my to-do list.
       - Peter Bushnell (2018-01-08)
 
+### HTML coin mining with multiple sessions
+  - One of our contributors worked on this multi-session linux CLI mining script!  Thanks!
+  - Please go to his github and follow his README.
+    - https://github.com/cl04ker/HTMLCOIN-Scripts
+
 ### HTML coin mining with raspberry pi3
   - This is not completed, but you can follow this link below:
     - https://github.com/richardjoo/HTMLCOIN/blob/master/wallet/raspberry-pi3/how-to-install-htmlcoin-wallet-on-rpi3.md
@@ -847,51 +852,59 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
-    - 6614 members as of 2018-01-12
+    - 7170 members as of 2018-01-17
 
   * Non-official news
     - https://t.me/htmlcoinnews
-    - 512 members as of 2018-01-12
+    - 535 members as of 2018-01-17
+
+  * Non-official HTMLCOIN Mining
+    - https://t.me/HTMLmining
+    - 219 members as of 2018-01-17
 
   * Brazil
     - https://t.me/htmlcoinbrasil
-    - 563 members as of 2018-01-12
+    - 633 members as of 2018-01-17
 
   * China
     - https://t.me/HTMLcoin_China
-    - 40 members as of 2018-01-12
+    - 39 members as of 2018-01-17
 
   * France
     - https://t.me/htmlcoinfr
-    - 119 members as of 2018-01-12
+    - 159 members as of 2018-01-17
 
   * Germany
     - https://t.me/htmlcoinde
-    - 50 members as of 2018-01-12
+    - 64 members as of 2018-01-17
 
   * Japan
     - https://t.me/HTMLcoin_Japan
-    - 288 members as of 2018-01-12
+    - 479 members as of 2018-01-17
+    - https://t.me/HTMLcoinJapan
+      - Announcements in Japanese
 
   * Korea
     - https://t.me/HTMLcoin_Korea
-    - 1397 members as of 2018-01-12
+    - 1491 members as of 2018-01-17
+    - https://t.me/HTMLcoinKorea
+      - HTML코인에 관한 정보들을 공유하는 곳입니다.
 
   * NL/BE
     - https://t.me/HTMLCOINDUTCH
-    - 330 members as of 2018-01-12
+    - 409 members as of 2018-01-17
 
   * Russia
     - https://t.me/htmlofficialrussia
-    - 87 members as of 2018-01-12
+    - 98 members as of 2018-01-17
 
   * Turkiye
     - https://t.me/HTMLcoin_Turkey
-    - 61 members as of 2018-01-12
+    - 68 members as of 2018-01-17
 
   * Vietnam
     - https://t.me/HTMLVIETNAM
-    - 16 members as of 2018-01-12
+    - 80 members as of 2018-01-17
 
   * if anything missing, please report to the main group.
 
@@ -964,3 +977,7 @@
 
   * sunk818
     - https://github.com/sunk818
+
+  * cl04ker
+    - https://github.com/cl04ker/HTMLCOIN-Scripts
+      - Automate your usage of the HTMLCOIN software on Linux.
