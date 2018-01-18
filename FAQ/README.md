@@ -795,7 +795,7 @@
 
 ## Current Ranking
   * What is the current ranking?  CCMC does not show such information.
-    - As of Sunday, January 17th, 2018 10:09 PM PST
+    - As of Wednesday, January 17th, 2018 10:09 PM PST
       - 79904596250 x 26 sat = 20775 BTC x $11,081 = $230,209,936
       - rank 106
 
