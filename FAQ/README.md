@@ -794,10 +794,11 @@
 
 
 ## Current Ranking
-  * What is the current ranking?  CCMC does not show such information.
-    - As of Wednesday, January 17th, 2018 10:09 PM PST
-      - 79904596250 x 26 sat = 20775 BTC x $11,081 = $230,209,936
-      - rank 106
+  * Visit CCMC to check the latest information
+    - https://coinmarketcap.com/currencies/html-coin/
+    - As of Thursday, January 18th, 2018 12:10 PM PST
+      - $153,356,454 USD
+      - rank 142
 
 
 
