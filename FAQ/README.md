@@ -1,5 +1,6 @@
 # HTMLCOIN Frequently Asked Questions
   * Anyone interested in forking my repo and work on it, please work on the dev or create a new branch after the fork and work on it. This page gets updated quite frequently and it can take longer time for me to review your pull request.  new branch should be `<your-github-username>_dev` For exmaple: richardjoo_dev.  Thanks!
+  * If any pull request was made to the master, it might not be approved.
 
 ## Table of contents
   * [Important Message](#iimportant-message)
@@ -635,7 +636,7 @@
 
 ## TOTAL SUPPLY
 ### what is the max supply?
-  - Circulating Supply: 79,888,870,000 as of 2018-01-09 6:30 AM UTC
+  - Circulating Supply: 79,904,596,250 as of 2018-01-17
     - How can it be higher than circulating supply of HTML5?
       - Check out the white paper.  This explains the premine and 5 year funding model, there was also some contingency included which will be discussed when we understand the final numbers as mining two blockchains does cost extra.
   - Total Supply: 90,000,000,000
@@ -794,9 +795,9 @@
 
 ## Current Ranking
   * What is the current ranking?  CCMC does not show such information.
-    - As of Sunday, January 14th, 2018 12:58 AM PST
-      - 79897788750 x 29 sat = 23170 BTC x $13,650 = $316,275,396
-      - rank 105
+    - As of Sunday, January 17th, 2018 10:09 PM PST
+      - 79904596250 x 26 sat = 20775 BTC x $11,081 = $230,209,936
+      - rank 106
 
 
 
