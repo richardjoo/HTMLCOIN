@@ -829,8 +829,10 @@
     - The "HTMLCOIN Swap Delay At Yobit Exchange" topic
       - https://bitcointalk.org/index.php?topic=2610554o
 
-  * HTMLCOIN & HTML Blockchain: First Live Stream
-    - https://www.youtube.com/watch?v=HMo77gPd1a0&t=35s
+  * HTMLCOIN & HTML Blockchain
+    - Unofficial
+      - https://www.youtube.com/watch?v=HMo77gPd1a0&t=35s
+      - http://html.altexplorer.co/
 
 
 
