@@ -789,19 +789,6 @@
 
 
 
-## Current Ranking
-  * Visit CCMC to check the latest information
-    - https://coinmarketcap.com/currencies/html-coin/
-    - As of Thursday, January 18th, 2018 12:10 PM PST
-      - $153,356,454 USD
-      - rank 142
-
-
-
-
-<br/><br/>
-
-
 
 ## LINKS
   * HTMLCoin releases
