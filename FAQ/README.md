@@ -636,18 +636,12 @@
 
 ## TOTAL SUPPLY
 ### what is the max supply?
-  - Circulating Supply: 79,904,596,250 as of 2018-01-17
-    - How can it be higher than circulating supply of HTML5?
-      - Check out the white paper.  This explains the premine and 5 year funding model, there was also some contingency included which will be discussed when we understand the final numbers as mining two blockchains does cost extra.
-  - Total Supply: 90,000,000,000
-  - Max Supply: 90,000,000,000
+  - Current Rank: 139
+  - Market Cap: $154,488,098 USD / 13,556 BTC
+  - Volume: $1,077,340 USD / 94.53 BTC
+  - Circulating Supply: 49,962,193,185 HTML
   - Where to get this info?
-    - From your wallet
-      - Go to HELP --> DEBUG WINDOW --> CONSOLE
-      - type
-        - `getinfo `
-        - DO NOT COPY AND PASTE THIS INFO PUBLICALLY since it contains your coin balance.
-        - Please make sure to hide your coin balance before posting this info.
+    - https://coinmarketcap.com/currencies/html-coin/
 
   * In the spirit of transparency, this number will be fully auditted against the swap number after the 106 day window and decisions taken on what we do. (SimonT)
 
