@@ -728,6 +728,11 @@
     - [wallet](https://wallet.crypto-bridge.org)
     - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
   - [Openledger DEX](https://openledger.io/welcome)
+    - [HTML_USD](https://openledger.io/market/HTML_USD)
+    - [HTML_BTC](https://openledger.io/market/HTML_OPEN.BTC)
+    - [HTML_CNY](https://openledger.io/market/HTML_CNY)
+    - [HTML_BTS](https://openledger.io/market/HTML_BTS)
+    - [HTML_OBITS](https://openledger.io/market/HTML_OBITS)
 
 
 
