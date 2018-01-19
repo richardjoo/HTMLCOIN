@@ -636,10 +636,12 @@
 
 ## TOTAL SUPPLY
 ### what is the max supply?
-  - Current Rank: 139
-  - Market Cap: $154,488,098 USD / 13,556 BTC
-  - Volume: $1,077,340 USD / 94.53 BTC
-  - Circulating Supply: 49,962,193,185 HTML
+  - As of Thursday, January 18th, 2018 4:16PM PST
+    - Current Rank: 139
+    - Market Cap: $154,488,098 USD / 13,556 BTC
+    - Volume: $1,077,340 USD / 94.53 BTC
+    - Circulating Supply: 49,962,193,185 HTML
+
   - Where to get this info?
     - https://coinmarketcap.com/currencies/html-coin/
 
