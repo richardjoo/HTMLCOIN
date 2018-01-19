@@ -727,6 +727,7 @@
   - [CryptoBridge](https://crypto-bridge.org)
     - [wallet](https://wallet.crypto-bridge.org)
     - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
+  - [Openledger DEX](https://openledger.io/welcome)
 
 
 
