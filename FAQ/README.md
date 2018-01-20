@@ -258,14 +258,14 @@
 ### Yobit swap process
   * there is a pdf file
   * also this
-    - 6 Step easy to swap
-      1. [Download desktop wallet new HTML v2.0.0.4](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-      2. Make a new HTMLcoin v2.0.0.4 address on menu request payment
-      3. [Fill the form](https://htmlcoin.com/swap-form/)
-      Copy and paste the new wallet address,email and submit
-      4. After submit you will get old HTML5 address
-      5. Open Yobit / HTML5 coin wallet and do the withdraw,  sent it to address you get in step number 4
-      6. Just wait swap process
+  - 6 Step easy to swap
+  1. [Download desktop wallet new HTML v2.0.0.4](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+  2. Make a new HTMLcoin v2.0.0.4 address on menu request payment
+  3. [Fill the form](https://htmlcoin.com/swap-form/)
+  Copy and paste the new wallet address,email and submit
+  4. After submit you will get old HTML5 address
+  5. Open Yobit / HTML5 coin wallet and do the withdraw,  sent it to address you get in step number 4
+  6. Just wait swap process
         - This process has a human labor.  It can take 1 to 24 hours
         - If you do not receive coins after 24 hours, please contact dev@htmlcoin.team
         - Sometimes, the swap server runs out of coins and needs to be reloaded.
