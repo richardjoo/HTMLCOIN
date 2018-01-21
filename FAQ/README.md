@@ -279,11 +279,8 @@
       4. After submit you will get old HTML5 address
       5. Open Yobit / HTML5 coin wallet and do the withdraw,  sent it to address you get in step number 4
       6. Just wait swap process
-        - This process has a human labor.  It can take 1 to 24 hours
-        - If you do not receive coins after 24 hours, please contact dev@htmlcoin.team
-        - Sometimes, the swap server runs out of coins and needs to be reloaded.
-          - Peter Bushenll wrote:
-            - _The swap server had run out of coins and has now been topped up._
+        - This process has a human labor.
+        - It can take up to 72 hours after you send HTML5 to the swap address to process your swap transaction. If it has been more than 72 hours, please contact us via email at dev@htmlcoin.team
 
 ### I moved my html5 from yobit into my HTML wallet... I did this twice using the same payment address not knowing I needed to generate a new payment address... will this still go through?
   - Answered by @QuidProCrypto
