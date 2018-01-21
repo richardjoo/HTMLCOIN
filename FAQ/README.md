@@ -119,7 +119,7 @@
   4. Why RIPPLE Gone So High being 100Billion Coins?
     - Because it is Designed for Business and Banks
 
-  - **Why HTMLcoin is Going to Go Higher then Expected ?**
+  - **Why HTMLcoin is Going to Go Higher than Expected ?**
     - **Because it has got All of the Above FEATURES !!**
 
 
