@@ -109,6 +109,19 @@
   - Can I send HTML5 to HTML coin?
     - no you cannot.  You will lose your coins permanently.
 
+### WHY SHOULD I INVEST IN HTML COIN?
+  1. Why BitCoin Going So High in price ?
+    - Because it has best Blockchain Algorithm in the world
+  2. Why Ethereum Price is Going Higher?
+    - Because it can handle smart Contracts and ICOs
+  3. Why Qtum is valued as Emerging BEST Crypto?
+    - Because it is Crypto for Business and Mobile Devices
+  4. Why RIPPLE Gone So High being 100Billion Coins?
+    - Because it is Designed for Business and Banks
+
+  *Why HTMLcoin is Going to Go Higher then Expected ?*
+  *Because it has got All of the Above FEATURES !!*
+
 
 <br/><br/>
 
@@ -846,59 +859,64 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
-    - 7170 members as of 2018-01-17
+    - 7634 members as of 2018-01-20
 
   * Non-official news
     - https://t.me/htmlcoinnews
-    - 535 members as of 2018-01-17
+    - 534 members as of 2018-01-20
 
   * Non-official HTMLCOIN Mining
     - https://t.me/HTMLmining
-    - 219 members as of 2018-01-17
+    - 287 members as of 2018-01-20
+    - @AleZanello create a bot for the mining community!
+      - /diff - Get current Difficulty
+      - /hash - Get current Hashrate
+      - /blocks - Get last block found
+      - More Commands coming!!!
 
   * Brazil
     - https://t.me/htmlcoinbrasil
-    - 633 members as of 2018-01-17
+    - 652 members as of 2018-01-20
 
   * China
     - https://t.me/HTMLcoin_China
-    - 39 members as of 2018-01-17
+    - 42 members as of 2018-01-20
 
   * France
     - https://t.me/htmlcoinfr
-    - 159 members as of 2018-01-17
+    - 173 members as of 2018-01-20
 
   * Germany
     - https://t.me/htmlcoinde
-    - 64 members as of 2018-01-17
+    - 67 members as of 2018-01-20
 
   * Japan
     - https://t.me/HTMLcoin_Japan
-    - 479 members as of 2018-01-17
+    - 514 members as of 2018-01-20
     - https://t.me/HTMLcoinJapan
       - Announcements in Japanese
 
   * Korea
     - https://t.me/HTMLcoin_Korea
-    - 1491 members as of 2018-01-17
+    - 1549 members as of 2018-01-20
     - https://t.me/HTMLcoinKorea
       - HTML코인에 관한 정보들을 공유하는 곳입니다.
 
   * NL/BE
     - https://t.me/HTMLCOINDUTCH
-    - 409 members as of 2018-01-17
+    - 464 members as of 2018-01-20
 
   * Russia
     - https://t.me/htmlofficialrussia
-    - 98 members as of 2018-01-17
+    - 98 members as of 2018-01-20
 
   * Turkiye
     - https://t.me/HTMLcoin_Turkey
-    - 68 members as of 2018-01-17
+    - 78 members as of 2018-01-20
 
   * Vietnam
     - https://t.me/HTMLVIETNAM
-    - 80 members as of 2018-01-17
+    - 94 members as of 2018-01-20
 
   * if anything missing, please report to the main group.
 
