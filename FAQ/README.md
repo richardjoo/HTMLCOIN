@@ -1001,3 +1001,7 @@
   * cl04ker
     - https://github.com/cl04ker/HTMLCOIN-Scripts
       - Automate your usage of the HTMLCOIN software on Linux.
+
+  * @nyangduck
+    - Telegram user
+    - Wrote multiple session mining instruction for Linux in Korean! thanks!!!
