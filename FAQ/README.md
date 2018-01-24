@@ -859,64 +859,69 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
-    - 7634 members as of 2018-01-20
+    - 8790 members as of 2018-01-23
 
   * Non-official news
     - https://t.me/htmlcoinnews
-    - 534 members as of 2018-01-20
+    - 597 members as of 2018-01-23
 
   * Non-official HTMLCOIN Mining
     - https://t.me/HTMLmining
-    - 287 members as of 2018-01-20
-    - @AleZanello create a bot for the mining community!
-      - /diff - Get current Difficulty
-      - /hash - Get current Hashrate
-      - /blocks - Get last block found
+    - 418 members as of 2018-01-23
+    - @AleZanello created a bot for the mining community!
+      - `/diff` - Get current Difficulty
+      - `/hash` - Get current Hashrate
+      - `/blocks` - Get last block found
+      - `/checkpoint` - Get Checkpoint
+      - `/blocktemplate` - Get Blocktemplate (Dont use it in Group)
+      - `/mining` - Get Full Mining Current Info (Dont use it in Group)
+      - `/staking` - Get Full Staking Current Info (Dont use it in Group)
       - More Commands coming!!!
+      - Tips: HsmBsnRqr15uAxWtNETVm1BtV4nsTRn1cs
 
   * Brazil
     - https://t.me/htmlcoinbrasil
-    - 652 members as of 2018-01-20
+    - 678 members as of 2018-01-23
 
   * China
     - https://t.me/HTMLcoin_China
-    - 42 members as of 2018-01-20
+    - 42 members as of 2018-01-23
 
   * France
     - https://t.me/htmlcoinfr
-    - 173 members as of 2018-01-20
+    - 191 members as of 2018-01-23
 
   * Germany
     - https://t.me/htmlcoinde
-    - 67 members as of 2018-01-20
+    - 65 members as of 2018-01-23
 
   * Japan
     - https://t.me/HTMLcoin_Japan
-    - 514 members as of 2018-01-20
+    - 562 members as of 2018-01-23
     - https://t.me/HTMLcoinJapan
       - Announcements in Japanese
 
   * Korea
     - https://t.me/HTMLcoin_Korea
-    - 1549 members as of 2018-01-20
+    - 1596 members as of 2018-01-23
     - https://t.me/HTMLcoinKorea
       - HTML코인에 관한 정보들을 공유하는 곳입니다.
 
   * NL/BE
     - https://t.me/HTMLCOINDUTCH
-    - 464 members as of 2018-01-20
+    - 528 members as of 2018-01-23
 
   * Russia
     - https://t.me/htmlofficialrussia
-    - 98 members as of 2018-01-20
+    - 99 members as of 2018-01-23
 
   * Turkiye
     - https://t.me/HTMLcoin_Turkey
-    - 78 members as of 2018-01-20
+    - 78 members as of 2018-01-23
 
   * Vietnam
     - https://t.me/HTMLVIETNAM
-    - 94 members as of 2018-01-20
+    - 138 members as of 2018-01-23
 
   * if anything missing, please report to the main group.
 
