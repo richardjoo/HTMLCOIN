@@ -621,10 +621,13 @@
   - When I use this script on multiple sessions, it only uses 4 cores even if I have 32 cores.  Why?
     - As an external miner is slow coming a better internal miner is something that I can work on, when you can set it to keep mining and allow you to set the thread count. When I get the time I'll get on to this but I'm stretched very thinly at the moment, not taken any days off now for months. This is on my to-do list.
       - Peter Bushnell (2018-01-08)
+  - Korean community member created instruction in Korean!
+    - [다중채굴.pdf](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/pdf/%EB%8B%A4%EC%A4%91%EC%B1%84%EA%B5%B4.pdf)
+      - Click Right Button and select `Save Link As` to download.
 
 ### HTML coin mining with multiple sessions
   - One of our contributors worked on this multi-session linux CLI mining script!  Thanks!
-  - Please go to his github and follow his README.
+  - Please go to his github and follow his README.  He definitely made your life easier to do the mining! :D hahaha
     - https://github.com/cl04ker/HTMLCOIN-Scripts
 
 ### HTML coin mining with raspberry pi3
