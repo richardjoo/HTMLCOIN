@@ -1,6 +1,9 @@
 # HTMLCOIN Frequently Asked Questions
   * Anyone interested in forking my repo and work on it, please work on the dev or create a new branch after the fork and work on it. This page gets updated quite frequently and it can take longer time for me to review your pull request.  new branch should be `<your-github-username>_dev` For exmaple: richardjoo_dev.  Thanks!
   * If any pull request was made to the master, it might not be approved.
+  * Please make sure to update the fork before you update if you are planning on merging
+    - [How to update forked git from the original repo](https://richardjoo.wordpress.com/2012/12/03/how-to-update-forked-git-from-the-original-repo/)
+  * If you want to update continuously, please let me know, I can add you as a collaborator.
 
 ## Table of contents
   * [Important Message](#iimportant-message)
