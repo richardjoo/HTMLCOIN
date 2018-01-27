@@ -977,6 +977,9 @@
   * HTMLCOIN & HTML Blockchain: First Live Stream
     - https://www.youtube.com/watch?v=HMo77gPd1a0&t=35s
 
+  * HTML Coin News (Youtube)
+    - https://www.youtube.com/channel/UCkfOL_6jmmF__A-31CgrKNQ
+
 
 
 <br/><br/>
