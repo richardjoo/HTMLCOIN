@@ -343,6 +343,43 @@
   - Answered by SimonT
     > We will be starting the foundation goverence shortly. but you are quite right.... this could cause an issue but there are elements of our gas model which could be used to make certain activities more difficult.  it's something for us to monitor and understand.
 
+### Why don't we see much activities on HTMLCOIN github?
+  - This was answered by Simon on January 24th, 2018 at Korean community
+  - Answered by SimonT
+    > as a principle, we keep the repo clean
+    >
+    > once a month Peter drops his update into the live repo
+    >
+    > this is because there may be adjustmentss to the network, don;t forget there are parametesrs we can change
+    >
+    > but he will do an update every month
+    >
+    > the mobile wallets:
+    >
+    > are being build in a private repo at the moment by a team in portugal who have built many wallets.  As you are aware, we are taking the qtum spv wallets as our basic version and making changes/corrections
+    >
+    > Rumi (Choi): Simon, you mean one person(Peter) is exclusively reponsible for Github update?
+    >
+    > these are in alpha at the moment for android, and a couple of people are trying them as of today.  There is some push api's that still need to be finished ut these are being sorted now.... i'm and apple fanboi so i don;t get to play with the android 😞
+    >
+    > tomorrow Vu Do (the dev dealing with this partiocular bit of work) will be skinnging the IOS wallets with the new look/feel given to us by the marketing team
+    >
+    > my sense is that we will be in beta for android in 2-3 weeks and once we are happy that is stable pushing out to the stores in late feb/early march .....
+    >
+    > IOS will take a little longer as the testing needs an opened phone, and we need to submit it to apple for verification.... they really don;t like crypto, so we need to present it as a smart contracting tool
+    >
+    > yes, with htmlcoin. smart contracts and tokens .... like the QT wallet
+    >
+    > my adivce to everyone is always only keep a small portion of your crypto in your mobile.  ITs easy to lose, and the mobile OS is inherently unstable and can easily break your crypto !!!
+    >
+    > and POMA
+    >
+    > POMA, freelancer, medical devices, gaming etc etc etc are an external project, and not currently part of the foundation so they will not appear on the foundation GIT account.  When we finish those, the non-preparatory elements of those will go on GIT
+    >
+    > We arent hiding anything, but thimgs lke payment gateways are not ours to share on GIT.
+    >
+    > does this help everyone ??? and please don;t worry about GIT.... GIT is a snapshot of  the live service, not a working area.   Behind our live GIT repostories there are a number of provate/hiddne libraries where all the work happens.
+
 <br/><br/>
 
 
