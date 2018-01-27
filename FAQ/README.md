@@ -343,7 +343,7 @@
   - Answered by SimonT
     > We will be starting the foundation goverence shortly. but you are quite right.... this could cause an issue but there are elements of our gas model which could be used to make certain activities more difficult.  it's something for us to monitor and understand.
 
-### Why we don't see much activities on HTMLCOIN github?
+### Why don't we see much activities on HTMLCOIN github?
   - This was answered by Simon on January 24th, 2018 at Korean community
   - Answered by SimonT
     > as a principle, we keep the repo clean
@@ -377,8 +377,6 @@
     > POMA, freelancer, medical devices, gaming etc etc etc are an external project, and not currently part of the foundation so they will not appear on the foundation GIT account.  When we finish those, the non-preparatory elements of those will go on GIT
     >
     > We arent hiding anything, but thimgs lke payment gateways are not ours to share on GIT.
-    >
-    > To keep the main chat clean from speculation, an Unofficial community channel for trading/speculation: http://T.me/htmlspeculation
     >
     > does this help everyone ??? and please don;t worry about GIT.... GIT is a snapshot of  the live service, not a working area.   Behind our live GIT repostories there are a number of provate/hiddne libraries where all the work happens.
 
