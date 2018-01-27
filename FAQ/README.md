@@ -246,6 +246,102 @@
     >
     > There are a number of other subtle differences (EHRC) but these are all in the chain/network layer and do not impact the features.... maybe @bushstar will jump here and correct me, but unless you are an ultra geek this is a fair summary.  Speed and security.
 
+### @DadOnASkateboard Simon yesterday someone was saying o  reddit we are just a qtum copy. Can I get an official response to the differences, advantages and disadvantages so I can go out there and spread accurate facts?
+  - Answered by SimonT
+    > Good question, and we get this one all the time ….. and it frustrated me, but lets talk about it.
+    >
+    > By training I am an engineer, so lets paint a picture.
+    >
+    > A company has a great idea and product.  They use various flavours of that product to meet the needs of different markets.  Like the VW Golf, the Audi A3, Seat Leon and Soda Octavia.  These are all the same vehicle but designed for different markets and different consumers.  People always build on the best platform ….. even Elon Musk started with the Tesla Roadster, an undisguised Lotus Elise with electric motors.
+    >
+    > All markets are the same.  In the world of crypto our platform products are
+    > 1. Bitcoin - BTC
+    > 2. Cryptonote - BCN
+    > 3. NExtCoin - NXT
+    > 4. Ripple - XRP
+    > Everything has pretty much grown from these base network layers, and core frameworks.  See this excellent site for information http://mapofcoins.com/
+    >
+    > The reason crypto has grown and innovated so quickly, is that we all contribute our base code to the world of open source.  This means everything can be built on the last best thing…. And we have a huge library of building blocks (Github) to build from.
+    >
+    > None of the coins people think are unique, are unique.  Everything is pretty much based on something else with a few tweaks and changes.  To evolve a new technology takes a lot of money and years of development…. And you wouldn’t want to make that open source.
+    >
+    > Not using open source leaves you with products like SAP/Oracle which are proprietary and cannot meet the demands of an increasingly sophisticated consumer.
+    >
+    > if a project took the work of the bitcoincore programme (7 years of unceasing development by hundreds of devs) and added the ether client (4 years of unceasing work by he ethereum foundation), but through an ICO were first to market by spending time and money contributing dev scripts and integration layer for the two to the open source libraries, would that make it a unique product.  No it wouldn’t.  Would it make it an admirable and innovative thread of the story of bitcoin.  Sure as hell it would.  This is the QTUM programme and they’ve done a great job.
+    >
+    > So what happens next ?  Does all work on that thread of Bitcoin stop because QTUM made it open source ?  No.  Another project comes along, helps debug the product and begins to add its own flavours.  The project isn’t a multi-million dollar ICO, its a volunteer programme of blockchain evangelists, developers and a large community who want to make the product suitable for their needs.
+    >
+    > This is HTML.  Yes we forked bitcoincore 0.14, ether CPP and QTUM libraries.  Its all there on GITHUB.  And we added a number of our own features.  Many are subtle, but we want speed and security…… the primary changes are:
+    Consensus - we use POW and POS3.0 to mitigate against a 51% attack by either consensus approach.  Its simply more difficult.
+    Speed - we run POW and POS at 2 minute intervals, 60 seconds out of sync.  Our block time is 60 seconds and we are 50% quicker
+    Security - we use realtime checkpointing - this ensures our chain cannot be opened up by a replay attack.  Something that plagued POS coins in 2016/2017.  In fact Peter Bushnell re-wrote the open source realtime checkpointing libraries for bitcoincore 0.14, for HTML, so other coins can pick this up as they upgrade.
+    >
+    > Has anyone forked HTML yet.  Yes, I believe they have.  Good luck to them.  If they get stuck, they’ll ask questions….. oooh I can see on my git feed that they already have !… good.
+    >
+    > So to answer the question.
+    > Is HTMLCOIN a copy of QTUM.  No it isn’t.
+    > Are QTUM and HTML the same.  No they aren’t.
+    > Are QTUM and HTML related ?  Of course they are…
+    > Do we give credit to QTUM ?  Of course we do.  And Vitalik and Satoshi, and all the other devs.
+    >
+    > Its such a silly question.  Its like saying Red Bull is a rubbish F1 team because they use Renault engines, the same as the Renault F1 team.
+    >
+    > And this also brings me back to the point in the interview.  In Blockchain there is no competition. Theres only collaboration, its called open source and its on GitHub.  The HTML dev team help other projects, other projects help us.  End of.
+    >
+    > If anyone says things are just a copy, point them back to the map of coins site.  Theres a lot of cost and work to build a blockchain, even without changing the core design, and we all evolve things.  Anyone who says this quite simply doesn’t understand the technology, has never worked in a project and is certainly not a developer of any note.  Coin envy is not a nice thing and does not represent the philosophy or ethos of open source public blockchain.  Its simple ignorance.
+    >
+    > Rant over.
+
+### Somone was disappointed with the news
+  - Answered by SimonT
+    > So, have you read the titanium white paper yet ?  Have you seen how they are looking to disrupt infrastructure services..... they are based on the experience of an existing company with a significant customer base, tackling one of the real world challenges in decentralising the management of virtualised infrastructure.
+    >
+    > Its ambitious, but this is not a group of rookies.  I worked in the same company as Michael back in the 1990's when he established much of the infrastructure I used in EDS datacentres....... you may view him as a celeb, the reality is he has more operational IT experience than most in our business and with his existing and succesful company (EHI) can deliver the things they discuss.  They know their industry. End of.
+    >
+    > So, before you judge this, take a look at the Titanium whitepaper and consider how HTML and its team of developers (may of which like myself have been doing this since the 1980's), can work with Titanium to make this happen.  This is the large, complex and transformative technology we want to work on.  Just like POMA.
+
+### Hey Simon, same question as Michael, since he didn't answer it.  "Did you and Simon discussed any real goals for the partnership?  i understand you may not able to go into specifics but if you can outline the general areas you'd be working on that would at least be something for us to chew on.  Thanks."
+  - Answered by SimonT
+    > Missed the question, just woke up.....
+    >
+    > If anyone has read and considered the white paper I think you can establish you own view.
+    >
+    > This is mine, and I’m sure @MichaelStollaire will correct me if I’m wrong.
+    >
+    > At the moment there are lots of really great infrastructure services capabilities across both traditional cloud and decentralised services.
+    >
+    > My view is that titaniums yep is bringing the decentralised services and technologies  together from a number of platforms to offer a real alternative to the current ‘enterprise’ strength cloud/virtualisation world.
+    >
+    > My aha moment came when I read the paper back to front with page 30 and the possible partners.
+    >
+    > This is complex, will be a suite of services and take time to achieve .... but As michaels company (EHI) are well known consultants in the virtualisation world he knows where it works, where it doesn’t and where to start.
+    >
+    > Although his team have masses of experience, the job needs influence and support from across the industry to make it happen and as we have an ethereum compatible (but less bloated, faster and with a large network in place) we have discussed how we can use they html blockchain as a part of the jigsaw.  Don’t forget we can run all the evm’s dapps and smart contracts which drive services like sia, storj, golem etc. And we also have an experienced and professional team of ‘robust’ developers.
+    >
+    > So to date, we have had several conversations at the leadership and technology team levels as to how much they can use our blockchain for part of the jigsaw and how much tech support we can offer to help design and construct.
+    >
+    > Once Michael and the team assemble enough parts of the jigsaw and lay out their detailed build plans, we will bend over backwards to help them out..... but this is something that takes time.
+    >
+    > In my enterprise compute brain, titanium is a decentralised orchestration layer for a decentralised computing platform.  Read page 30 of their white paper and you realise how, at it’s core, it’s such a simple but powerful idea..... like all the best ones are.
+    >
+    > I am very happy to be corrected in these assertions of what titanium intends to achieve by @michaelstollaire, but you can be sure the html team want to play in this is we can achieve more decentralisation, efficiency and mass adoption through this project.
+    >
+    > Secondly, from a personal level let’s not underestimate michaels impact as an ambassador for html and his support in us getting the footprint growth across exchanges and other services.  He’s been here before and his help is welcome.
+
+### I watched the video with Michael. He is an awesome personality. I'm glad we are in his alliance. However can anyone answer the question on how technically they would be able to use html?
+  - Answered by SimonT
+    > 1. HTML runs the ether client, but faster and more securely than ether
+    > 2. The HTMLCOIN bockchain can run decentralised apps (daps), smart contracts and tokens like ether
+    > 3. TBIS can build their daps and smart contracts on to the HTMLCOIN blockchain
+    > 4. HTMLCOIN will be required to buy gas to drive the smart contracts and daps for TBIS
+
+### Yes thank you Simon. It just seems to me that Michael is looking for something for html to develop that it doesn't have yet and then it will work in his system, do you know what he is referring to?
+  - Answered by SimonT
+    > Not quite, we already have what he needs.... there may be some small changes but what we do have is a clean, simple, fast and secure blockchain which saves him having to build his own or squeeze onto ethereum...... this is all up for negoation and discussion.  Its a great technology looking for good business.
+
+### Is HTMLCOIN blockchain can guarantee incident like CryptoKittens won't happen?  When the traffic increases and many tokens starting to use this blockchain, what will happen?
+  - Answered by SimonT
+    > We will be starting the foundation goverence shortly. but you are quite right.... this could cause an issue but there are elements of our gas model which could be used to make certain activities more difficult.  it's something for us to monitor and understand.
 
 <br/><br/>
 
@@ -284,6 +380,8 @@
       - Just wait swap process
         - This process has a human labor.
         - It can take up to 72 hours after you send HTML5 to the swap address to process your swap transaction. If it has been more than 72 hours, please contact us via email at dev@htmlcoin.team
+  * Yobit Swap youtube guide
+    - https://www.youtube.com/watch?v=Q7f2ykh1okQ&feature=youtu.be
 
 ### I moved my html5 from yobit into my HTML wallet... I did this twice using the same payment address not knowing I needed to generate a new payment address... will this still go through?
   - Answered by @QuidProCrypto
