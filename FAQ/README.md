@@ -33,6 +33,13 @@
 <br/><br/>
 
 ## IMPORTANT MESSAGE
+### Wallet v.2.0.1.0 will be released and is mandatory!
+  - Peter Bushnell tweeted that this is going to be the mandatory update
+  - Q: what happens if we don't upgrade wallet, ie. staying at 2.0.0.4 or earlier ?  Need to know to tell #HTML clan the bad things that could happen.
+    - A: Your chain will stop downloading the blockchain, Automatic Checkpointing will tell your client to follow the updated chain, but the old client will be unable to do so due to a change in the difficult rules. If that happens just upgrade and all will be well.
+  - Q: I appreciate you utilizing all the different features in QT. You're the only one I've seen use error messages & bitmessage. :) Is this the diff adjust?
+    - A: It is the accumulative work that's gone into the chain, if the client finds that the current tip has less work than nMinimumChainWork it considers itself to still be in the initial block download. It is to speed up initial sync until chain work is greater than the min.
+
 ### Wallet v.2.0.0.4 has been released!
   - It is not mandatory, but strongly recommended!
   - https://github.com/HTMLCOIN/HTMLCOIN/releases
