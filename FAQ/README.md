@@ -873,18 +873,33 @@
     > Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
 
 ### Where can I buy HTML coins?
-  - [Bleutrade](https://bleutrade.com)
-  - [Trade Satoshi](https://tradesatoshi.com/)
-  - [CryptoBridge](https://crypto-bridge.org)
-    - [wallet](https://wallet.crypto-bridge.org)
-    - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
-  - [Openledger DEX](https://openledger.io/welcome)
-    - [HTML_USD](https://openledger.io/market/HTML_USD)
-    - [HTML_BTC](https://openledger.io/market/HTML_OPEN.BTC)
-    - [HTML_CNY](https://openledger.io/market/HTML_CNY)
-    - [HTML_BTS](https://openledger.io/market/HTML_BTS)
-    - [HTML_OBITS](https://openledger.io/market/HTML_OBITS)
-  - [FXCBit](https://fxcbit.com/)
+  * Current Exchanges
+    - [Bleutrade](https://bleutrade.com)
+    - [Trade Satoshi](https://tradesatoshi.com/)
+    - [CryptoBridge](https://crypto-bridge.org)
+      - [wallet](https://wallet.crypto-bridge.org)
+      - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
+    - [FXCBit](https://fxcbit.com/)
+    - You can always check CCMC too!
+      - [CCMC HTMLCOIN Markets](https://coinmarketcap.com/currencies/html-coin/#markets)
+
+  * Announced and Coming Soon!
+    - [Openledger DEX](https://openledger.io/welcome)
+      - [HTML_USD](https://openledger.io/market/HTML_USD)
+      - [HTML_BTC](https://openledger.io/market/HTML_OPEN.BTC)
+      - [HTML_CNY](https://openledger.io/market/HTML_CNY)
+      - [HTML_BTS](https://openledger.io/market/HTML_BTS)
+      - [HTML_OBITS](https://openledger.io/market/HTML_OBITS)
+    - [Next.Exchange](https://next.exchange/)
+    - [C-Patex](https://c-patex.com/)
+
+  * Unannounced but confirmed
+    - 2 Decentralized Exchanges
+
+  * Waiting for voting results
+    - [KuCoin](https://www.kucoin.com/#/)
+    - [Cobinhood](https://cobinhood.com/home)
+    - [fatBTC](https://www.fatbtc.com/)
 
 
 
