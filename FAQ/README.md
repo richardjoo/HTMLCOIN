@@ -880,6 +880,8 @@
       - [wallet](https://wallet.crypto-bridge.org)
       - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
     - [FXCBit](https://fxcbit.com/)
+    - You can always check CCMC too!
+      - [CCMC HTMLCOIN Markets](https://coinmarketcap.com/currencies/html-coin/#markets)
 
   * Announced and Coming Soon!
     - [Openledger DEX](https://openledger.io/welcome)
