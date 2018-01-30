@@ -884,7 +884,7 @@
     - [HTML_CNY](https://openledger.io/market/HTML_CNY)
     - [HTML_BTS](https://openledger.io/market/HTML_BTS)
     - [HTML_OBITS](https://openledger.io/market/HTML_OBITS)
-  - [FACBit](https://fxcbit.com/)
+  - [FXCBit](https://fxcbit.com/)
 
 
 
