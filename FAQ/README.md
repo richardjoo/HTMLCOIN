@@ -874,6 +874,7 @@
 
 ### Where can I buy HTML coins?
   * Current Exchanges
+    - If you find any missing pairs, please let me know.
     - [Bleutrade](https://bleutrade.com)
       - [HTML/BTC](https://bleutrade.com/exchange/HTML/BTC)
       - [HTML/DOGE](https://bleutrade.com/exchange/HTML/DOGE)
