@@ -877,6 +877,7 @@
     - [Bleutrade](https://bleutrade.com)
       - [HTML/BTC](https://bleutrade.com/exchange/HTML/BTC)
       - [HTML/DOGE](https://bleutrade.com/exchange/HTML/DOGE)
+      - [HTML/ETH](https://bleutrade.com/exchange/HTML/ETH)
     - [Trade Satoshi](https://tradesatoshi.com/)
       - [HTML/BTC](https://tradesatoshi.com/Exchange?market=HTML_BTC)
       - [HTML/DOGE](https://tradesatoshi.com/Exchange?market=HTML_DOGE)
