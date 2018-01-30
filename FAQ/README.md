@@ -875,21 +875,33 @@
 ### Where can I buy HTML coins?
   * Current Exchanges
     - [Bleutrade](https://bleutrade.com)
+      - [HTML/BTC](https://bleutrade.com/exchange/HTML/BTC)
+      - [HTML/DOGE](https://bleutrade.com/exchange/HTML/DOGE)
     - [Trade Satoshi](https://tradesatoshi.com/)
+      - [HTML/BTC](https://tradesatoshi.com/Exchange?market=HTML_BTC)
+      - [HTML/DOGE](https://tradesatoshi.com/Exchange?market=HTML_DOGE)
+      - [HTML/LTC](https://tradesatoshi.com/Exchange?market=HTML_LTC)
+      - [HTML/BCH](https://tradesatoshi.com/Exchange?market=HTML_BCH)
+      - [HTML/USDT](https://tradesatoshi.com/Exchange?market=HTML_USDT)
     - [CryptoBridge](https://crypto-bridge.org)
       - [wallet](https://wallet.crypto-bridge.org)
       - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
+      - [HTML/BTC](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
+      - [HTML/MONA](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.MONA)
+      - [HTML/ZNY](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.ZNY)
+      - [HTML/LTC](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.LTC)
+      - [HTML/BCH](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BCH)
     - [FXCBit](https://fxcbit.com/)
     - You can always check CCMC too!
       - [CCMC HTMLCOIN Markets](https://coinmarketcap.com/currencies/html-coin/#markets)
 
   * Announced and Coming Soon!
     - [Openledger DEX](https://openledger.io/welcome)
-      - [HTML_USD](https://openledger.io/market/HTML_USD)
-      - [HTML_BTC](https://openledger.io/market/HTML_OPEN.BTC)
-      - [HTML_CNY](https://openledger.io/market/HTML_CNY)
-      - [HTML_BTS](https://openledger.io/market/HTML_BTS)
-      - [HTML_OBITS](https://openledger.io/market/HTML_OBITS)
+      - [HTML/USD](https://openledger.io/market/HTML_USD)
+      - [HTML/BTC](https://openledger.io/market/HTML_OPEN.BTC)
+      - [HTML/CNY](https://openledger.io/market/HTML_CNY)
+      - [HTML/BTS](https://openledger.io/market/HTML_BTS)
+      - [HTML/OBITS](https://openledger.io/market/HTML_OBITS)
     - [Next.Exchange](https://next.exchange/)
     - [C-Patex](https://c-patex.com/)
 
