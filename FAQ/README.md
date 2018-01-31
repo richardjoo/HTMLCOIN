@@ -33,6 +33,11 @@
 <br/><br/>
 
 ## IMPORTANT MESSAGE
+### Wallet v.2.0.1.0 has been released!
+  - It IS a mandatory update!!!! You MUST update!
+  - https://github.com/HTMLCOIN/HTMLCOIN/releases
+    - Hard fork on block 106,000, approximately Friday 13:00 GMT, this is to stabilise the eHRC difficulty adjust.
+
 ### Wallet v.2.0.0.4 has been released!
   - It is not mandatory, but strongly recommended!
   - https://github.com/HTMLCOIN/HTMLCOIN/releases
@@ -438,6 +443,32 @@
 
 
 ## WALLET
+### How do I update to 2.0.1.0?
+  - If you fnd any issues or error, please ask community.
+  - **Make sure to backup your wallet.dat to the multiple locations first!**
+  - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+  - Windows:
+    - download v.2.0.1.0
+    - install on top of existing software.
+  - Mac:
+    - download the v.2.0.1.0 dmg file
+    - double click the .dmg file or click the dmg file from the browser download is completed
+    - when the new Finder opens up with HTMLCOIN app, drag new wallet to Application folder
+    - when prompted to replace, click `replace`
+    - Open up the Finder, go to Applications
+    - Right click on HTMLCOIN app
+    - You will see the warning "HTMLCOIN is from an unidentified developer. Are you sure you want to open it?"
+    - Click "OPEN"
+    - Wait until sync.
+    - You are good to go!
+  - Linux: (untested and confirmed from other members)
+    - cd to HTMLCOIN folder
+    - git pull
+    - follow the README instruction again to make file.
+      - `./autogen.sh`
+      - `./configure`
+      - `make -j2`
+
 ### How do I update to 2.0.0.4?
   - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
   - **Make sure to backup your wallet.dat to the multiple locations first!**
