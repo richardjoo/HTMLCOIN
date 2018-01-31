@@ -476,6 +476,36 @@
       - `./autogen.sh`
       - `./configure`
       - `make -j2`
+    - I updated mine and worked just fine
+
+      ```
+        rjoo@htmlcoin-miner:~/HTMLCOIN$ src/htmlcoin-cli getinfo
+        {
+          "version": 2000100,
+          "protocolversion": 70002,
+          "walletversion": 130000,
+          "balance": 0.00000000,
+          "stake": 0.00000000,
+          "blocks": 103259,
+          "timeoffset": 0,
+          "connections": 1,
+          "proxy": "",
+          "difficulty": {
+            "proof-of-work": 51.72773577691995,
+            "proof-of-stake": 4909914730.290439
+          },
+          "testnet": false,
+          "moneysupply": 79928076250,
+          "keypoololdest": 1512111373,
+          "keypoolsize": 100,
+          "paytxfee": 0.00000000,
+          "relayfee": 0.00400000,
+          "errors": ""
+        }
+        rjoo@htmlcoin-miner:~/HTMLCOIN$
+      ```
+
+
 
 ### How do I update to 2.0.0.4?
   - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
