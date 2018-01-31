@@ -33,6 +33,19 @@
 <br/><br/>
 
 ## IMPORTANT MESSAGE
+### Wallet v.2.0.1.0 has been released!
+  - It IS a mandatory update!!!! You MUST update!
+  - https://github.com/HTMLCOIN/HTMLCOIN/releases
+    - Hard fork on block 106,000, approximately Friday 13:00 GMT, this is to stabilise the eHRC difficulty adjust.
+  - Go to [How to update to v.2.0.1.0?](#how-do-i-update-to-2010) and follow the instruction!
+
+### Wallet v.2.0.1.0 will be released and is mandatory!
+  - Peter Bushnell tweeted that this is going to be the mandatory update
+  - Q: what happens if we don't upgrade wallet, ie. staying at 2.0.0.4 or earlier ?  Need to know to tell #HTML clan the bad things that could happen.
+    - A: Your chain will stop downloading the blockchain, Automatic Checkpointing will tell your client to follow the updated chain, but the old client will be unable to do so due to a change in the difficult rules. If that happens just upgrade and all will be well.
+  - Q: I appreciate you utilizing all the different features in QT. You're the only one I've seen use error messages & bitmessage. :) Is this the diff adjust?
+    - A: It is the accumulative work that's gone into the chain, if the client finds that the current tip has less work than nMinimumChainWork it considers itself to still be in the initial block download. It is to speed up initial sync until chain work is greater than the min.
+
 ### Wallet v.2.0.0.4 has been released!
   - It is not mandatory, but strongly recommended!
   - https://github.com/HTMLCOIN/HTMLCOIN/releases
@@ -438,6 +451,32 @@
 
 
 ## WALLET
+### How do I update to 2.0.1.0?
+  - If you fnd any issues or error, please ask community.
+  - **Make sure to backup your wallet.dat to the multiple locations first!**
+  - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
+  - Windows:
+    - download v.2.0.1.0
+    - install on top of existing software.
+  - Mac:
+    - download the v.2.0.1.0 dmg file
+    - double click the .dmg file or click the dmg file from the browser download is completed
+    - when the new Finder opens up with HTMLCOIN app, drag new wallet to Application folder
+    - when prompted to replace, click `replace`
+    - Open up the Finder, go to Applications
+    - Right click on HTMLCOIN app
+    - You will see the warning "HTMLCOIN is from an unidentified developer. Are you sure you want to open it?"
+    - Click "OPEN"
+    - Wait until sync.
+    - You are good to go!
+  - Linux: (untested and confirmed from other members)
+    - cd to HTMLCOIN folder
+    - git pull
+    - follow the README instruction again to make file.
+      - `./autogen.sh`
+      - `./configure`
+      - `make -j2`
+
 ### How do I update to 2.0.0.4?
   - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
   - **Make sure to backup your wallet.dat to the multiple locations first!**
@@ -873,17 +912,47 @@
     > Finally, this is not unusual.  I have applied to exchnages for much larger projects and brand names and been similarly ignored
 
 ### Where can I buy HTML coins?
-  - [Bleutrade](https://bleutrade.com)
-  - [Trade Satoshi](https://tradesatoshi.com/)
-  - [CryptoBridge](https://crypto-bridge.org)
-    - [wallet](https://wallet.crypto-bridge.org)
-    - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
-  - [Openledger DEX](https://openledger.io/welcome)
-    - [HTML_USD](https://openledger.io/market/HTML_USD)
-    - [HTML_BTC](https://openledger.io/market/HTML_OPEN.BTC)
-    - [HTML_CNY](https://openledger.io/market/HTML_CNY)
-    - [HTML_BTS](https://openledger.io/market/HTML_BTS)
-    - [HTML_OBITS](https://openledger.io/market/HTML_OBITS)
+  * Current Exchanges
+    - If you find any missing pairs, please let me know.
+    - [Bleutrade](https://bleutrade.com)
+      - [HTML/BTC](https://bleutrade.com/exchange/HTML/BTC)
+      - [HTML/DOGE](https://bleutrade.com/exchange/HTML/DOGE)
+      - [HTML/ETH](https://bleutrade.com/exchange/HTML/ETH)
+    - [Trade Satoshi](https://tradesatoshi.com/)
+      - [HTML/BTC](https://tradesatoshi.com/Exchange?market=HTML_BTC)
+      - [HTML/DOGE](https://tradesatoshi.com/Exchange?market=HTML_DOGE)
+      - [HTML/LTC](https://tradesatoshi.com/Exchange?market=HTML_LTC)
+      - [HTML/BCH](https://tradesatoshi.com/Exchange?market=HTML_BCH)
+      - [HTML/USDT](https://tradesatoshi.com/Exchange?market=HTML_USDT)
+    - [CryptoBridge](https://crypto-bridge.org)
+      - [wallet](https://wallet.crypto-bridge.org)
+      - [HTML market](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
+      - [HTML/BTC](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BTC)
+      - [HTML/MONA](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.MONA)
+      - [HTML/ZNY](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.ZNY)
+      - [HTML/LTC](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.LTC)
+      - [HTML/BCH](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BCH)
+    - [FXCBit](https://fxcbit.com/)
+    - You can always check CCMC too!
+      - [CCMC HTMLCOIN Markets](https://coinmarketcap.com/currencies/html-coin/#markets)
+
+  * Announced and Coming Soon!
+    - [Openledger DEX](https://openledger.io/welcome)
+      - [HTML/USD](https://openledger.io/market/HTML_USD)
+      - [HTML/BTC](https://openledger.io/market/HTML_OPEN.BTC)
+      - [HTML/CNY](https://openledger.io/market/HTML_CNY)
+      - [HTML/BTS](https://openledger.io/market/HTML_BTS)
+      - [HTML/OBITS](https://openledger.io/market/HTML_OBITS)
+    - [Next.Exchange](https://next.exchange/)
+    - [C-Patex](https://c-patex.com/)
+
+  * Unannounced but confirmed
+    - 2 Decentralized Exchanges
+
+  * Waiting for voting results
+    - [KuCoin](https://www.kucoin.com/#/)
+    - [Cobinhood](https://cobinhood.com/home)
+    - [fatBTC](https://www.fatbtc.com/)
 
 
 
