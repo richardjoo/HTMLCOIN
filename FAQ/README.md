@@ -37,6 +37,7 @@
   - It IS a mandatory update!!!! You MUST update!
   - https://github.com/HTMLCOIN/HTMLCOIN/releases
     - Hard fork on block 106,000, approximately Friday 13:00 GMT, this is to stabilise the eHRC difficulty adjust.
+  - Go to [How to update to v.2.0.1.0?](#how-to-update-to-2010) and follow the instruction!
 
 ### Wallet v.2.0.1.0 will be released and is mandatory!
   - Peter Bushnell tweeted that this is going to be the mandatory update
