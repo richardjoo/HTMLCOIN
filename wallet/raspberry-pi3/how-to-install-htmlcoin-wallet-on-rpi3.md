@@ -17,19 +17,10 @@
       echo 'vm.vfs_cache_pressure=50' | tee -a /etc/sysctl.conf
     ```
 
-  - download the wallet
-    - you can download the wallet by going to the website or download directly from the terminal.  I am going to use the terminal download.
-      - this is for the wallet v.2.0.0.2 tar.gz file
-        - `wget https://github.com/HTMLCOIN/HTMLCOIN/archive/v2.0.0.2.tar.gz`
-  - once download is completed, uncompress
-    - `tar -xvzf v2.0.0.2.tar.gz`
-    - this will create a folder `HTMLCOIN-2.0.0.2`
-    - so, we go into the `HTMLCOIN-2.0.0.2`
-      - `cd HTMLCOIN-2.0.0.2`
-      - there is a `README.md` file.  We will follow the instruction from the README.
-        - `sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils git cmake libboost-all-dev`
-          - don't get panicked. this process takes time.
-          - make sure to pay attention and see if there is/are any error(s) or not.
+  - installing the wallet
+    - `sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils git cmake libboost-all-dev`
+      - don't panic. this process takes time.
+      - make sure to pay attention and see if there is/are any error(s) or not.
         - `sudo apt-get install software-properties-common`
         - `sudo apt autoremove`
           - I added this one in since it asked me to do during the installation.
