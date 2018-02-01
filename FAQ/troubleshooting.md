@@ -4,7 +4,7 @@
 <br/><br/>
 
 ## Table of contents
-* [Back to FAQ](https://github.com/richardjoo/HTMLCOIN/tree/dev/FAQ#htmlcoin-frequently-asked-questions)
+* [Back to FAQ](https://github.com/richardjoo/HTMLCOIN/tree/master/FAQ#htmlcoin-frequently-asked-questions)
 * [Installation](#iinstallation)
 * [Connection Issue](#connection-issue)
 * [Getting an error message!](#error)

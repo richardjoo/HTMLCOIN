@@ -1,5 +1,5 @@
 # Important Message Archive
-* [Back to FAQ](https://github.com/richardjoo/HTMLCOIN/tree/dev/FAQ#htmlcoin-frequently-asked-questions)
+* [Back to FAQ](https://github.com/richardjoo/HTMLCOIN/tree/master/FAQ#htmlcoin-frequently-asked-questions)
 
 ## IMPORTANT MESSAGE
 ### Wallet v.2.0.0.4 has been released!

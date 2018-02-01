@@ -7,7 +7,7 @@
 
 ## Table of contents
   * [Important Message](#iimportant-message)
-  * [Troubleshooting (new one I am workng on)](https://github.com/richardjoo/HTMLCOIN/blob/dev/FAQ/troubleshooting.md#troubleshooting)
+  * [Troubleshooting (new one I am workng on)](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/troubleshooting.md#troubleshooting)
   * [POMA](#proof-of-mass-adoption)
   * [Which is the new coin?](#which-is-the-new-coin)
   * [What is htmlcoin?](#what-is-htmlcoin)
@@ -30,7 +30,7 @@
   * [Telegram groups](#telegram-groups)
   * [Telegram admin members](#telegram-admin)
   * [Contributors](#contributors)
-  * [Important Message Archive](#iimportant-message)
+  * [Important Message Archive](https://github.com/richardjoo/HTMLCOIN/blob/master/FAQ/important-message.md)
 
 <br/><br/>
 
