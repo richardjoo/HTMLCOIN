@@ -7,6 +7,7 @@
 
 ## Table of contents
   * [Important Message](#iimportant-message)
+  * [troubleshooting]()
   * [POMA](#proof-of-mass-adoption)
   * [Which is the new coin?](#which-is-the-new-coin)
   * [What is htmlcoin?](#what-is-htmlcoin)
