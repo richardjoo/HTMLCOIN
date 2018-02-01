@@ -32,6 +32,8 @@
     - `sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler`
     - `git clone https://github.com/HTMLCOIN/HTMLCOIN --recursive`
     - `cd HTMLCOIN`
+    - I forgot to do this part.  Please open up the README.md from the HTMLCOIN and follow the qt GUI section, and then follow the steps below. I will try to update this section soon.  Sorry about this.
+
 
   * Note autogen will prompt to install some more dependencies if needed
     - `sudo add-apt-repository ppa:bitcoin/bitcoin`
