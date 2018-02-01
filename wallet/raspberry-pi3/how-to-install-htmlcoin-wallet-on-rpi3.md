@@ -47,6 +47,7 @@
     - `./autogen.sh`
     - `./configure --without-miniupnpc`
     - `make`
+      - this `make` can take very long time. and at some point, you feel like the rpi beomes unresponsive.  Please give a plenty of time until it is all done.  You may even lose the ssh connection.  That is okay.  Just wait at least for up to 2 to 3 hours before you decide to restart the rpi3.
 
   * Run
     - `src/htmlcoind --daemon`
