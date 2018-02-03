@@ -20,7 +20,7 @@ cd HTMLCOIN
 
 make -j2
 
-./src/htmlcoind -rpcthreads=8 --daemon
+./src/htmlcoind --daemon
 
 ./src/htmlcoin-cli addnode "73.7.238.46:4888" "add" 
 ./src/htmlcoin-cli addnode "173.170.4.174:4888" "add"
