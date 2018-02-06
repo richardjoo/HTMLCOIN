@@ -1081,15 +1081,15 @@
 ## TELEGRAM GROUPS
   * Main
     - https://t.me/htmlcoinofficial
-    - 9032 members as of 2018-01-27
+    - 10074 members as of 2018-02-06
 
   * Non-official news
     - https://t.me/htmlcoinnews
-    - 653 members as of 2018-01-27
+    - 749 members as of 2018-02-06
 
   * Non-official HTMLCOIN Mining
     - https://t.me/HTMLmining
-    - 650 members as of 2018-01-27
+    - 732 members as of 2018-02-06
     - @AleZanello created a bot for the mining community!
       - `/diff` - Get current Difficulty
       - `/hash` - Get current Hashrate
@@ -1099,51 +1099,50 @@
       - `/mining` - Get Full Mining Current Info (Dont use it in Group)
       - `/staking` - Get Full Staking Current Info (Dont use it in Group)
       - More Commands coming!!!
-      - Tips: HsmBsnRqr15uAxWtNETVm1BtV4nsTRn1cs
 
   * Brazil
     - https://t.me/htmlcoinbrasil
-    - 684 members as of 2018-01-27
+    - 705 members as of 2018-02-06
 
   * China
     - https://t.me/HTMLcoin_China
-    - 44 members as of 2018-01-27
+    - 45 members as of 2018-02-06
 
   * France
     - https://t.me/htmlcoinfr
-    - 199 members as of 2018-01-27
+    - 215 members as of 2018-02-06
 
   * Germany
     - https://t.me/htmlcoinde
-    - 74 members as of 2018-01-27
+    - 91 members as of 2018-02-06
 
   * Japan
     - https://t.me/HTMLcoin_Japan
-    - 566 members as of 2018-01-27
+    - 604 members as of 2018-02-06
     - https://t.me/HTMLcoinJapan
       - Announcements in Japanese
 
   * Korea
     - https://t.me/HTMLcoin_Korea
-    - 1635 members as of 2018-01-27
+    - 1722 members as of 2018-02-06
     - https://t.me/HTMLcoinKorea
       - HTML코인에 관한 정보들을 공유하는 곳입니다.
 
   * NL/BE
     - https://t.me/HTMLCOINDUTCH
-    - 546 members as of 2018-01-27
+    - 630 members as of 2018-02-06
 
   * Russia
     - https://t.me/htmlofficialrussia
-    - 103 members as of 2018-01-27
+    - 117 members as of 2018-02-06
 
   * Turkiye
     - https://t.me/HTMLcoin_Turkey
-    - 107 members as of 2018-01-27
+    - 116 members as of 2018-02-06
 
   * Vietnam
     - https://t.me/HTMLVIETNAM
-    - 181 members as of 2018-01-27
+    - 201 members as of 2018-02-06
 
   * if anything missing, please report to the main group.
 
