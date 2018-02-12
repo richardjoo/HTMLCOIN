@@ -953,6 +953,11 @@
       - [HTML/LTC](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.LTC)
       - [HTML/BCH](https://wallet.crypto-bridge.org/market/BRIDGE.HTML_BRIDGE.BCH)
     - [FXCBit](https://fxcbit.com/)
+    - [C_PATEX](https://c-patex.com/)
+    - [FatBTC](https://www.fatbtc.com/)
+      - [HTML/BTC](https://www.fatbtc.com/)
+      - [HTML/ETH](https://www.fatbtc.com/)
+
     - You can always check CCMC too!
       - [CCMC HTMLCOIN Markets](https://coinmarketcap.com/currencies/html-coin/#markets)
 
