@@ -35,6 +35,14 @@
 <br/><br/>
 
 ## IMPORTANT MESSAGE
+### Yobit 1:1 ends today 2018-02-12!
+   PERIOD   | RATIO | DATE
+  ----------|-------|------------
+   1 - 60   | 1:1   | 2018-02-12
+   61 - 90  | 1:2   | 2018-03-12
+   91 - 105 | 1:3   | 2018-03-27
+   106      |       | End of Swap
+
 ### Wallet v.2.0.1.0 has been released!
   - It IS a mandatory update!!!! You MUST update!
   - https://github.com/HTMLCOIN/HTMLCOIN/releases
