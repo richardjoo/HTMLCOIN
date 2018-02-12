@@ -1231,3 +1231,8 @@
   * @nyangduck
     - Telegram user
     - Wrote multiple session mining instruction for Linux in Korean! thanks!!!
+
+  * Jungmin.Sung
+    - https://github.com/sungjungmin
+    - He wrote the Script for installing HTMLCoin Wallet in Ubuntu environment. thanks!!!
+      - https://github.com/richardjoo/HTMLCOIN/tree/dev/mining/Unix
