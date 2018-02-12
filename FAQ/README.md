@@ -961,25 +961,6 @@
     - You can always check CCMC too!
       - [CCMC HTMLCOIN Markets](https://coinmarketcap.com/currencies/html-coin/#markets)
 
-  * Announced and Coming Soon!
-    - [Openledger DEX](https://openledger.io/welcome)
-      - [HTML/USD](https://openledger.io/market/HTML_USD)
-      - [HTML/BTC](https://openledger.io/market/HTML_OPEN.BTC)
-      - [HTML/CNY](https://openledger.io/market/HTML_CNY)
-      - [HTML/BTS](https://openledger.io/market/HTML_BTS)
-      - [HTML/OBITS](https://openledger.io/market/HTML_OBITS)
-    - [Next.Exchange](https://next.exchange/)
-    - [C-Patex](https://c-patex.com/)
-
-  * Unannounced but confirmed
-    - 2 Decentralized Exchanges
-
-  * Waiting for voting results
-    - [KuCoin](https://www.kucoin.com/#/)
-    - [Cobinhood](https://cobinhood.com/home)
-    - [fatBTC](https://www.fatbtc.com/)
-
-
 
 <br/><br/>
 
