@@ -16,7 +16,7 @@
   * [Roadmap](#roadmap)
   * [Wallet](#wallet)
   * [Paper Wallet](#paper-wallet)
-  * [PoS](#pos)
+  * [Proof-Of-Staking (PoS)](#proof-of-staking-pos-)
   * [Mining](#mining)
   * [Total supply](#total-supply)
   * [Lightning](#lightning)
@@ -684,7 +684,7 @@
 <br/><br/>
 
 
-## POS
+## Proof-Of-Staking (POS)
 ### What is PoS and How does it work?
   - HTMLCOIN uses PoS3.0
   - POS generates 1 block every 120 seconds, whilst POW generates 1 block every 120 seconds.  The two processes run 60 seconds out of sequence so we effectively have a 60 second block time witheach process throttled back to 1% pa each.
