@@ -35,7 +35,7 @@
 <br/><br/>
 
 ## IMPORTANT MESSAGE
-### Yobit 1:1 swap ends today 2018-02-12!
+### Yobit 1:1 swap has ended as of 2018-02-12!
    PERIOD   | RATIO | DATE
   ----------|-------|------------
    1 - 60   | 1:1   | 2018-02-12
