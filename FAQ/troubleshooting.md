@@ -66,7 +66,7 @@
 <br/><br/>
 
 ## Zero Balance
-### After the wallet update, my balance shows up 0!
+### After the wallet update, my balance shows up 0! (Or got stuck synching!)
 #### SOLUTION 1: Reindex
   * Click the Windows Start menu and type cmd into the search box. That should open a command prompt. In the command prompt, type the following:
     - `cd "\Program Files (x86)\HTMLCOIN2"`
