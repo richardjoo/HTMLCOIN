@@ -23,10 +23,16 @@
 ## Connection Issue
 ### I have 0 connection
 #### SOLUTION 1: reindex
-  - I need more info on this one.
+  * Click the Windows Start menu and type cmd into the search box. That should open a command prompt. In the command prompt, type the following:
+    - `cd "\Program Files (x86)\HTMLCOIN2"`
+    - `htmlcoin-qt.exe -reindex`
 
-#### SOLUTION 2: Check your firewall and allow the connection
-#### SOLUTION 3: Wait at least 5 to 10 minutes to see if the wallet establishes the connection or not
+#### SOLUTION 2: Check your firewall
+  - If you have a firewall running, you need to allow the connection
+
+#### SOLUTION 3: Wait
+  - sometimes it takes time to establish PEERs and sync the wallet. By waiting 5 to 10 minutes can solve this issue
+
 #### SOLUTION 4: Add nodes
   - addnode 165.227.147.196 add
     - make sure to copy the enitre line.  so, you are copying "addnode 165.227.147.196 add" and paste onto the console and hit ENTER
