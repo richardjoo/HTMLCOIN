@@ -432,15 +432,15 @@
 
 
 ## WALLET
-### How do I update to 2.0.1.0?
+### How do I update to 2.0.2.1?
   - If you fnd any issues or error, please ask community.
   - **Make sure to backup your wallet.dat to the multiple locations first!**
   - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
   - Windows:
-    - download v.2.0.1.0
+    - download v.2.0.2.1
     - install on top of existing software.
   - Mac:
-    - download the v.2.0.1.0 dmg file
+    - download the v.2.0.2.1 dmg file
     - double click the .dmg file or click the dmg file from the browser download is completed
     - when the new Finder opens up with HTMLCOIN app, drag new wallet to Application folder
     - when prompted to replace, click `replace`
@@ -462,7 +462,7 @@
       ```
         rjoo@htmlcoin-miner:~/HTMLCOIN$ src/htmlcoin-cli getinfo
         {
-          "version": 2000100,
+          "version": 2000201,
           "protocolversion": 70002,
           "walletversion": 130000,
           "balance": 0.00000000,
@@ -485,42 +485,6 @@
         }
         rjoo@htmlcoin-miner:~/HTMLCOIN$
       ```
-
-
-
-### How do I update to 2.0.0.4?
-  - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
-  - **Make sure to backup your wallet.dat to the multiple locations first!**
-  - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-  - Windows:
-    - install on top of existing software.
-  - Mac:
-    - double click the .dmg file and drag new wallet to Application folder
-    - when prompted to replace, click `replace`
-  - Linux: (untested and confirmed from other members)
-    - cd to HTMLCOIN folder
-    - git pull
-    - follow the README instruction again to make file.
-      - `./autogen.sh`
-      - `./configure`
-      - `make -j2`
-
-### How do I update to 2.0.0.3?
-  - I wrote this without testing any and simply based on my previous update to v.2.0.0.2.  If you fnd any issues or error, please let me know.
-  - **Make sure to backup your wallet.dat to the multiple locations first!**
-  - download correct file from the site [click this](https://github.com/HTMLCOIN/HTMLCOIN/releases)
-  - Windows:
-    - install on top of existing software.
-  - Mac:
-    - double click the .dmg file and drag new wallet to Application folder
-    - when prompted to replace, click `replace`
-  - Linux: (untested and confirmed from other members)
-    - cd to HTMLCOIN folder
-    - git pull
-    - follow the README instruction again to make file.
-      - `./autogen.sh`
-      - `./configure`
-      - `make -j2`
 
 ### My wallet is not synchronizing! Stuck with 0 connections and nothing works. What should I do?
   - John R (bonchien), [Jan 5, 2018 at 10:04:15 AM]:
