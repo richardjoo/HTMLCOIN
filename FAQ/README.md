@@ -753,6 +753,9 @@
 
 
 ## MINING
+### How to do GPU mining
+  * https://github.com/sunk818/htmlmining
+
 ### HTML Foundation Official youtube video
   * 02 : Getting Started HTMLCOIN v2 : Generating Blocks
     - https://www.youtube.com/watch?v=xCcNfFRkDEA
